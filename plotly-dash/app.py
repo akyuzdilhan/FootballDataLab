@@ -10,7 +10,10 @@ df_team_missed_games = pd.read_csv('../datasets/missed_games_by_club.csv')
 df_player_stats = pd.read_csv('../datasets/player_stats_FBref.csv')
 df_MLS23_table = pd.read_csv('../datasets/MLS_23_table.csv')
 df_MLS23_table['logo'] = df_MLS23_table['Logo path'].str.replace('datasets/', 'assets/')
-df_MLS23_table['Team'] = df_MLS23_table.apply(lambda x: f"<img src='{x['logo']}' style='height:25px; width:25px; margin-right: 5px; margin-left: 5px;'/> {x['Team']}", axis=1)
+df_MLS23_table['Team'] = df_MLS23_table.apply(lambda x: f"<img src='{x['logo']}' style='height:22px; width:22px; margin-right: 5px; margin-left: 5px;'/> {x['Team']}", axis=1)
+
+df_MLS23_table['GD'] = df_MLS23_table['GD'].replace({'−': '-'}, regex=True)
+df_MLS23_table['GD'] = pd.to_numeric(df_MLS23_table['GD']) # TODO change in Data preparation file
 
 column_order = ["Pos", "Team", "Pld", "W", "L", "T", "GF", "GA", "GD", "Pts", "SalaryGuaranteed ($)"]
 df_MLS23_table = df_MLS23_table[column_order]
@@ -19,7 +22,7 @@ app = dash.Dash(__name__, suppress_callback_exceptions=True, title='Football Dat
 
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
-    html.Div([  # Header
+    html.Div([
         dcc.Link("Football Data Lab", href='/', className='link', style={'fontSize': '24px', 'color': '#000'}),
         dcc.Link("MLS 2023", href='/', className='link', style={'textAlign': 'center', 'flex': '1', 'fontSize': '24px', 'color': '#000'}),
         html.Div([
@@ -55,6 +58,22 @@ def display_page(pathname):
                 sort_mode="single",
                 sort_by=[{'column_id': 'Pos', 'direction': 'asc'}],
                 markdown_options={'html': True},
+                style_data_conditional=[
+                    {
+                        'if': {
+                            'filter_query': '{GD} < 0',
+                            'column_id': 'GD'
+                        },
+                        'color': 'red',
+                    },
+                    {
+                        'if': {
+                            'filter_query': '{GD} >= 0',
+                            'column_id': 'GD'
+                        },
+                        'color': 'green',
+                    },
+                ],
                 tooltip_header={
                     'Pld': 'Played',
                     'W': 'Wins',
@@ -68,12 +87,15 @@ def display_page(pathname):
                 },
                 style_cell={
                     'textAlign': 'center',
-                    'borderLeft': '0px'
+                    'borderLeft': '0px',
+                    'padding': '0px',  
+                    'whiteSpace': 'normal'
                 },
                 style_header={
                     'backgroundColor': '#F8F5F0',
                     'fontWeight': 'bold',
-                    'border': '0px'
+                    'border': '0px',
+                    'padding': '0px'
                 }
             )
         ], className='data-table-container')

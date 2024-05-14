@@ -42,7 +42,44 @@ body > div {
 }
 
 .data-table-container img {
+    height: 20px;
+    width: 20px;
     vertical-align: middle;
-    margin-right: 10px;
+    margin: 0 5px;
 }
 
+.data-table-container .dash-cell {
+    padding: 3px !important;
+    height: auto !important;
+    line-height: normal !important;
+}
+
+.data-table-container .dash-cell p {
+    margin: 0 !important;
+    font-size: 17px !important;
+}
+
+
+.data-table-container .dash-header {
+    font-size: 17px !important;
+    font-weight: bold;
+}
+
+.data-table-container .dash-cell {
+    font-size: 16px !important;
+}
+
+.dash-table-container .dash-table-inner {
+    width: 100%;
+}
+
+.dash-table-container .dash-table-inner .dash-fixed-content {
+    max-width: none !important;
+    min-width: none !important;
+}
+
+.dash-table-container .dash-table-inner .dash-cell,
+.dash-table-container .dash-table-inner .dash-header {
+    min-width: 80px;
+    max-width: 120px;
+}
