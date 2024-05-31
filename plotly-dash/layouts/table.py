@@ -1,18 +1,12 @@
 from dash import html, dash_table, dcc
+from common.utils import encode_image
+
 import pandas as pd
 import plotly.graph_objects as go
-import base64
 
-# Load dataset
 df_MLS23_table = pd.read_csv('../datasets/MLS_23_table.csv')
 df_team_expenses = pd.read_csv('../datasets/MLS_team_colors.csv')
 
-# Encode images in base64
-def encode_image(image_file):
-    encoded = base64.b64encode(open(image_file, 'rb').read())
-    return 'data:image/png;base64,{}'.format(encoded.decode())
-
-# Table params
 df_MLS23_table['logo'] = df_MLS23_table['Logo path'].str.replace('datasets/', 'assets/')
 df_MLS23_table['Team'] = df_MLS23_table.apply(lambda x: f"<img src='{x['logo']}' style='height:22px; width:22px; margin-right: 5px; margin-left: 5px;'/> {x['Team']}", axis=1)
 df_MLS23_table['GD'] = df_MLS23_table['GD'].replace({'−': '-'}, regex=True)
@@ -22,7 +16,6 @@ df_MLS23_table['Salary'] = df_MLS23_table['SalaryGuaranteed ($)'].apply(lambda x
 column_order = ["Pos", "Team", "Pld", "W", "L", "T", "GF", "GA", "GD", "Pts", "Salary"]
 df_MLS23_table_display = df_MLS23_table[column_order]
 
-# 'Salary vs Position' params
 df_MLS23_table['EncodedLogo'] = df_MLS23_table['logo'].apply(encode_image)
 
 def get_columns(dataframe):
@@ -68,7 +61,6 @@ def team_salaries(df):
 def salary_vs_position(df):
     fig = go.Figure()
 
-    # Scatter plot with invisible markers
     fig.add_trace(go.Scatter(
         x=df['Pos'],
         y=df['SalaryGuaranteed ($)'],
@@ -77,7 +69,6 @@ def salary_vs_position(df):
         hoverinfo='skip'
     ))
 
-    # Images as layout images
     for i, row in df.iterrows():
         fig.add_layout_image(
             dict(
