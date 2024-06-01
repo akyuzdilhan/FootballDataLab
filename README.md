@@ -36,5 +36,4 @@ Favorite football websites.
 
 Books
 * [Football Hackers](https://www.amazon.co.uk/Football-Hackers-Science-Data-Revolution/dp/1788702050/ref=pd_sbs_d_sccl_3_4/261-0484870-1509713?pd_rd_w=zegIA&content-id=amzn1.sym.f5d177b3-9290-4c61-8b0e-06b08cdd933f&pf_rd_p=f5d177b3-9290-4c61-8b0e-06b08cdd933f&pf_rd_r=D8Z462B9TWYD8DH22CF1&pd_rd_wg=xoclF&pd_rd_r=39985e64-a1f1-45fa-9e4b-c44a62e74f0f&pd_rd_i=1788702050&psc=1) - Christoph Biermann
-
-*[The Expected Goals Philosophy](https://www.amazon.co.uk/Expected-Goals-Philosophy-Game-Changing-Analysing/dp/1089883188/ref=pd_bxgy_d_sccl_1/261-0484870-1509713?pd_rd_w=PZV6s&content-id=amzn1.sym.46f507f3-7fc1-4bf4-9492-ed026d6e4f68&pf_rd_p=46f507f3-7fc1-4bf4-9492-ed026d6e4f68&pf_rd_r=XZ3HRXNXVH5T6MHA732W&pd_rd_wg=VauYX&pd_rd_r=e250d966-929b-4644-ae52-8daf1f1df9de&pd_rd_i=1089883188&psc=1) - James Tippett
+* [The Expected Goals Philosophy](https://www.amazon.co.uk/Expected-Goals-Philosophy-Game-Changing-Analysing/dp/1089883188/ref=pd_bxgy_d_sccl_1/261-0484870-1509713?pd_rd_w=PZV6s&content-id=amzn1.sym.46f507f3-7fc1-4bf4-9492-ed026d6e4f68&pf_rd_p=46f507f3-7fc1-4bf4-9492-ed026d6e4f68&pf_rd_r=XZ3HRXNXVH5T6MHA732W&pd_rd_wg=VauYX&pd_rd_r=e250d966-929b-4644-ae52-8daf1f1df9de&pd_rd_i=1089883188&psc=1) - James Tippett
