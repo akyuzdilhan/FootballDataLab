@@ -10,8 +10,7 @@ Passionate about Data Science and Football, I am interested in exploring and con
 
 Contributors names and contact info
 
-Dilhan AKYUZ  
-ex. [@akyuzdilhan](https://www.linkedin.com/in/dilhan-akyuz/)
+Dilhan AKYUZ : [@akyuzdilhan](https://www.linkedin.com/in/dilhan-akyuz/)
 
 ## License
 
