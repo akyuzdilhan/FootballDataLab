@@ -35,8 +35,11 @@ The application will be available at http://127.0.0.1:8050/.
 
 ## Screenshots
 
+Table page :
+![Table](screenshots/ploty-table1.png)
 ![Table](screenshots/ploty-table2.png)
-![Table](screenshots/ploty-table2.png)
+
+Team Analysis page :
 ![Team Analysis](screenshots/ploty-team-analysis1.png)
 ![Team Analysis](screenshots/ploty-team-analysis2.png)
 
