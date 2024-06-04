@@ -188,6 +188,60 @@ body > div {
     background-color: #e0d0b0;
 }
 
+/* Global Stats Header */
+.global-stats-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f8f5f0;
+    padding: 20px 40px;
+    border-radius: 20px;
+    color: black;
+}
+
+.league-info {
+    display: flex;
+    align-items: center;
+}
+
+.league-logo {
+    height: 60px;
+    margin-right: 20px;
+}
+
+.league-name {
+    font-size: 2em;
+    margin: 0;
+}
+
+.season {
+    font-size: 1em;
+    margin: 0;
+    color: black;
+}
+
+.global-stats-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.global-stat {
+    text-align: center;
+    margin: 0 10px;
+}
+
+.global-stat-value {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.global-stat-label {
+    font-size: 0.9em;
+    color: black;
+    margin: 0;
+}
+
 /* callbacks table */
 .full-list-card {
     background-color: #f8f5f0;

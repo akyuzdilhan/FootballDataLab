@@ -5,18 +5,6 @@ import pandas as pd
 import plotly.graph_objects as go
 
 df_MLS23_table = pd.read_csv('../datasets/MLS_23_table.csv')
-df_team_expenses = pd.read_csv('../datasets/MLS_team_colors.csv')
-
-df_MLS23_table['logo'] = df_MLS23_table['Logo path'].str.replace('datasets/', 'assets/')
-df_MLS23_table['Team'] = df_MLS23_table.apply(lambda x: f"<img src='{x['logo']}' style='height:22px; width:22px; margin-right: 5px; margin-left: 5px;'/> {x['Team']}", axis=1)
-df_MLS23_table['GD'] = df_MLS23_table['GD'].replace({'−': '-'}, regex=True)
-df_MLS23_table['GD'] = pd.to_numeric(df_MLS23_table['GD'])
-df_MLS23_table['Salary'] = df_MLS23_table['SalaryGuaranteed ($)'].apply(lambda x: f"${x:,.0f}")
-
-column_order = ["Pos", "Team", "Pld", "W", "L", "T", "GF", "GA", "GD", "Pts", "Salary"]
-df_MLS23_table_display = df_MLS23_table[column_order]
-
-df_MLS23_table['EncodedLogo'] = df_MLS23_table['logo'].apply(encode_image)
 
 def get_columns(dataframe):
     columns = []
@@ -58,6 +46,19 @@ def team_salaries(df):
 
     return fig
 
+fig_team_salaries = team_salaries(df_MLS23_table)
+
+df_MLS23_table['logo'] = df_MLS23_table['Logo path'].str.replace('datasets/', 'assets/')
+df_MLS23_table['Team'] = df_MLS23_table.apply(lambda x: f"<img src='{x['logo']}' style='height:22px; width:22px; margin-right: 5px; margin-left: 5px;'/> {x['Team']}", axis=1)
+df_MLS23_table['GD'] = df_MLS23_table['GD'].replace({'−': '-'}, regex=True) # TODO delete and modify from the 'DataPreparation' file
+df_MLS23_table['GD'] = pd.to_numeric(df_MLS23_table['GD']) # TODO delete and modify from the 'DataPreparation' file
+df_MLS23_table['Salary'] = df_MLS23_table['SalaryGuaranteed ($)'].apply(lambda x: f"${x:,.0f}")
+
+column_order = ["Pos", "Team", "Pld", "W", "L", "T", "GF", "GA", "GD", "Pts", "Salary"]
+df_MLS23_table_display = df_MLS23_table[column_order]
+
+df_MLS23_table['EncodedLogo'] = df_MLS23_table['logo'].apply(encode_image)
+
 def salary_vs_position(df):
     fig = go.Figure()
 
@@ -98,7 +99,6 @@ def salary_vs_position(df):
 
     return fig
 
-fig_team_salaries = team_salaries(df_team_expenses)
 fig_salary_vs_position = salary_vs_position(df_MLS23_table)
 
 layout = html.Div([

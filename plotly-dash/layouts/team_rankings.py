@@ -5,6 +5,15 @@ from common.utils import metrics, encode_image
 
 df_team_stats = pd.read_csv('../datasets/squad_stats_FBref.csv')
 
+# TODO Temporary, before calculating and displaying real values 
+global_stats = {
+    "Goals per match": 9.99,
+    "Number of players having played": 999,
+    "Average age": 99.9,
+    "Match missed by the players": 999,
+    "Minutes played by U21 (%)": 9.9
+}
+
 df_team_stats['logo'] = df_team_stats['Logo path'].str.replace('datasets/', 'assets/')
 df_team_stats['EncodedLogo'] = df_team_stats['logo'].apply(encode_image)
 
@@ -45,8 +54,24 @@ def create_stat_card(metric, index):
 
     return html.Div(card_content, className='stat-card')
 
+global_stats_layout = html.Div([
+    html.Div([
+        html.Img(src='assets/MLS.png', className='league-logo'),
+        html.Div([
+            html.H2("MLS", className='league-name'),
+            html.P("2023 Season", className='season')
+        ], className='league-details')
+    ], className='league-info'),
+    html.Div([
+        html.Div([
+            html.H3(f"{value}", className='global-stat-value'),
+            html.P(f"{key}", className='global-stat-label')
+        ], className='global-stat') for key, value in global_stats.items()
+    ], className='global-stats-container')
+], className='global-stats-header')
+
 layout = html.Div([
-    # TODO Add a general presentation header for the statistics of the championship presented
+    global_stats_layout,
     html.Div(id='full-list-container', style={'paddingTop': '20px'}),
     html.Div([
         create_stat_card(metric, index)
