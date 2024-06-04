@@ -82,3 +82,122 @@ body > div {
     min-width: 80px;
     max-width: 120px;
 }
+
+/* team_ranking */
+.stat-cards-wrapper {
+    padding: 20px 100px;
+}
+
+.stat-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.stat-card {
+    background-color: #f8f5f0;
+    padding: 20px;
+    border-radius: 40px;
+    width: 32%;
+    margin-bottom: 20px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease;
+}
+
+.metric-label {
+    margin: 0;
+    font-size: 1.5em;
+    color: black;
+    font-weight: bold;
+}
+
+.metric-label-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-content {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.top-team-row {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 1.1em;
+}
+
+.other-team-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 0;
+    border-top: 1px solid #ddd;
+}
+
+.top-team-name {
+    flex: 1;
+}
+
+.other-team-name {
+    flex: 1;
+}
+
+.top-team-logo {
+    flex: 0 0 40px;
+    height: 60px;
+    margin: 10px 0;
+}
+
+.other-team-logo {
+    flex: 0 0 25px;
+    height: 25px;
+    margin-left: 20px;
+}
+
+.top-team-value {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+.other-team-value {
+    flex: 0 0 auto;
+}
+
+.view-full-list-button {
+    display: block;
+    width: 90%;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f1e5d0;
+    color: black;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    text-align: center;
+    font-weight: bold;
+}
+
+.view-full-list-button:hover {
+    background-color: #e0d0b0;
+}
+
+/* callbacks table */
+.full-list-card {
+    background-color: #f8f5f0;
+    padding: 20px 50px;
+    border-radius: 40px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    margin-bottom: 20px;
+}
+
+.full-list-other-team-value {
+    flex: 0 0 auto;
+    padding-right: 70px;
+}

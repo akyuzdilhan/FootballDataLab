@@ -28,6 +28,8 @@
 
 - [ ] Corrected the error on the overall MLS standings with FC Cincinnati and Colorado Rapids, etc.
 
+- [ ] Changed the value of “GD” for “Goal Difference” to numeric.
+
 - [ ] Delete duplicate columns.
 
 - [ ] Import data from previous seasons to improve training for future algorithms.

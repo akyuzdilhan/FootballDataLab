@@ -5,6 +5,7 @@ from dash import html, dcc
 from dash.dependencies import Input, Output
 from layouts import home, table, team_analysis, player_analysis, team_rankings, player_rankings
 from callbacks.team_analysis_callbacks import register_callbacks
+from callbacks.team_rankings_callbacks import register_team_rankings_callbacks
 from common.utils import encode_image
 
 EXTERNAL_STYLESHEETS = [dbc.themes.BOOTSTRAP]
@@ -33,6 +34,7 @@ app.layout = html.Div([
 ], id='wrapper')
     
 register_callbacks(app, df_team_stats)
+register_team_rankings_callbacks(app, df_team_stats)
 
 @app.callback(
     Output('page-content', 'children'),
