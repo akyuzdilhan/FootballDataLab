@@ -14,7 +14,7 @@
   - Addition of statistics accompanied by plot_pitch.
   - Utilize heatmaps, ... to represent team performance spatially on the pitch.
 
-- [ ] **'Team Rankings' Page**
+- [x] **'Team Rankings' Page**
   - Table of individual statistics to pick out the best teams for each statistic.
 
 - [ ] **'Player Analysis' Page**
@@ -26,9 +26,9 @@
 
 #### Data Preparation
 
-- [ ] Corrected the error on the overall MLS standings with FC Cincinnati and Colorado Rapids, etc.
+- [x] Corrected the error on the overall MLS standings with FC Cincinnati and Colorado Rapids, etc.
 
-- [ ] Changed the value of “GD” for “Goal Difference” to numeric.
+- [x] Changed the value of “GD” for “Goal Difference” to numeric.
 
 - [ ] Delete duplicate columns.
 

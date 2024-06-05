@@ -50,8 +50,7 @@ fig_team_salaries = team_salaries(df_MLS23_table)
 
 df_MLS23_table['logo'] = df_MLS23_table['Logo path'].str.replace('datasets/', 'assets/')
 df_MLS23_table['Team'] = df_MLS23_table.apply(lambda x: f"<img src='{x['logo']}' style='height:22px; width:22px; margin-right: 5px; margin-left: 5px;'/> {x['Team']}", axis=1)
-df_MLS23_table['GD'] = df_MLS23_table['GD'].replace({'−': '-'}, regex=True) # TODO delete and modify from the 'DataPreparation' file
-df_MLS23_table['GD'] = pd.to_numeric(df_MLS23_table['GD']) # TODO delete and modify from the 'DataPreparation' file
+
 df_MLS23_table['Salary'] = df_MLS23_table['SalaryGuaranteed ($)'].apply(lambda x: f"${x:,.0f}")
 
 column_order = ["Pos", "Team", "Pld", "W", "L", "T", "GF", "GA", "GD", "Pts", "Salary"]

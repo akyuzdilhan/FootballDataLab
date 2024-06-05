@@ -16,6 +16,9 @@ metrics = [
     {'label': 'Non-Penalty xG', 'value': 'npxG', 'color': '#7cfc00', 'ascending': False},
     {'label': 'Progressive Carries', 'value': 'PrgC', 'color': '#00ced1', 'ascending': False},
     {'label': 'Progressive Passes', 'value': 'PrgP', 'color': '#4682b4', 'ascending': False},
+    {'label': 'Number of games missed by players', 'value': 'total_missed_games', 'color': '#585857', 'ascending': True},
+    {'label': 'Number of players missing at least one game', 'value': 'unique_players_missing', 'color': '#57472d', 'ascending': True},
+    {'label': 'Number of games missed by  opponent players', 'value': 'total_missed_games_by_opponent', 'color': '#c08321', 'ascending': False},
 ]
 
 def encode_image(image_file):

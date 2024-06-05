@@ -3,15 +3,20 @@ import pandas as pd
 from dash import dcc
 from common.utils import metrics, encode_image
 
-df_team_stats = pd.read_csv('../datasets/squad_stats_FBref.csv')
+df_team_stats = pd.read_csv('../datasets/stats_mls.csv')
 
-# TODO Temporary, before calculating and displaying real values 
+goals_per_match = df_team_stats['GF'].sum() / df_team_stats['MP'].sum()
+number_of_players = df_team_stats['# Pl'].sum()
+average_age = df_team_stats['Age'].mean()
+matches_missed_by_players = df_team_stats['total_missed_games'].sum()
+number_of_red_cards = df_team_stats['CrdR'].sum()
+
 global_stats = {
-    "Goals per match": 9.99,
-    "Number of players having played": 999,
-    "Average age": 99.9,
-    "Match missed by the players": 999,
-    "Minutes played by U21 (%)": 9.9
+    "Goals per match": round(goals_per_match, 2),
+    "Number of players having played": int(number_of_players),
+    "Average age": round(average_age, 1),
+    "Match missed by the players": int(matches_missed_by_players),
+    "Number of red cards": number_of_red_cards
 }
 
 df_team_stats['logo'] = df_team_stats['Logo path'].str.replace('datasets/', 'assets/')
