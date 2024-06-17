@@ -30,6 +30,8 @@
 
 - [x] Changed the value of “GD” for “Goal Difference” to numeric.
 
+- [ ] Scraping images of the 2023 MLS season roster from [transfermarkt](https://www.transfermarkt.com/major-league-soccer/startseite/wettbewerb/MLS1/plus/?saison_id=2022), or [mlssoccer site](https://www.mlssoccer.com/stats/players/#season=2023&competition=mls-regular-season&club=all&statType=general&position=all).
+
 - [ ] Delete duplicate columns.
 
 - [ ] Import data from previous seasons to improve training for future algorithms.
@@ -46,7 +48,9 @@
 
 - [ ] Statistical tracking of MLS 2023 season data projected on a [pitch](https://mplsoccer.readthedocs.io/en/latest/gallery/pitch_setup/plot_pitches.html) from the [mplsoccer](https://mplsoccer.readthedocs.io/en/latest/) library.
 
-- [ ] Import and analysis of StatsBomb data for the Inter Miami vs Toronto FC match of the 2023 season.
+- [ ] Import and analysis of [StatsBomb](https://statsbomb.com/) data for the Inter Miami vs Toronto FC match of the 2023 season.
+
+- [ ] Find and Analysis of StatsBomb data with [360 data snapshots](https://statsbomb.com/what-we-do/soccer-data/360-2/).
 
 - [ ] Add event-based analysis to get granular insights into the match.
 
