@@ -4,8 +4,12 @@
 
 #### Plotly Dash
 
+- [ ] Add a loading component for each page.
+
+- [ ] Graph identical to the [documentation exemple](https://dash.plotly.com/dash-core-components/store#share-data-between-callbacks), to compare temporal statistics, such as the evolution of various statistics in different seasons.
+
 - [ ] **Home Page**
-  - Add welcome content by presenting the purpose of the application and evoking the highlights and statistics of the championship (winner, biggest surprise, biggest disappointment, etc.)
+  - Add welcome content by presenting the purpose of the application and evoking the highlights and statistics of the championship (winner, biggest surprise, biggest disappointment, etc.).
 
 - [ ] **'Table' Page**
   - Improved design and layout. East and West classification added.
@@ -23,6 +27,7 @@
 - [ ] **'Player Rankings' Page**
   - Table of individual statistics to pick out the best players for each statistic.
   - Metrics and visualizations to highlight player strengths and weaknesses.
+  - Add the following functions to the table: [Stars for an overall player rating](https://dash.plotly.com/datatable/conditional-formatting#special-characters-like-emojis,-stars,-checkmarks,-circles), [Sorting](https://dash.plotly.com/datatable/interactivity), [Link to player profile](https://dash.plotly.com/dash-ag-grid/cell-renderer-components)
 
 #### Data Preparation
 
@@ -44,13 +49,13 @@
 
 - [ ] Add data provided by the [itscalledsoccer](https://american-soccer-analysis.github.io/itscalledsoccer/) library from the 2023 season and integrate new functionalities into the Plotly Dash application.
 
-- [ ] Add player photos to datasets.
+- [x] Add players photo to datasets.
 
-- [ ] Statistical tracking of MLS 2023 season data projected on a [pitch](https://mplsoccer.readthedocs.io/en/latest/gallery/pitch_setup/plot_pitches.html) from the [mplsoccer](https://mplsoccer.readthedocs.io/en/latest/) library.
+- [x] Statistical tracking of MLS 2023 season data projected on a [pitch](https://mplsoccer.readthedocs.io/en/latest/gallery/pitch_setup/plot_pitches.html) from the [mplsoccer](https://mplsoccer.readthedocs.io/en/latest/) library.
 
 - [x] Import and analysis of [StatsBomb](https://statsbomb.com/) data for the Inter Miami vs Toronto FC match of the 2023 season.
 
-- [ ] Find and Analysis of StatsBomb data with [360 data snapshots](https://statsbomb.com/what-we-do/soccer-data/360-2/).
+- [ ] Find and Analysis of StatsBomb data with [360 data snapshots](https://statsbomb.com/what-we-do/soccer-data/360-2/) to perform advanced data analysis, as in the [video example](https://www.youtube.com/watch?v=tB_N7ei70mY).
 
 - [ ] Add event-based analysis to get granular insights into the match.
 

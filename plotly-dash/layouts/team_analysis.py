@@ -1,7 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
-import dash_daq as daq
 
 from common.utils import metrics
 from mplsoccer import Radar, FontManager, grid
@@ -149,7 +148,7 @@ def plot_distribution(df, metric1=None, metric2=None, selected_teams=None):
             x=df['Team'],
             y=df[metric1],
             marker_color=metric1_color,
-            hovertemplate='%{text}: %{y}<extra></extra>'
+            hovertemplate='%{x}: %{y}<extra></extra>'
         ))
     if metric2:
         metric2_label, metric2_color = get_metric_label_and_color(metric2)
@@ -158,7 +157,7 @@ def plot_distribution(df, metric1=None, metric2=None, selected_teams=None):
             x=df['Team'],
             y=df[metric2],
             marker_color=metric2_color,
-            hovertemplate='%{text}: %{y}<extra></extra>'
+            hovertemplate='%{x}: %{y}<extra></extra>'
         ))
 
     for team in tickvals:

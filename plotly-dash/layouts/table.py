@@ -151,7 +151,6 @@ layout = html.Div([
             style_header={
                 'backgroundColor': '#F8F5F0',
                 'fontWeight': 'bold',
-                'border': '0px',
                 'padding': '5px',
                 'fontSize': '18px'
             },
