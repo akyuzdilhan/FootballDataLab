@@ -1,30 +1,30 @@
-Team,SalaryGuaranteed ($),Logo path,Pos,Pld,W,L,T,GF,GA,GD,Pts,MainColor,SecondaryColor
-Inter Miami CF,39419071.0,datasets/Teamslogo/Inter Miami C.F..png,27,34,9,18,7,41,54,-13,34,#231F20,#F7B5CD
-Toronto FC,31672886.0,datasets/Teamslogo/Toronto FC.png,29,34,4,20,10,26,59,-33,22,#AB1E2D,#3f4743
-LA Galaxy,25038692.0,datasets/Teamslogo/LA Galaxy.png,26,34,8,14,12,51,67,-16,36,#00245d,#ffd200
-Los Angeles FC,20841863.0,datasets/Teamslogo/LAFC.png,8,34,14,10,10,54,39,15,52,#000000,#C39e6d
-Chicago Fire,20415828.0,datasets/Teamslogo/Chicago Fire.png,24,34,10,14,10,39,51,-12,40,#121F48,#B3272D
-Atlanta United,19847184.0,datasets/Teamslogo/Atlanta United FC.png,10,34,13,9,12,66,53,13,51,#80000A,#A19060
-Seattle Sounders FC,19185352.0,datasets/Teamslogo/Seattle Sounders FC.png,7,34,14,9,11,41,32,9,53,#236192,#658D1B
-Austin FC,19038551.0,datasets/Teamslogo/Austin FC.png,25,34,10,15,9,49,55,-6,39,#000000,#00b140
-Houston Dynamo,17459127.0,datasets/Teamslogo/Houston Dynamo.png,9,34,14,11,9,51,38,13,51,#F68712,#8DC6ED
-D.C. United,17302163.0,datasets/Teamslogo/FC Cincinnati.png,23,34,10,14,10,45,49,-4,40,#ee1a39,#231f20
-New England Revolution,17013587.0,datasets/Teamslogo/New England Revolution.png,6,34,15,9,10,58,46,12,55,#E51938,#002B5C
-Nashville SC,16990388.0,datasets/Teamslogo/Nashville SC.png,12,34,13,11,10,39,32,7,49,#ECE83A,#1F1646
-Portland Timbers,16215874.0,datasets/Teamslogo/Portland Timbers.png,18,34,11,13,10,46,58,-12,43,#004812,#EAE827
-Columbus Crew SC,15313747.0,datasets/Teamslogo/D.C. United.png,3,34,16,9,9,67,46,21,57,#231f20,#FEF200
-Sporting Kansas City,14979335.0,datasets/Teamslogo/Sporting Kansas City.png,15,34,12,14,8,48,51,-3,44,#002A5C,#93B1D7
-New York City FC,14965285.0,datasets/Teamslogo/New York City FC.png,22,34,9,11,14,35,39,-4,41,#041e42,#6CACE4
-FC Dallas,14711587.0,datasets/Teamslogo/FC Dallas.png,14,34,11,10,13,41,37,4,46,#BF0D3E,#00205B
-San Jose Earthquakes,14600008.0,datasets/Teamslogo/San Jose Earthquakes.png,16,34,10,10,14,39,43,-4,44,#1f1f1f,#30457a
-Minnesota United FC,14569690.0,datasets/Teamslogo/Minnesota United FC.png,21,34,10,13,11,46,51,-5,41,#585958,#9bcde4
-Colorado Rapids,14496437.0,datasets/Teamslogo/Columbus Crew SC.png,28,34,5,17,12,26,54,-28,27,#862633,#8BB8E8
-Cincinnati FC,14348728.0,datasets/Teamslogo/Colorado Rapids.png,1,34,20,5,9,57,39,18,69,#003087,#FE5000
-Real Salt Lake,14285938.0,datasets/Teamslogo/Real Salt Lake.png,11,34,14,12,8,48,50,-2,50,#B30838,#013A81
-Charlotte FC,13889425.0,datasets/Teamslogo/Charlotte FC.png,19,34,10,11,13,45,52,-7,43,#000000,#1A85C8
-Vancouver Whitecaps FC,13626865.0,datasets/Teamslogo/Vancouver Whitecaps FC.png,13,34,12,10,12,55,48,7,48,#04265c,#94C2E4
-Philadelphia Union,13419282.0,datasets/Teamslogo/Philadelphia Union.png,5,34,15,9,10,57,41,16,55,#002D55,#B38707
-New York Red Bulls,11331027.0,datasets/Teamslogo/New York Red Bulls.png,17,34,11,13,10,36,39,-3,43,#002f65,#e31351
-St. Louis City SC,11186787.0,datasets/Teamslogo/St Louis City SC.png,4,34,17,12,5,62,45,17,56,#E0004D,#0C2340
-Montreal Impact,10920537.0,datasets/Teamslogo/Club de Foot Montreal.png,20,34,12,17,5,36,52,-16,41,#2B63AD,#373536
-Orlando City SC,9642918.0,datasets/Teamslogo/Orlando City SC.png,2,34,18,7,9,55,39,16,63,#61259E,#FFE293
+Team,SalaryGuaranteed ($),Pos,Pld,W,L,T,GF,GA,GD,Pts,MainColor,SecondaryColor,Logo path
+Inter Miami C.F.,39419071.0,27,34,9,18,7,41,54,-13,34,#231F20,#F7B5CD,datasets/Teamslogo/Inter Miami C.F..png
+Toronto FC,31672886.0,29,34,4,20,10,26,59,-33,22,#AB1E2D,#3f4743,datasets/Teamslogo/Toronto FC.png
+LA Galaxy,25038692.0,26,34,8,14,12,51,67,-16,36,#00245d,#ffd200,datasets/Teamslogo/LA Galaxy.png
+LAFC,20841863.0,8,34,14,10,10,54,39,15,52,#000000,#C39e6d,datasets/Teamslogo/LAFC.png
+Chicago Fire,20415828.0,24,34,10,14,10,39,51,-12,40,#121F48,#B3272D,datasets/Teamslogo/Chicago Fire.png
+Atlanta United FC,19847184.0,10,34,13,9,12,66,53,13,51,#80000A,#A19060,datasets/Teamslogo/Atlanta United FC.png
+Seattle Sounders FC,19185352.0,7,34,14,9,11,41,32,9,53,#236192,#658D1B,datasets/Teamslogo/Seattle Sounders FC.png
+Austin FC,19038551.0,25,34,10,15,9,49,55,-6,39,#000000,#00b140,datasets/Teamslogo/Austin FC.png
+Houston Dynamo,17459127.0,9,34,14,11,9,51,38,13,51,#F68712,#8DC6ED,datasets/Teamslogo/Houston Dynamo.png
+FC Cincinnati,17302163.0,23,34,10,14,10,45,49,-4,40,#ee1a39,#231f20,datasets/Teamslogo/FC Cincinnati.png
+New England Revolution,17013587.0,6,34,15,9,10,58,46,12,55,#E51938,#002B5C,datasets/Teamslogo/New England Revolution.png
+Nashville SC,16990388.0,12,34,13,11,10,39,32,7,49,#ECE83A,#1F1646,datasets/Teamslogo/Nashville SC.png
+Portland Timbers,16215874.0,18,34,11,13,10,46,58,-12,43,#004812,#EAE827,datasets/Teamslogo/Portland Timbers.png
+D.C. United,15313747.0,3,34,16,9,9,67,46,21,57,#231f20,#FEF200,datasets/Teamslogo/D.C. United.png
+Sporting Kansas City,14979335.0,15,34,12,14,8,48,51,-3,44,#002A5C,#93B1D7,datasets/Teamslogo/Sporting Kansas City.png
+New York City FC,14965285.0,22,34,9,11,14,35,39,-4,41,#041e42,#6CACE4,datasets/Teamslogo/New York City FC.png
+FC Dallas,14711587.0,14,34,11,10,13,41,37,4,46,#BF0D3E,#00205B,datasets/Teamslogo/FC Dallas.png
+San Jose Earthquakes,14600008.0,16,34,10,10,14,39,43,-4,44,#1f1f1f,#30457a,datasets/Teamslogo/San Jose Earthquakes.png
+Minnesota United FC,14569690.0,21,34,10,13,11,46,51,-5,41,#585958,#9bcde4,datasets/Teamslogo/Minnesota United FC.png
+Columbus Crew SC,14496437.0,28,34,5,17,12,26,54,-28,27,#862633,#8BB8E8,datasets/Teamslogo/Columbus Crew SC.png
+Colorado Rapids,14348728.0,1,34,20,5,9,57,39,18,69,#003087,#FE5000,datasets/Teamslogo/Colorado Rapids.png
+Real Salt Lake,14285938.0,11,34,14,12,8,48,50,-2,50,#B30838,#013A81,datasets/Teamslogo/Real Salt Lake.png
+Charlotte FC,13889425.0,19,34,10,11,13,45,52,-7,43,#000000,#1A85C8,datasets/Teamslogo/Charlotte FC.png
+Vancouver Whitecaps FC,13626865.0,13,34,12,10,12,55,48,7,48,#04265c,#94C2E4,datasets/Teamslogo/Vancouver Whitecaps FC.png
+Philadelphia Union,13419282.0,5,34,15,9,10,57,41,16,55,#002D55,#B38707,datasets/Teamslogo/Philadelphia Union.png
+New York Red Bulls,11331027.0,17,34,11,13,10,36,39,-3,43,#002f65,#e31351,datasets/Teamslogo/New York Red Bulls.png
+St Louis City SC,11186787.0,4,34,17,12,5,62,45,17,56,#E0004D,#0C2340,datasets/Teamslogo/St Louis City SC.png
+Montreal Impact,10920537.0,20,34,12,17,5,36,52,-16,41,#2B63AD,#373536,datasets/Teamslogo/CF Montreal.png
+Orlando City SC,9642918.0,2,34,18,7,9,55,39,16,63,#61259E,#FFE293,datasets/Teamslogo/Orlando City SC.png

@@ -1,6 +1,6 @@
 from dash.dependencies import Input, Output, State
 from dash import html, callback_context
-from common.utils import metrics, encode_image
+from common.utils import metrics
 
 def register_team_rankings_callbacks(app, df_team_stats):
     @app.callback(

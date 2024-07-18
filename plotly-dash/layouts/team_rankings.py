@@ -1,6 +1,5 @@
 from dash import html
 import pandas as pd
-from dash import dcc
 from common.utils import metrics, encode_image
 
 df_team_stats = pd.read_csv('../datasets/stats_mls.csv')

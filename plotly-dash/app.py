@@ -6,6 +6,7 @@ from dash.dependencies import Input, Output
 from layouts import home, table, team_analysis, player_analysis, team_rankings, player_rankings
 from callbacks.team_analysis_callbacks import register_callbacks
 from callbacks.team_rankings_callbacks import register_team_rankings_callbacks
+#from callbacks.player_rankings_callbacks import register_player_rankings_callbacks
 from common.utils import encode_image
 
 EXTERNAL_STYLESHEETS = [dbc.themes.BOOTSTRAP]
@@ -14,6 +15,8 @@ APP_TITLE = 'Football Data Lab'
 df_team_stats = pd.read_csv('../datasets/stats_mls.csv')
 df_team_stats['logo'] = df_team_stats['Logo path'].str.replace('datasets/', 'assets/')
 df_team_stats['EncodedLogo'] = df_team_stats['logo'].apply(encode_image)
+
+df_player_stats = pd.read_csv('../datasets/player_stats_FBref.csv')
 
 app = dash.Dash(__name__, suppress_callback_exceptions=True, title=APP_TITLE, external_stylesheets=EXTERNAL_STYLESHEETS)
 
@@ -35,6 +38,7 @@ app.layout = html.Div([
     
 register_callbacks(app, df_team_stats)
 register_team_rankings_callbacks(app, df_team_stats)
+#register_player_rankings_callbacks(app, df_player_stats)
 
 @app.callback(
     Output('page-content', 'children'),
@@ -55,4 +59,4 @@ def display_page(pathname):
         return home.layout
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True) # set 'debug=True' to display errors on the browser or 'False' to hide it

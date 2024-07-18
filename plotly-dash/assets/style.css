@@ -47,38 +47,29 @@ body > div {
 }
 
 .data-table-container img {
-    height: 20px;
-    width: 20px;
+    width: 40%;
     vertical-align: middle;
-    margin: 0 5px;
+    margin: 0px;
 }
 
 .data-table-container .dash-cell {
-    padding: 3px !important;
+    padding: 0px !important;
     height: auto !important;
     line-height: normal !important;
 }
 
 .data-table-container .dash-cell p {
     margin: 0 !important;
-    font-size: 17px !important;
+    font-size: 13px !important;
 }
 
 .data-table-container .dash-header {
-    font-size: 17px !important;
+    font-size: 14px !important;
     font-weight: bold;
 }
 
 .data-table-container .dash-cell {
-    font-size: 16px !important;
-}
-
-.data-table-container .dash-header:last-child {
-    border-right: 1px solid #d3d3d3 !important;
-}
-
-.data-table-container .dash-cell:last-child {
-    border-right: 1px solid #d3d3d3 !important;
+    font-size: 13px !important;
 }
 
 .dash-table-container .dash-table-inner {
@@ -94,6 +85,28 @@ body > div {
 .dash-table-container .dash-table-inner .dash-header {
     min-width: 80px;
     max-width: 120px;
+}
+
+.data-table-container .dash-header:last-child {
+    border-right: 1px solid #d3d3d3 !important;
+}
+
+.data-table-container .dash-cell:last-child {
+    border-right: 1px solid #d3d3d3 !important;
+}
+
+.dash-filter:last-child {
+    border-right: 1px solid #d3d3d3 !important;
+}
+
+input.dash-filter--case {
+    display: none; 
+}
+
+.dash-filter input {
+    font-size: 13px !important;
+    height: 20px !important;
+    padding: 5px !important;
 }
 
 /* team_ranking */

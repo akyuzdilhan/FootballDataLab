@@ -21,9 +21,40 @@ metrics = [
     {'label': 'Number of games missed by  opponent players', 'value': 'total_missed_games_by_opponent', 'color': '#c08321', 'ascending': False},
 ]
 
+player_metrics = [
+    {'label': 'Matches Played', 'value': 'MP', 'ascending': False},
+    {'label': 'Minutes Played', 'value': 'Min', 'ascending': False},
+    {'label': 'Goals', 'value': 'Gls', 'ascending': False},
+    {'label': 'Assists', 'value': 'Ast', 'ascending': False},
+    {'label': 'Goals + Assists', 'value': 'G+A', 'ascending': False},
+    {'label': 'Non-Penalty Goals', 'value': 'G-PK', 'ascending': False},
+    {'label': 'Penalty Goals', 'value': 'PK', 'ascending': False},
+    {'label': 'Penalty Attempted', 'value': 'PKatt', 'ascending': False},
+    {'label': 'Yellow Cards', 'value': 'CrdY', 'ascending': True},
+    {'label': 'Red Cards', 'value': 'CrdR', 'ascending': True},
+    {'label': 'Expected Goals', 'value': 'xG', 'ascending': False},
+    {'label': 'Non-Penalty xG', 'value': 'npxG', 'ascending': False},
+    {'label': 'Expected Assists', 'value': 'xAG', 'ascending': False},
+    {'label': 'npxG + xAG', 'value': 'npxG+xAG', 'ascending': False},
+    {'label': 'Progressive Carries', 'value': 'PrgC', 'ascending': False},
+    {'label': 'Progressive Passes', 'value': 'PrgP', 'ascending': False},
+    {'label': 'Progressive Passes Rec', 'value': 'PrgR', 'ascending': False},
+    {'label': 'Goals per 90\'', 'value': 'Gls/90', 'ascending': False},
+    {'label': 'Assists per 90\'', 'value': 'Ast/90', 'ascending': False},
+    {'label': 'G+A per 90\'', 'value': 'G+A/90', 'ascending': False},
+    {'label': 'G-PK per 90\'', 'value': 'G-PK/90', 'ascending': False},
+    {'label': 'G+A-PK per 90\'', 'value': 'G+A-PK/90', 'ascending': False},
+    {'label': 'xG per 90\'', 'value': 'xG/90', 'ascending': False},
+    {'label': 'xAG per 90\'', 'value': 'xAG/90', 'ascending': False},
+    {'label': 'xG+xAG per 90\'', 'value': 'xG+xAG/90', 'ascending': False},
+    {'label': 'npxG per 90\'', 'value': 'npxG/90', 'ascending': False},
+    {'label': 'npxG+xAG per 90\'', 'value': 'npxG+xAG/90', 'ascending': False},
+]
+
 def encode_image(image_file):
     try:
         encoded = base64.b64encode(open(image_file, 'rb').read())
         return 'data:image/png;base64,{}'.format(encoded.decode())
     except FileNotFoundError:
         return None
+    

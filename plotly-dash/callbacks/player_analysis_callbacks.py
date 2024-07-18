@@ -1,4 +1,1 @@
-# https://dash.plotly.com/datatable/interactivity
-# https://dash.plotly.com/datatable/tooltips
-# https://dash.plotly.com/datatable/editable#modifying-the-data-table-content
-# https://dash.plotly.com/datatable/filtering
+from layouts.player_analysis import get_columns_with_headers
