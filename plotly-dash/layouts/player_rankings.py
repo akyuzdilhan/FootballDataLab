@@ -1,19 +1,22 @@
 from dash import html
 import pandas as pd
+from dash import dcc
 from common.utils import player_metrics, encode_image
 
-# Load player statistics data
 df_player_stats = pd.read_csv('../datasets/player_stats_FBref.csv')
-
-# Calculate global statistics (example: average age)
 average_age = df_player_stats['age'].mean()
 
 global_stats = {
     "Average Age": round(average_age, 1)
-    # Add more global stats as needed
+    # ...
+    # TODO change stats by filters (age, min, team, ect...) and can choose the number of player selected for each table
 }
 
-def create_stat_card(metric, index):
+df_player_stats['logo'] = df_player_stats['Logo path'].str.replace('datasets/', 'assets/')
+df_player_stats['EncodedLogo'] = df_player_stats['logo'].apply(encode_image)
+
+# TODO add params : choose for each table if it's ascending or not
+def create_player_stat_card(metric, index):
     metric_label = metric['label']
     metric_value = metric['value']
     ascending = metric.get('ascending', False)
@@ -21,18 +24,18 @@ def create_stat_card(metric, index):
     sorted_df = df_player_stats.sort_values(by=metric_value, ascending=ascending).reset_index(drop=True)
 
     top_player_row = html.Div([
-        html.Span(f"{sorted_df.loc[0, 'player']}", className='top-player-name'),
-        html.Img(src=encode_image(f"../assets/{sorted_df.loc[0, 'team']}.png"), className='top-player-logo'),
-    ], className='top-player-row')
+        html.Span(f"{sorted_df.loc[0, 'player']}", className='top-team-name'),
+        html.Img(src=sorted_df.loc[0, 'EncodedLogo'], className='top-team-logo'),
+    ], className='top-team-row')
 
-    top_player_value = html.Span(f"{sorted_df.loc[0, metric_value]}", className='top-player-value')
+    top_player_value = html.Span(f"{sorted_df.loc[0, metric_value]}", className='top-team-value')
 
     other_players_rows = [
         html.Div([
-            html.Span(f"{i + 2} {sorted_df.loc[i + 1, 'player']}", className='other-player-name'),
-            html.Span(f"{sorted_df.loc[i + 1, metric_value]}", className='other-player-value'),
-            html.Img(src=encode_image(f"../assets/{sorted_df.loc[i + 1, 'team']}.png"), className='other-player-logo'),
-        ], className='other-player-row')
+            html.Span(f"{i + 2} {sorted_df.loc[i + 1, 'player']}", className='other-team-name'),
+            html.Span(f"{sorted_df.loc[i + 1, metric_value]}", className='other-team-value'),
+            html.Img(src=sorted_df.loc[i + 1, 'EncodedLogo'], className='other-team-logo'),
+        ], className='other-team-row')
         for i in range(4)
     ]
 
@@ -45,7 +48,7 @@ def create_stat_card(metric, index):
             top_player_row,
             html.Div(other_players_rows)
         ], className='card-content'),
-        html.Button('View full list', id=f'view-full-list-{index}', className='view-full-list-button', n_clicks=0)
+        html.Button('View full list', id=f'player-view-full-list-{index}', className='view-full-list-button', n_clicks=0)
     ]
 
     return html.Div(card_content, className='stat-card')
@@ -68,9 +71,9 @@ global_stats_layout = html.Div([
 
 layout = html.Div([
     global_stats_layout,
-    html.Div(id='full-list-container', style={'paddingTop': '20px'}),
+    html.Div(id='player-full-list-container', style={'paddingTop': '20px'}),
     html.Div([
-        create_stat_card(metric, index)
+        create_player_stat_card(metric, index)
         for index, metric in enumerate(player_metrics)
     ], id='stat-cards-container', className='stat-cards-container')
 ], className='stat-cards-wrapper')

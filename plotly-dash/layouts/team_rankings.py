@@ -76,7 +76,7 @@ global_stats_layout = html.Div([
 
 layout = html.Div([
     global_stats_layout,
-    html.Div(id='full-list-container', style={'paddingTop': '20px'}),
+    html.Div(id='team-full-list-container', style={'paddingTop': '20px'}),
     html.Div([
         create_stat_card(metric, index)
         for index, metric in enumerate(metrics)

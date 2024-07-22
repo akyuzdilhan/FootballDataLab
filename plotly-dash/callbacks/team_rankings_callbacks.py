@@ -4,11 +4,11 @@ from common.utils import metrics
 
 def register_team_rankings_callbacks(app, df_team_stats):
     @app.callback(
-        Output('full-list-container', 'children'),
+        Output('team-full-list-container', 'children'),
         [Input(f'view-full-list-{index}', 'n_clicks') for index in range(len(metrics))],
-        [State('full-list-container', 'children')]
+        [State('url', 'pathname')]
     )
-    def display_full_list(*args):
+    def display_team_full_list(*args):
         ctx = callback_context
 
         if not ctx.triggered:

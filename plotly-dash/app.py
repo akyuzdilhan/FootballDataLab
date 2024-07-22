@@ -2,12 +2,12 @@ import dash
 import dash_bootstrap_components as dbc
 import pandas as pd
 from dash import html, dcc
-from dash.dependencies import Input, Output
+from dash.dependencies import Input, Output, State, MATCH
 from layouts import home, table, team_analysis, player_analysis, team_rankings, player_rankings
 from callbacks.team_analysis_callbacks import register_callbacks
 from callbacks.team_rankings_callbacks import register_team_rankings_callbacks
-#from callbacks.player_rankings_callbacks import register_player_rankings_callbacks
-from common.utils import encode_image
+from callbacks.player_rankings_callbacks import register_player_rankings_callbacks
+from common.utils import encode_image, metrics, player_metrics
 
 EXTERNAL_STYLESHEETS = [dbc.themes.BOOTSTRAP]
 APP_TITLE = 'Football Data Lab'
@@ -17,6 +17,8 @@ df_team_stats['logo'] = df_team_stats['Logo path'].str.replace('datasets/', 'ass
 df_team_stats['EncodedLogo'] = df_team_stats['logo'].apply(encode_image)
 
 df_player_stats = pd.read_csv('../datasets/player_stats_FBref.csv')
+df_player_stats['logo'] = df_player_stats['Logo path'].str.replace('datasets/', 'assets/')
+df_player_stats['EncodedLogo'] = df_player_stats['logo'].apply(encode_image)
 
 app = dash.Dash(__name__, suppress_callback_exceptions=True, title=APP_TITLE, external_stylesheets=EXTERNAL_STYLESHEETS)
 
@@ -38,8 +40,8 @@ app.layout = html.Div([
     
 register_callbacks(app, df_team_stats)
 register_team_rankings_callbacks(app, df_team_stats)
-#register_player_rankings_callbacks(app, df_player_stats)
-
+register_player_rankings_callbacks(app, df_player_stats)
+    
 @app.callback(
     Output('page-content', 'children'),
     [Input('url', 'pathname')]
