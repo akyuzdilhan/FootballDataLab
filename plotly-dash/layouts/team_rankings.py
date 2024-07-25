@@ -2,7 +2,7 @@ from dash import html
 import pandas as pd
 from common.utils import metrics, encode_image
 
-df_team_stats = pd.read_csv('../datasets/stats_mls.csv')
+df_team_stats = pd.read_csv('../datasets/stats_team_mls.csv')
 
 goals_per_match = df_team_stats['GF'].sum() / df_team_stats['MP'].sum()
 number_of_players = df_team_stats['# Pl'].sum()

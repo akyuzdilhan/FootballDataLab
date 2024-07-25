@@ -12,7 +12,7 @@ from common.utils import encode_image, metrics, player_metrics
 EXTERNAL_STYLESHEETS = [dbc.themes.BOOTSTRAP]
 APP_TITLE = 'Football Data Lab'
 
-df_team_stats = pd.read_csv('../datasets/stats_mls.csv')
+df_team_stats = pd.read_csv('../datasets/stats_team_mls.csv')
 df_team_stats['logo'] = df_team_stats['Logo path'].str.replace('datasets/', 'assets/')
 df_team_stats['EncodedLogo'] = df_team_stats['logo'].apply(encode_image)
 
