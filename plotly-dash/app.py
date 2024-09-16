@@ -3,24 +3,24 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 from dash import html, dcc
 from dash.dependencies import Input, Output, State, MATCH
+from flask_caching import Cache
+from common.data_loader import load_team_stats, load_player_stats
 from layouts import home, table, team_analysis, player_analysis, team_rankings, player_rankings
+from layouts.team_rankings import create_layout as create_team_rankings_layout
+from layouts.player_rankings import create_layout as create_player_rankings_layout
 from callbacks.team_analysis_callbacks import register_callbacks
-from callbacks.team_rankings_callbacks import register_team_rankings_callbacks
-from callbacks.player_rankings_callbacks import register_player_rankings_callbacks
-from common.utils import encode_image, metrics, player_metrics
+from callbacks.rankings_callbacks import register_rankings_callbacks
+from common.utils import encode_image, metrics, player_metrics, calculate_global_stats
 
 EXTERNAL_STYLESHEETS = [dbc.themes.BOOTSTRAP]
 APP_TITLE = 'Football Data Lab'
 
-df_team_stats = pd.read_csv('../datasets/stats_team_mls.csv')
-df_team_stats['logo'] = df_team_stats['Logo path'].str.replace('datasets/', 'assets/')
-df_team_stats['EncodedLogo'] = df_team_stats['logo'].apply(encode_image)
-
-df_player_stats = pd.read_csv('../datasets/player_stats_FBref.csv')
-df_player_stats['logo'] = df_player_stats['Logo path'].str.replace('datasets/', 'assets/')
-df_player_stats['EncodedLogo'] = df_player_stats['logo'].apply(encode_image)
-
 app = dash.Dash(__name__, suppress_callback_exceptions=True, title=APP_TITLE, external_stylesheets=EXTERNAL_STYLESHEETS)
+
+cache = Cache(app.server, config={'CACHE_TYPE': 'simple', 'CACHE_DEFAULT_TIMEOUT': 300})
+
+df_team_stats = load_team_stats(cache)
+df_player_stats = load_player_stats(cache)
 
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
@@ -39,8 +39,7 @@ app.layout = html.Div([
 ], id='wrapper')
     
 register_callbacks(app, df_team_stats)
-register_team_rankings_callbacks(app, df_team_stats)
-register_player_rankings_callbacks(app, df_player_stats)
+register_rankings_callbacks(app, df_team_stats, df_player_stats, metrics, player_metrics)
     
 @app.callback(
     Output('page-content', 'children'),
@@ -52,13 +51,17 @@ def display_page(pathname):
     elif pathname == '/team-analysis':
         return team_analysis.layout
     elif pathname == '/team-rankings':
-        return team_rankings.layout
+        return create_team_rankings_layout(cache)
     elif pathname == '/player-analysis':
         return player_analysis.layout
     elif pathname == '/player-rankings':
-        return player_rankings.layout
+        return create_player_rankings_layout(cache)
     else:
         return home.layout
+
+# TODO Why and what is FootballDataLab ?
+# TODO What are the uses of Data Science in Football ?
+# ...
 
 if __name__ == '__main__':
     app.run_server(debug=True) # set 'debug=True' to display errors on the browser or 'False' to hide it

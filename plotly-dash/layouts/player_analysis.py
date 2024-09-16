@@ -2,7 +2,7 @@ import pandas as pd
 from dash import html, dash_table, dcc, Dash
 from dash.dash_table.Format import Format
 
-df_player_stats = pd.read_csv('../datasets/player_stats_FBref.csv')
+df_player_stats = pd.read_csv('../datasets/stats_player_mls.csv')
 flags_iso = pd.read_csv('../datasets/flags_iso.csv')
 
 # Map Alpha-3 codes to flag URLs

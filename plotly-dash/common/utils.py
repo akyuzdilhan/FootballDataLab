@@ -57,4 +57,13 @@ def encode_image(image_file):
         return 'data:image/png;base64,{}'.format(encoded.decode())
     except FileNotFoundError:
         return None
-    
+
+def calculate_global_stats(df):
+    """Calculate the global statistics using only the team dataset."""
+    return {
+        "Goals per match": round(df['GF'].sum() / df['MP'].sum(), 2),
+        "Number of players having played": int(df['# Pl'].sum()),
+        "Average age": round(df['Age'].mean(), 1),
+        "Matches missed by players": int(df['total_missed_games'].sum()),
+        "Number of red cards": df['CrdR'].sum()
+    }

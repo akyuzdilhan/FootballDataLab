@@ -37,6 +37,8 @@
 
 - [x] Scraping images of the 2023 MLS season roster from [transfermarkt](https://www.transfermarkt.com/major-league-soccer/startseite/wettbewerb/MLS1/plus/?saison_id=2022), or [mlssoccer site](https://www.mlssoccer.com/stats/players/#season=2023&competition=mls-regular-season&club=all&statType=general&position=all).
 
+- [ ] Create a generic mapping function for each team, setting all derivations of the team name to the desired one.
+
 - [ ] Delete duplicate columns.
 
 - [ ] Import data from previous seasons to improve training for future algorithms.

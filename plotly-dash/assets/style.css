@@ -109,9 +109,9 @@ input.dash-filter--case {
     padding: 5px !important;
 }
 
-/* team_ranking */
+/* team and player ranking */
 .stat-cards-wrapper {
-    padding: 20px 100px;
+    padding: 10px 40px;
 }
 
 .stat-cards-container {
@@ -149,58 +149,54 @@ input.dash-filter--case {
     margin-right: auto;
 }
 
-.top-team-row {
+.top-row, .other-row {
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
-    font-size: 1.1em;
 }
 
-.other-team-row {
+.other-row {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 5px 0;
-    border-top: 1px solid #ddd;
 }
 
-.top-team-name {
+.top-name, .other-name {
     flex: 1;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
-.other-team-name {
-    flex: 1;
+.top-logo {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
 }
 
-.top-team-logo {
-    flex: 0 0 40px;
-    height: 60px;
-    margin: 10px 0;
-}
-
-.other-team-logo {
-    flex: 0 0 25px;
+.other-logo {
+    width: 25px;
     height: 25px;
-    margin-left: 20px;
+    object-fit: contain;
+    margin-left: 10px;
 }
 
-.top-team-value {
+.top-value {
     font-size: 1.5em;
     font-weight: bold;
     padding-right: 10px;
 }
 
-.other-team-value {
+.other-value {
     flex: 0 0 auto;
 }
 
 .view-full-list-button {
     display: block;
-    width: 90%;
-    padding: 5px;
+    width: 100%;
+    padding: 10px;
     margin-top: 10px;
-    margin-left: auto;
-    margin-right: auto;
     background-color: #f1e5d0;
     color: black;
     border: none;
@@ -277,7 +273,7 @@ input.dash-filter--case {
     margin-bottom: 20px;
 }
 
-.full-list-other-team-value {
+.full-list-other-value {
     flex: 0 0 auto;
     padding-right: 70px;
 }
