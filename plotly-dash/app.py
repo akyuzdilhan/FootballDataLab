@@ -38,7 +38,7 @@ app.layout = html.Div([
     html.Div(id='page-content', className='content')
 ], id='wrapper')
     
-register_callbacks(app, df_team_stats)
+register_callbacks(app, df_team_stats) 
 register_rankings_callbacks(app, df_team_stats, df_player_stats, metrics, player_metrics)
     
 @app.callback(
