@@ -13,7 +13,7 @@ from callbacks.rankings_callbacks import register_rankings_callbacks
 from common.utils import encode_image, metrics, player_metrics, calculate_global_stats
 
 EXTERNAL_STYLESHEETS = [dbc.themes.BOOTSTRAP]
-APP_TITLE = 'Football Data Lab'
+APP_TITLE = 'Football DataLab'
 
 app = dash.Dash(__name__, suppress_callback_exceptions=True, title=APP_TITLE, external_stylesheets=EXTERNAL_STYLESHEETS)
 
@@ -25,17 +25,44 @@ df_player_stats = load_player_stats(cache)
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
     html.Div([
-        dcc.Link('Football Data Lab', href='/', className='link', style={'fontSize': '24px', 'color': '#000'}),
-        dcc.Link('MLS 2023', href='/', className='link', style={'textAlign': 'center', 'flex': '1', 'fontSize': '24px', 'color': '#000'}),
+        dcc.Link(
+            html.Div([
+                html.Img(src='assets/FootballDataLab.png', className='header-logo'),
+                html.Span('Football DataLab', className='title')
+            ], className='header-info'), href='/', style={'textDecoration': 'none'}
+        ),
+        # dcc.Link('MLS 2023', href='/', className='link', style={'textAlign': 'center', 'flex': '1', 'fontSize': '24px', 'color': '#000'}),
         html.Div([
-            dcc.Link('Table', href='/table', className='link'),
-            dcc.Link('Team Analysis', href='/team-analysis', className='link'),
-            dcc.Link('Team Rankings', href='/team-rankings', className='link'),
-            dcc.Link('Player Analysis', href='/player-analysis', className='link'),
-            dcc.Link('Player Rankings', href='/player-rankings', className='link'),
+            dcc.Link('Table', href='/table', className='page'),
+            dcc.Link('Team Analysis', href='/team-analysis', className='page'),
+            dcc.Link('Team Rankings', href='/team-rankings', className='page'),
+            dcc.Link('Player Analysis', href='/player-analysis', className='page'),
+            dcc.Link('Player Rankings', href='/player-rankings', className='page'),
         ], style={'textAlign': 'right'})
     ], className='header'),
-    html.Div(id='page-content', className='content')
+    html.Div(id='page-content', className='content'),
+    
+    # Footer
+    html.Footer([
+        html.Div([
+            # Left section: Logo and title
+            html.Div([
+                html.Img(src='assets/FootballDataLab.png', className='footer-logo'),
+                html.Span('Football DataLab', className='footer-title')
+            ], className='footer-section-left'),
+
+            # Middle section: Legal info only (remove GitHub Project link)
+            html.Div([
+                html.Span("© 2024 Football DataLab | Licensed under GNU GPL-3.0", className='footer-legal'),
+            ], className='footer-section-middle'),
+
+            # Right section: Social icons and contact info
+            html.Div([
+                html.A(html.Img(src='/assets/github-icon.png', className='footer-icon'), href="https://github.com/akyuzdilhan/FootballDataLab", target="_blank"),
+                html.A(html.Img(src='/assets/email-icon.png', className='footer-icon'), href="mailto:contact@footballdatalab.net", target="_blank"),
+            ], className='footer-section-right'),
+        ], className='footer-container'),
+    ], className='footer')
 ], id='wrapper')
     
 register_callbacks(app, df_team_stats) 
@@ -58,10 +85,6 @@ def display_page(pathname):
         return create_player_rankings_layout(cache)
     else:
         return home.layout
-
-# TODO Why and what is FootballDataLab ?
-# TODO What are the uses of Data Science in Football ?
-# ...
 
 if __name__ == '__main__':
     app.run_server(debug=True) # set 'debug=True' to display errors on the browser or 'False' to hide it

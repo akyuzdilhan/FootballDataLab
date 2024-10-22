@@ -14,16 +14,36 @@ body > div {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px;
+    padding: 12px 25px;
+    border-radius: 40px;
     background-color: #f8f5f0;
     color: black;
-    margin: 0;
+    margin: 10px 150px 0px 150px;
 }
 
-.header .link {
+.header-info {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.header-logo {
+    height: 50px;
+    margin: 0px 10px;
+}
+
+.header .page {
     text-decoration: none;
     color: rgba(0, 0, 0, 0.5);
-    margin-left: 20px;
+    margin-left: 10px;
+}
+
+.header .title {
+    text-decoration: none;
+    color: #000;
+    /*margin-left: 10px;*/
+    font-size: 24px;
 }
 
 .content {
@@ -32,6 +52,12 @@ body > div {
     box-sizing: border-box;
     display: flex;
     justify-content: center;
+}
+
+.card:hover {
+    transform: scale(1.08);
+    /*box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);*/
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.9);
 }
 
 .data-table {
@@ -276,4 +302,79 @@ input.dash-filter--case {
 .full-list-other-value {
     flex: 0 0 auto;
     padding-right: 70px;
+}
+
+/* Footer */
+.footer {
+    background-color: #f8f5f0;
+    color: #333;
+    padding: 15px 20px;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    border-top: 1px solid #dedede;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.footer-section-left {
+    flex: 1;
+    text-align: left;
+    align-items: center;
+}
+
+.footer-section-middle {
+    flex: 1;
+    text-align: center;
+}
+
+.footer-section-right {
+    flex: 1;
+    text-align: right;
+}
+
+.footer-logo {
+    height: 50px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.footer-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #1a1a1a;
+}
+
+.footer-link {
+    color: #44A3DB;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+.footer-link:hover {
+    color: #0056b3;
+}
+
+.footer-legal {
+    font-size: 14px;
+    color: #666;
+}
+
+.footer-icon {
+    width: 35px;
+    margin-left: 20px;
+}
+
+.footer-icon:hover {
+    transform: scale(1.1);
 }
