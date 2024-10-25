@@ -17,6 +17,9 @@ APP_TITLE = 'Football DataLab'
 
 app = dash.Dash(__name__, suppress_callback_exceptions=True, title=APP_TITLE, external_stylesheets=EXTERNAL_STYLESHEETS)
 
+# Add line to link Flask server
+server = app.server
+
 cache = Cache(app.server, config={'CACHE_TYPE': 'simple', 'CACHE_DEFAULT_TIMEOUT': 300})
 
 df_team_stats = load_team_stats(cache)
@@ -87,4 +90,4 @@ def display_page(pathname):
         return home.layout
 
 if __name__ == '__main__':
-    app.run_server(debug=True) # set 'debug=True' to display errors on the browser or 'False' to hide it
+    app.run_server(debug=False) # set 'debug=True' to display errors on the browser or 'False' to hide it
