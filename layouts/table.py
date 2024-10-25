@@ -4,7 +4,7 @@ from common.utils import encode_image
 import pandas as pd
 import plotly.graph_objects as go
 
-df_MLS23_table = pd.read_csv('../datasets/MLS_23_table.csv')
+df_MLS23_table = pd.read_csv('assets/MLS_23_table.csv')
 
 def get_columns(dataframe):
     columns = []

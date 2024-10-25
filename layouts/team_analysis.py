@@ -14,7 +14,7 @@ FONT_COLOR = 'black'
 PLOT_WIDTH = 900
 PLOT_HEIGHT = 750
 
-df_team_stats = pd.read_csv('../datasets/stats_team_mls.csv')
+df_team_stats = pd.read_csv('assets/stats_team_mls.csv')
 
 def plot_Xgoal_performance(df, selected_teams):
     fig = go.Figure()
