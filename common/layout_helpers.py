@@ -2,14 +2,14 @@ from dash import html
 from common.data_loader import load_team_stats, load_player_stats
 from common.utils import calculate_global_stats, encode_image
 
-def load_team_data(cache):
-    df_team_stats = load_team_stats(cache)
+def load_team_data():
+    df_team_stats = load_team_stats()
     global_stats = calculate_global_stats(df_team_stats)
     return df_team_stats, global_stats
 
-def load_player_data(cache):
-    df_team_stats = load_team_stats(cache)
-    df_player_stats = load_player_stats(cache)
+def load_player_data():
+    df_team_stats = load_team_stats()
+    df_player_stats = load_player_stats()
     global_stats = calculate_global_stats(df_team_stats)
     return df_team_stats, df_player_stats, global_stats
 
