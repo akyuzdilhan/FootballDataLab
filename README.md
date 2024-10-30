@@ -6,6 +6,10 @@ My Personal Research Lab for Data Science in Football.
 
 Passionate about Data Science and Football, I am interested in exploring and contributing as much as possible at the crossroads of these two exciting disciplines. This repository will keep a record of learning, research, and other projects related to Data Science for football. Here will be provided some reviews on various libraries and tools specific to football data science, along with summaries and criticisms of readings related to football culture and analysis. This will also be accompanied by personal projects in which the previously mentioned libraries and tools are used to analyze match data, player performances, team tactics, and every other relevant thing around football. This project is an attempt to understand in-depth the impact of Data Science on football, sharing the findings and creations that come out of it with the community, in their inspiration and information.
 
+## Live Demo
+
+Check out the live version of the application here: [FootballDataLab Web Application](https://footballdatalab.applikuapp.com/)
+
 ## Features
 
 - Team and player data extraction for the 2023 MLS season 
@@ -30,18 +34,19 @@ The application will be available at http://127.0.0.1:8050/.
 
 ## Usage
 1. Navigate to the application URL.
-1. Explore the various dashboards and visualizations available.
-1. Use the filters and interactive elements to customize the displayed data.
+2. Explore the various dashboards and visualizations available.
+3. Use the filters and interactive elements to customize the displayed data.
 
 ## Screenshots
 
+Home page :
+![Table](screenshots/homepage.png)
+
 Table page :
-![Table](screenshots/ploty-table1.png)
-![Table](screenshots/ploty-table2.png)
+![Table](screenshots/ploty-table.png)
 
 Team Analysis page :
-![Team Analysis](screenshots/ploty-team-analysis1.png)
-![Team Analysis](screenshots/ploty-team-analysis2.png)
+![Team Analysis](screenshots/ploty-team-analysis.png)
 
 Player Analysis page :
 ![Player Analysis](screenshots/player-analysis.png)
@@ -51,6 +56,10 @@ Team Rankings page :
 
 Player Rankings page :
 ![Team Rankings](screenshots/player-rankings.png)
+
+## Feedback and Contributions
+
+I am always open to feedback and suggestions. If you have any thoughts on the application or the project in general, please feel free to reach out. Your insights are valuable and can help improve the project.
 
 ## TODO List
 
