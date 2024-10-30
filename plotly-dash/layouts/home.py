@@ -103,7 +103,6 @@ layout = html.Div([
         ]
     ),
     
-    # Card Section
     html.Div(
         style={
             'padding': '60px 160px',
@@ -164,7 +163,7 @@ layout = html.Div([
             'color': '#f8f5f0',
             'display': 'flex',
             'flexDirection': 'row',
-            'justifyContent': 'flex-start'  # Align to the left
+            'justifyContent': 'flex-start'
         },
         children=[
             #html.Div(
@@ -180,11 +179,10 @@ layout = html.Div([
                 #    html.Img(src='/assets/background/Pass-Predictions.png', style={'width': '120px', 'transform': 'rotate(5deg)', 'boxShadow': '0 8px 16px rgba(0,0,0,0.3)'}),
                 #]
             #),
-            # Main text content
             html.Div(
                 style={
-                    'maxWidth': '1400px',  # Increased width for the text container
-                    'padding': '40px 20px 40px 150px',  # Left padding increased to center text block better
+                    'maxWidth': '1400px',
+                    'padding': '40px 20px 40px 150px',
                     'textAlign': 'left',
                     'zIndex': '1'
                 },

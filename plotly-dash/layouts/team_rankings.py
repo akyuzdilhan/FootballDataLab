@@ -3,8 +3,8 @@ from common.layout_helpers import load_team_data, create_global_stats_layout, cr
 from common.utils import metrics
 from callbacks.rankings_callbacks import register_rankings_callbacks
 
-def create_layout(cache):
-    df_team_stats, global_stats = load_team_data(cache)
+def create_layout():
+    df_team_stats, global_stats = load_team_data()
     global_stats_layout = create_global_stats_layout(global_stats)
 
     stat_cards = [

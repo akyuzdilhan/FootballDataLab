@@ -4,7 +4,7 @@ from common.utils import encode_image
 import pandas as pd
 import plotly.graph_objects as go
 
-df_MLS23_table = pd.read_csv('../datasets/MLS_23_table.csv')
+df_MLS23_table = pd.read_csv('assets/MLS_23_table.csv')
 
 def get_columns(dataframe):
     columns = []
@@ -29,7 +29,7 @@ def team_salaries(df):
         ))
 
     fig.update_layout(
-        title='Total Salary by Team',
+        title='Total Annual Salary by Team',
         yaxis=dict(
             tickmode='array',
             tickvals=list(range(len(df))),
@@ -51,9 +51,9 @@ fig_team_salaries = team_salaries(df_MLS23_table)
 df_MLS23_table['logo'] = df_MLS23_table['Logo path'].str.replace('datasets/', 'assets/')
 df_MLS23_table['Team'] = df_MLS23_table.apply(lambda x: f"<img src='{x['logo']}' style='height:22px; width:22px; margin-right: 5px; margin-left: 5px;'/> {x['Team']}", axis=1)
 
-df_MLS23_table['Salary'] = df_MLS23_table['SalaryGuaranteed ($)'].apply(lambda x: f"${x:,.0f}")
+df_MLS23_table['Annual Salary'] = df_MLS23_table['SalaryGuaranteed ($)'].apply(lambda x: f"${x:,.0f}")
 
-column_order = ["Pos", "Team", "Pld", "W", "L", "T", "GF", "GA", "GD", "Pts", "Salary"]
+column_order = ["Pos", "Team", "Pld", "W", "L", "T", "GF", "GA", "GD", "Pts", "Annual Salary"]
 df_MLS23_table_display = df_MLS23_table[column_order]
 
 df_MLS23_table['EncodedLogo'] = df_MLS23_table['logo'].apply(encode_image)
@@ -85,7 +85,7 @@ def salary_vs_position(df):
         )
 
     fig.update_layout(
-        title='Final Standings vs. MLS Teams\' Salary Budgets',
+        title='Final Standings vs. MLS Teams\' Annual Salary Budgets',
         xaxis=dict(title='Final Position', autorange='reversed'),
         plot_bgcolor='white',
         showlegend=False,
@@ -139,7 +139,7 @@ layout = html.Div([
                 'GA': 'Goals Against',
                 'GD': 'Goal Difference',
                 'Pts': 'Points',
-                'Salary': 'Guaranteed Salary'
+                'Annual Salary': 'Guaranteed Annual Salary'
             },
             style_cell={
                 'textAlign': 'center',
@@ -165,7 +165,7 @@ layout = html.Div([
                 {'if': {'column_id': 'GA'}, 'width': '3%'},
                 {'if': {'column_id': 'GD'}, 'width': '3%'},
                 {'if': {'column_id': 'Pts'}, 'width': '3%'},
-                {'if': {'column_id': 'Salary'}, 'width': '28%'},
+                {'if': {'column_id': 'Annual Salary'}, 'width': '28%'},
             ]
         )
     ], style={'width': '43%', 'float': 'left'}),

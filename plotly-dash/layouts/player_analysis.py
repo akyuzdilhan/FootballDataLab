@@ -1,8 +1,8 @@
 import pandas as pd
 from dash import html, dash_table, dcc
 
-df_player_stats = pd.read_csv('../datasets/stats_player_mls.csv')
-flags_iso = pd.read_csv('../datasets/flags_iso.csv')
+df_player_stats = pd.read_csv('assets/stats_player_mls.csv')
+flags_iso = pd.read_csv('assets/flags_iso.csv')
 
 # Map Alpha-3 codes to flag URLs
 flags_dict = pd.Series(flags_iso.URL.values, index=flags_iso['Alpha-3 code']).to_dict()

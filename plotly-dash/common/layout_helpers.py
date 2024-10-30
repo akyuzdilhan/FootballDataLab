@@ -2,14 +2,14 @@ from dash import html
 from common.data_loader import load_team_stats, load_player_stats
 from common.utils import calculate_global_stats, encode_image
 
-def load_team_data(cache):
-    df_team_stats = load_team_stats(cache)
+def load_team_data():
+    df_team_stats = load_team_stats()
     global_stats = calculate_global_stats(df_team_stats)
     return df_team_stats, global_stats
 
-def load_player_data(cache):
-    df_team_stats = load_team_stats(cache)
-    df_player_stats = load_player_stats(cache)
+def load_player_data():
+    df_team_stats = load_team_stats()
+    df_player_stats = load_player_stats()
     global_stats = calculate_global_stats(df_team_stats)
     return df_team_stats, df_player_stats, global_stats
 
@@ -70,8 +70,8 @@ def create_layout_with_cards(global_stats_layout, cards, full_list_container_id)
     ], className='stat-cards-wrapper')
 
 # Full list for both teams and players
-def generate_full_list(df, metric_value, metric_label, logo_column, name_column):
-    sorted_df = df.sort_values(by=metric_value, ascending=True).reset_index(drop=True)
+def generate_full_list(df, metric_value, metric_label, logo_column, name_column, ascending=True):
+    sorted_df = df.sort_values(by=metric_value, ascending=ascending).reset_index(drop=True)
 
     top_row = html.Div([
         html.Span(f"{sorted_df.loc[0, name_column]}", className='top-name'),
