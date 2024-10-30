@@ -24,13 +24,15 @@ def register_rankings_callbacks(app, df_stats_team, df_stats_player, metrics_tea
             metric = metrics_team[index]
             metric_value = metric['value']
             metric_label = metric['label']
-            return [generate_full_list(df_stats_team, metric_value, metric_label, 'EncodedLogo', 'Team')]
+            ascending = metric.get('ascending', False)
+            return [generate_full_list(df_stats_team, metric_value, metric_label, 'EncodedLogo', 'Team', ascending)]
 
         elif button_id['type'] == 'player-view-full-list-button':
             index = button_id['index']
             metric = metrics_player[index]
             metric_value = metric['value']
             metric_label = metric['label']
-            return [generate_full_list(df_stats_player, metric_value, metric_label, 'encoded_image', 'player')]
+            ascending = metric.get('ascending', False)
+            return [generate_full_list(df_stats_player, metric_value, metric_label, 'encoded_image', 'player', ascending)]
 
         return []

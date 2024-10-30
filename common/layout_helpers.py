@@ -70,8 +70,8 @@ def create_layout_with_cards(global_stats_layout, cards, full_list_container_id)
     ], className='stat-cards-wrapper')
 
 # Full list for both teams and players
-def generate_full_list(df, metric_value, metric_label, logo_column, name_column):
-    sorted_df = df.sort_values(by=metric_value, ascending=True).reset_index(drop=True)
+def generate_full_list(df, metric_value, metric_label, logo_column, name_column, ascending=True):
+    sorted_df = df.sort_values(by=metric_value, ascending=ascending).reset_index(drop=True)
 
     top_row = html.Div([
         html.Span(f"{sorted_df.loc[0, name_column]}", className='top-name'),

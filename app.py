@@ -25,6 +25,7 @@ app.layout = html.Div([
                 html.Span('Football DataLab', className='title')
             ], className='header-info'), href='/', style={'textDecoration': 'none'}
         ),
+        dcc.Link('MLS 2023', href='/', style={'textAlign': 'center', 'flex': '1', 'fontSize': '24px', 'color': '#000', 'textDecoration': 'none'}),
         html.Div([
             dcc.Link('Table', href='/table', className='page'),
             dcc.Link('Team Analysis', href='/team-analysis', className='page'),
@@ -37,16 +38,18 @@ app.layout = html.Div([
 
     html.Footer([
         html.Div([
-            html.Div([
-                html.Img(src='assets/FootballDataLab.png', className='footer-logo'),
-                html.Span('Football DataLab', className='footer-title')
-            ], className='footer-section-left'),
+            dcc.Link(
+                html.Div([
+                    html.Img(src='assets/FootballDataLab.png', className='footer-logo'),
+                    html.Span('Football DataLab', className='footer-title')
+                ], className='footer-section-left'), href='/', style={'textDecoration': 'none'}
+            ),
             html.Div([
                 html.Span("© 2024 Football DataLab | Licensed under GNU GPL-3.0", className='footer-legal'),
             ], className='footer-section-middle'),
             html.Div([
                 html.A(html.Img(src='/assets/github-icon.png', className='footer-icon'), href="https://github.com/akyuzdilhan/FootballDataLab", target="_blank"),
-                html.A(html.Img(src='/assets/email-icon.png', className='footer-icon'), href="mailto:contact@footballdatalab.net", target="_blank"),
+                html.A(html.Img(src='/assets/email-icon.png', className='footer-icon'), href="mailto:footballdatalab.contact@gmail.com", target="_blank"),
             ], className='footer-section-right'),
         ], className='footer-container'),
     ], className='footer')
@@ -74,4 +77,4 @@ def display_page(pathname):
         return home.layout
 
 if __name__ == '__main__':
-    app.run_server(debug=False)
+    app.run_server(debug=False) 
