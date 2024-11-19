@@ -35,6 +35,8 @@ app.layout = html.Div([
         ], style={'textAlign': 'right'})
     ], className='header'),
     html.Div(id='page-content', className='content'),
+    html.Div(id='full-list-container', style={'display': 'none'}),
+    html.Div(id='dummy-scroll-div', style={'display': 'none'}),
 
     html.Footer([
         html.Div([
@@ -77,4 +79,4 @@ def display_page(pathname):
         return home.layout
 
 if __name__ == '__main__':
-    app.run_server(debug=False) 
+    app.run_server(debug=True) # False 
