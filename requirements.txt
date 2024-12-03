@@ -1,6 +1,4 @@
 dash==2.18.2
 dash_bootstrap_components==1.6.0
-matplotlib==3.8.0
-mplsoccer==1.4.0
 pandas==2.0.3
 plotly==5.9.0
