@@ -1,43 +1,54 @@
-from dash import html, dcc
+from dash import html, dcc, callback, Output, Input, State, ALL
+import dash_bootstrap_components as dbc
 
 CARDS_FOLDER = "/assets/cardsLogo/"
 
 sections = [
     {
-        'title': 'Data Providers', 'icon': CARDS_FOLDER + 'data-providers.png', 'link': '/data-providers',
-        'description': ['Major Data Providers', 'Data Collection Methods', 'Tools for Data Manipulation and Visualization', 'AI and Automation']
+        'title': 'Data Providers',
+        'icon': CARDS_FOLDER + 'data-providers.png',
+        'description': ['Major Data Providers', 'Data Collection Methods', 'Tools for Data Manipulation and Visualization', 'AI and Automation'],
+        'content_markdown_file': 'assets/markdown/data_providers.md'
     },
     {
-        'title': 'Governing Bodies', 'icon': CARDS_FOLDER + 'governing-bodies.png', 'link': '/governing-bodies',
+        'title': 'Governing Bodies', 'icon': CARDS_FOLDER + 'governing-bodies.png',
         'description': ['Performance Monitoring', 'Integrity and Anti-Match Fixing', 'Game Development', 'Tournament and Fixture Management'],
+        'content_markdown_file': 'assets/markdown/governing_bodies.md'
     },
     {
-        'title': 'Football Clubs and Coaching Staff', 'icon': CARDS_FOLDER + 'football-club.png', 'link': '/clubs',
-        'description': ['Scouting and Recruitment', 'Player Performance and Tactical Analysis', 'Training Optimization', 'Player Selection and Rotation']
+        'title': 'Football Clubs and Coaching Staff', 'icon': CARDS_FOLDER + 'football-club.png',
+        'description': ['Scouting and Recruitment', 'Player Performance and Tactical Analysis', 'Training Optimization', 'Player Selection and Rotation'],
+        'content_markdown_file': 'assets/markdown/football_clubs_and_coaching_staff.md'
     },
     {
-        'title': 'Players', 'icon': CARDS_FOLDER + 'player.png', 'link': '/payers',
+        'title': 'Players', 'icon': CARDS_FOLDER + 'player.png',
         'description': ['Contract Negotiations and Career Planning', 'Transfer Decision-Making', 'Opposition and Match Preparation', 'Personal Skill Development'],
+        'content_markdown_file': 'assets/markdown/players.md'
     },
     {
-        'title': 'Football Analysts and Data Scientists', 'icon': CARDS_FOLDER + 'football-analyst.png', 'link': '/analysts',
+        'title': 'Football Analysts and Data Scientists', 'icon': CARDS_FOLDER + 'football-analyst.png',
         'description': ['Advanced Metrics Development', 'Predictive Modeling', 'Visualization and Communication', 'Machine Learning Applications'], 
+        'content_markdown_file': 'assets/markdown/football_analysts_and_data_scientists.md'
     },
     {
-        'title': 'Sports Scientists and Medical Teams', 'icon': CARDS_FOLDER + 'sport-scientist.png', 'link': '/scientists',
+        'title': 'Sports Scientists and Medical Teams', 'icon': CARDS_FOLDER + 'sport-scientist.png',
         'description': ['Injury Prevention', 'Load Management', 'Recovery Protocols', 'Psychological Monitoring'],
+        'content_markdown_file': 'assets/markdown/sports_scientists_and_medical_teams.md'
     },
     {
-        'title': 'Broadcasters and Media', 'icon': CARDS_FOLDER + 'broadcast2.png', 'link': '/media',
+        'title': 'Broadcasters and Media', 'icon': CARDS_FOLDER + 'broadcast2.png',
         'description': ['Live Match Analysis', 'Data-Driven Storytelling', 'Fantasy Sports and Interactive Features'], 
+        'content_markdown_file': 'assets/markdown/broadcasters_and_media.md'
     },
     {
-        'title': 'Fans and Enthusiasts', 'icon': CARDS_FOLDER + 'fan.png', 'link': '/fans',
+        'title': 'Fans and Enthusiasts', 'icon': CARDS_FOLDER + 'fan.png',
         'description': ['Social Media and Community Contributions', 'Fan Analysis Platforms', 'Independent Projects'], 
+        'content_markdown_file': 'assets/markdown/fans_and_enthusiasts.md'
     },
     {
-        'title': 'Sports Betting Platforms', 'icon': CARDS_FOLDER + 'betting-platforms.png', 'link': '/betting',
+        'title': 'Sports Betting Platforms', 'icon': CARDS_FOLDER + 'betting-platforms.png',
         'description': ['Player Projections', 'Match Outcome Predictions', 'Risk Assessment'], 
+        'content_markdown_file': 'assets/markdown/sports_betting_platforms.md'
     }
 ]
 
@@ -122,35 +133,60 @@ layout = html.Div([
                     'alignItems': 'stretch', 
                 },
                 children=[
-                    dcc.Link(
-                        html.Div(
-                            style={
-                                'backgroundColor': 'white',
-                                'backdropFilter': 'blur(10px)',
-                                'boxShadow': '0 8px 16px rgba(0, 0, 0, 0.2)',
-                                'padding': '30px 30px 0px 30px',
-                                'borderRadius': '10px',
-                                'border': '1px solid black',
-                                'textAlign': 'center',
-                                'height': '100%',
-                                'transition': 'transform 0.3s ease',
-                                'fontFamily': '"Poppins", sans-serif',
-                                'display': 'flex',
-                                'flexDirection': 'column', 
-                            },
-                            children=[
-                                html.Img(src=section['icon'], style={'width': '50px', 'height': '50px', 'marginBottom': '500px', 'display': 'block', 'margin': '0 auto'}),
-                                html.H3(section['title'], style={'fontSize': '24px', 'fontWeight': 'bold'}),
-                                html.Ul(
-                                    [html.Li(desc) for desc in section['description']],
-                                    style={'listStyleType': 'none', 'padding': '0'}
-                                ),
-                            ], className='card'
-                        ), href=section['link'], style={'textDecoration': 'none', 'color': 'inherit'}
+                    html.Div(
+                        id={'type': 'open-modal', 'index': section['title']},
+                        n_clicks=0,
+                        style={
+                            'backgroundColor': 'white',
+                            'backdropFilter': 'blur(10px)',
+                            'boxShadow': '0 8px 16px rgba(0, 0, 0, 0.2)',
+                            'padding': '30px 30px 0px 30px',
+                            'borderRadius': '10px',
+                            'border': '1px solid black',
+                            'textAlign': 'center',
+                            'height': '100%',
+                            'transition': 'transform 0.3s ease',
+                            'fontFamily': '"Poppins", sans-serif',
+                            'display': 'flex',
+                            'flexDirection': 'column', 
+                            'cursor': 'pointer',
+                        },
+                        children=[
+                            html.Img(src=section['icon'], style={'width': '50px', 'height': '50px', 'marginBottom': '20px', 'display': 'block', 'margin': '0 auto'}),
+                            html.H3(section['title'], style={'fontSize': '24px', 'fontWeight': 'bold'}),
+                            html.Ul(
+                                [html.Li(desc) for desc in section['description']],
+                                style={'listStyleType': 'none', 'padding': '0'}
+                            ),
+                        ], className='card'
                     ) for section in sections
                 ]
             )
         ]
+    ),
+
+    dbc.Modal(
+        [
+            dbc.ModalHeader(
+                dbc.ModalTitle(id='modal-title'),
+                close_button=True,
+                style={'backgroundColor': '#F8F5F0'}
+            ),
+            dbc.ModalBody(
+                id='modal-body',
+                style={
+                    'maxHeight': '80vh',
+                    'overflowY': 'auto',
+                    'fontSize': '16px',
+                    'padding': '20px',
+                }
+            ),
+        ],
+        id='modal',
+        is_open=False,
+        className='custom-modal',
+        centered=True,
+        scrollable=True,
     ),
 
     html.Div(

@@ -60,6 +60,8 @@ app.layout = html.Div([
 register_callbacks(app, df_team_stats)
 register_rankings_callbacks(app, df_team_stats, df_player_stats, metrics, player_metrics)
 
+import callbacks.home_callbacks
+
 @app.callback(
     Output('page-content', 'children'),
     [Input('url', 'pathname')]
