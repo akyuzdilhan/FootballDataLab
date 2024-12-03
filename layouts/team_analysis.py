@@ -1,11 +1,8 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 
 from common.utils import metrics
-from mplsoccer import Radar, FontManager, grid
-from dash import html, dcc, Dash
-from dash.dependencies import Input, Output
+from dash import html, dcc
 
 PLOT_BG_COLOR = '#f8f5f0'
 PAPER_BG_COLOR = '#f8f5f0'
