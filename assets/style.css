@@ -600,6 +600,9 @@ body > div {
     }
 }
 
+.markdown-content {
+    padding: 10px;
+}
 
 .markdown-content h1 {
     font-size: 24px;
