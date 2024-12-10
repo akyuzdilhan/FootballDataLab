@@ -8,7 +8,7 @@ Passionate about Data Science and Football, I am interested in exploring and con
 
 ## Live Demo
 
-Check out the live version of the application here: [FootballDataLab Web Application](https://footballdatalab.applikuapp.com/)
+Check out the live version of the application here: [FootballDataLab Web Application](https://footballdatalab.net/)
 
 ## Features
 
