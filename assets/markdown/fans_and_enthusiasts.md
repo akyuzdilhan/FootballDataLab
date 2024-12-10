@@ -4,7 +4,7 @@ Fans and enthusiasts play a significant role in the football data ecosystem. By 
 
 Social media platforms and online communities provide fans with avenues to share analyses, discuss insights, and engage in debates about football data. Enthusiasts utilize these platforms to disseminate statistical findings, create visualizations, and collaborate on analytical projects. This collective effort democratizes access to data-driven insights and fosters a culture of informed discussion among the football fanbase.
 
-- [**Twitter Football Data Analysts**](https://x.com/fmeetsdata, https://x.com/DTFootball_, https://x.com/DataMB_): *Enthusiasts on Twitter share in-depth analyses, visualizations, and statistical breakdowns of matches, players, and tactical trends. These accounts contribute to the community by offering accessible interpretations of complex data, sparking conversations, and educating fellow fans.*
+- **Twitter Football Data Analysts**, [Football Meets Data](https://x.com/fmeetsdata), [DATA´Foot](https://x.com/DTFootball), [DataMB](https://x.com/DataMB_): *Enthusiasts on Twitter share in-depth analyses, visualizations, and statistical breakdowns of matches, players, and tactical trends. These accounts contribute to the community by offering accessible interpretations of complex data, sparking conversations, and educating fellow fans.*
 
 - [**Reddit Soccer Community**](https://www.reddit.com/r/soccer/): *The r/soccer subreddit serves as a hub for football fans worldwide to discuss matches, share data-driven insights, and collaborate on analytical projects. Members post statistical analyses, engage in tactical debates, and provide comprehensive match reviews, enriching the collective understanding of the sport.*
 
@@ -24,7 +24,7 @@ Independent projects by fans and enthusiasts contribute to the football data lan
 
 - [**FC Python**](https://fcpython.com/): *FC Python is an educational platform that offers tutorials and resources on using Python for football data analysis. It helps enthusiasts learn how to collect, process, and visualize football data, promoting skill development in programming and analytics within the football context.*
 
-- [**PySport and OpenSport**](https://pysport.org/, https://opensource.pysport.org/): *PySport and OpenSport are open-source initiatives providing tools and libraries for sports data analysis. They offer resources that enable fans to engage in data science projects related to football, encouraging collaboration and the sharing of analytical methods and findings.*
+- [**PySport**](https://pysport.org/) **and** [**OpenSport**](https://opensource.pysport.org/): *PySport and OpenSport are open-source initiatives providing tools and libraries for sports data analysis. They offer resources that enable fans to engage in data science projects related to football, encouraging collaboration and the sharing of analytical methods and findings.*
 
 ## Conclusion
 

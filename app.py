@@ -19,21 +19,52 @@ df_player_stats = load_player_stats()
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
     html.Div([
-        dcc.Link(
+        html.A(
             html.Div([
-                html.Img(src='assets/FootballDataLab.png', className='header-logo'),
+                html.Img(src='assets/FootballDataLab.png', className='header-logo', alt='Football DataLab Logo'),
                 html.Span('Football DataLab', className='title')
-            ], className='header-info'), href='/', style={'textDecoration': 'none'}
+            ], className='brand'),
+            href='/', style={'textDecoration': 'none'}
         ),
-        dcc.Link('MLS 2023', href='/', style={'textAlign': 'center', 'flex': '1', 'fontSize': '24px', 'color': '#000', 'textDecoration': 'none'}),
-        html.Div([
-            dcc.Link('Table', href='/table', className='page'),
-            dcc.Link('Team Analysis', href='/team-analysis', className='page'),
-            dcc.Link('Team Rankings', href='/team-rankings', className='page'),
-            dcc.Link('Player Analysis', href='/player-analysis', className='page'),
-            dcc.Link('Player Rankings', href='/player-rankings', className='page'),
-        ], style={'textAlign': 'right'})
+        html.A('MLS 2023', href='/', className='season-link'),
+
+        html.Div(
+            dbc.DropdownMenu(
+                [
+                    dbc.DropdownMenuItem("Table", href='/table'),
+                    dbc.DropdownMenuItem("Team Analysis", href='/team-analysis'),
+                    dbc.DropdownMenuItem("Team Rankings", href='/team-rankings'),
+                    dbc.DropdownMenuItem("Player Analysis", href='/player-analysis'),
+                    dbc.DropdownMenuItem("Player Rankings", href='/player-rankings'),
+                ],
+                label=html.Img(src='assets/menu.png', alt='Open menu', className='menu-icon'),
+                direction="down",
+                className="dropdown-nav menu-button",
+                caret=False,  # Remove the arrow
+                toggle_style={
+                    "background": "transparent",
+                    "border": "none",
+                    "boxShadow": "none",
+                    "padding": "0"
+                }
+            ),
+            className='menu-button'
+        ),
+
+        html.Nav(
+            [
+                html.A('Table', href='/table', className='page'),
+                html.A('Team Analysis', href='/team-analysis', className='page'),
+                html.A('Team Rankings', href='/team-rankings', className='page'),
+                html.A('Player Analysis', href='/player-analysis', className='page'),
+                html.A('Player Rankings', href='/player-rankings', className='page'),
+            ],
+            className='nav-links',
+            id='nav-links'
+        )
     ], className='header'),
+
+
     html.Div(id='page-content', className='content'),
     html.Div(id='full-list-container', style={'display': 'none'}),
     html.Div(id='dummy-scroll-div', style={'display': 'none'}),

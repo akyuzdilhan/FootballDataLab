@@ -1,6 +1,18 @@
 from dash import dcc, Output, Input, State, ALL, callback, callback_context
 from layouts.home import sections
+from app import app
 import os
+
+@callback(
+    Output('offcanvas-menu', 'is_open'),
+    Input('menu-button', 'n_clicks'),
+    State('offcanvas-menu', 'is_open'),
+    prevent_initial_call=True
+)
+def toggle_offcanvas(n_clicks, is_open):
+    if n_clicks is None:
+        return is_open
+    return not is_open
 
 @callback(
     Output('modal', 'is_open'),
@@ -12,6 +24,7 @@ import os
     prevent_initial_call=True
 )
 def toggle_modal(n_clicks_list, n_clicks_close, is_open):
+    print("Modal is open:")
     ctx = callback_context
 
     if not ctx.triggered:
