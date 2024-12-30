@@ -100,8 +100,9 @@ def salary_vs_position(df):
 
 fig_salary_vs_position = salary_vs_position(df_MLS23_table)
 
-layout = html.Div([
-    html.Div([
+layout = html.Div(className='data-table-container', children=[
+
+    html.Div(className='table-section', children=[
         dash_table.DataTable(
             id='mls-table',
             columns=get_columns(df_MLS23_table_display),
@@ -109,27 +110,19 @@ layout = html.Div([
             style_table={'overflowX': 'auto'},
             page_size=30,
             sort_action='native',
-            sort_mode="single",
+            sort_mode='single',
             sort_by=[{'column_id': 'Pos', 'direction': 'asc'}],
             markdown_options={'html': True},
-            style_data_conditional=(
-                [
-                    {
-                        'if': {
-                            'filter_query': '{GD} < 0',
-                            'column_id': 'GD'
-                        },
-                        'color': 'red',
-                    },
-                    {
-                        'if': {
-                            'filter_query': '{GD} >= 0',
-                            'column_id': 'GD'
-                        },
-                        'color': 'green',
-                    },
-                ]
-            ),
+            style_data_conditional=[
+                {
+                    'if': {'filter_query': '{GD} < 0', 'column_id': 'GD'},
+                    'color': 'red',
+                },
+                {
+                    'if': {'filter_query': '{GD} >= 0', 'column_id': 'GD'},
+                    'color': 'green',
+                },
+            ],
             tooltip_header={
                 'Pld': 'Played',
                 'W': 'Wins',
@@ -156,7 +149,7 @@ layout = html.Div([
             },
             style_cell_conditional=[
                 {'if': {'column_id': 'Pos'}, 'width': '3%'},
-                {'if': {'column_id': 'Team'}, 'width': '40%'},
+                {'if': {'column_id': 'Team'}, 'width': '43%'},
                 {'if': {'column_id': 'Pld'}, 'width': '3%'},
                 {'if': {'column_id': 'W'}, 'width': '3%'},
                 {'if': {'column_id': 'L'}, 'width': '3%'},
@@ -165,16 +158,30 @@ layout = html.Div([
                 {'if': {'column_id': 'GA'}, 'width': '3%'},
                 {'if': {'column_id': 'GD'}, 'width': '3%'},
                 {'if': {'column_id': 'Pts'}, 'width': '3%'},
-                {'if': {'column_id': 'Annual Salary'}, 'width': '28%'},
+                {'if': {'column_id': 'Annual Salary'}, 'width': '25%'},
             ]
         )
-    ], style={'width': '43%', 'float': 'left'}),
-    html.Div([
+    ]),
+
+    html.Div(className='graphs-section', children=[
         html.Div([
-            dcc.Graph(figure=fig_team_salaries),
-        ], style={'padding': '10px', 'backgroundColor': '#F8F5F0', 'marginBottom': '10px'}),
+            dcc.Graph(
+                figure=fig_team_salaries, responsive=True,
+                style={
+                    'width': '100%',
+                    'minWidth': '300px',
+                    'height': 'auto'
+                }),
+        ], className='single-graph-container'),
+
         html.Div([
-            dcc.Graph(figure=fig_salary_vs_position),
-        ], style={'padding': '10px', 'backgroundColor': '#F8F5F0'}),
-    ], style={'width': '57%', 'float': 'right'}),
-], className='data-table-container')
+            dcc.Graph(
+                figure=fig_salary_vs_position, responsive=True,
+                style={
+                    'width': '100%',
+                    'minWidth': '300px',
+                    'height': 'auto'
+                }),
+        ], className='single-graph-container'),
+    ])
+])

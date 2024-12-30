@@ -1,7 +1,5 @@
-from dash import html
 from common.layout_helpers import load_team_data, create_global_stats_layout, create_stat_card, create_layout_with_cards
 from common.utils import metrics
-from callbacks.rankings_callbacks import register_rankings_callbacks
 
 def create_layout():
     df_team_stats, global_stats = load_team_data()

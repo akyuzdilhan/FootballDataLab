@@ -40,7 +40,7 @@ app.layout = html.Div([
                 label=html.Img(src='assets/menu.png', alt='Open menu', className='menu-icon'),
                 direction="down",
                 className="dropdown-nav menu-button",
-                caret=False,  # Remove the arrow
+                caret=False,
                 toggle_style={
                     "background": "transparent",
                     "border": "none",
@@ -112,4 +112,4 @@ def display_page(pathname):
         return home.layout
 
 if __name__ == '__main__':
-    app.run_server(debug=True) # False 
+    app.run_server(debug=False) 

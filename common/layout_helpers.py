@@ -1,6 +1,6 @@
 from dash import html, dcc
 from common.data_loader import load_team_stats, load_player_stats
-from common.utils import calculate_global_stats, encode_image
+from common.utils import calculate_global_stats
 import math
 
 def load_team_data():
@@ -72,12 +72,11 @@ def create_layout_with_cards(global_stats_layout, cards, full_list_container_id)
         html.Div(cards, id='stat-cards-container', className='stat-cards-container')
     ], className='stat-cards-wrapper')
 
-# Full list for both teams and players
 def generate_full_list(df, metric_value, metric_label, logo_column, name_column, ascending=True, page_number=1, metric_index=None, metric_type='team', items_per_page=30):
     sorted_df = df.sort_values(by=metric_value, ascending=ascending).reset_index(drop=True)
     total_items = len(sorted_df)
     total_pages = math.ceil(total_items / items_per_page)
-    page_number = min(page_number, total_pages)  # Ensure the page number doesn't exceed total pages
+    page_number = min(page_number, total_pages)
 
     start_idx = (page_number - 1) * items_per_page
     end_idx = min(start_idx + items_per_page, total_items)
