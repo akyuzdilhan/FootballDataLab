@@ -1,6 +1,7 @@
-from dash import html
+from dash import html, dcc
 from common.data_loader import load_team_stats, load_player_stats
-from common.utils import calculate_global_stats, encode_image
+from common.utils import calculate_global_stats
+import math
 
 def load_team_data():
     df_team_stats = load_team_stats()
@@ -33,6 +34,7 @@ def create_global_stats_layout(global_stats):
 def create_stat_card(metric, index, sorted_df, logo_column, name_column, id_prefix):
     metric_label = metric['label']
     metric_value = metric['value']
+    metric_type = metric['metric_type']
 
     top_row = html.Div([
         html.Span(f"{sorted_df.loc[0, name_column]}", className='top-name'),
@@ -58,41 +60,45 @@ def create_stat_card(metric, index, sorted_df, logo_column, name_column, id_pref
             top_row,
             html.Div(other_rows)
         ], className='card-content'),
-        html.Button('View full list', id={'type': id_prefix, 'index': index}, className='view-full-list-button', n_clicks=0)
+        html.Button('View full list', id={'type': 'view-full-list-button', 'metric_type': metric_type, 'index': index}, className='view-full-list-button', n_clicks=0)
     ]
     return html.Div(card_content, className='stat-card')
 
 def create_layout_with_cards(global_stats_layout, cards, full_list_container_id):
     return html.Div([
         global_stats_layout,
+        dcc.Store(id='page-store', data={}),
         html.Div(id=full_list_container_id, style={'paddingTop': '20px'}),
         html.Div(cards, id='stat-cards-container', className='stat-cards-container')
     ], className='stat-cards-wrapper')
 
-# Full list for both teams and players
-def generate_full_list(df, metric_value, metric_label, logo_column, name_column, ascending=True):
+def generate_full_list(df, metric_value, metric_label, logo_column, name_column, ascending=True, page_number=1, metric_index=None, metric_type='team', items_per_page=30):
     sorted_df = df.sort_values(by=metric_value, ascending=ascending).reset_index(drop=True)
+    total_items = len(sorted_df)
+    total_pages = math.ceil(total_items / items_per_page)
+    page_number = min(page_number, total_pages)
 
-    top_row = html.Div([
-        html.Span(f"{sorted_df.loc[0, name_column]}", className='top-name'),
-        html.Img(src=sorted_df.loc[0, logo_column], className='top-logo'),
-    ], className='top-row')
+    start_idx = (page_number - 1) * items_per_page
+    end_idx = min(start_idx + items_per_page, total_items)
 
-    top_value = html.Span(f"{sorted_df.loc[0, metric_value]}", className='top-value')
-
-    other_rows = [
+    rows = [
         html.Div([
             html.Span(f"{i + 1}. {sorted_df.loc[i, name_column]}", className='other-name'),
             html.Span(f"{sorted_df.loc[i, metric_value]}", className='other-value'),
             html.Img(src=sorted_df.loc[i, logo_column], className='other-logo'),
-        ], className='other-row') for i in range(1, len(sorted_df))
+        ], className='other-row') for i in range(start_idx, end_idx)
     ]
+
+    pagination_controls = html.Div([
+        html.Button('Previous', id={'type': 'previous-page-button', 'metric_type': metric_type, 'index': metric_index}, n_clicks=0, disabled=(page_number == 1)),
+        html.Span(f"Page {page_number} of {total_pages}", className='page-info'),
+        html.Button('Next', id={'type': 'next-page-button', 'metric_type': metric_type, 'index': metric_index}, n_clicks=0, disabled=(page_number == total_pages))
+    ], className='pagination-controls')
 
     card_content = html.Div([
         html.H3(metric_label, className='metric-label'),
-        top_value,
-        top_row,
-        html.Div(other_rows, className='full-list-content')
+        html.Div(rows, className='full-list-content'),
+        pagination_controls
     ], className='full-list-card', style={'width': '100%'})
 
     return card_content
