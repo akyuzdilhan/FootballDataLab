@@ -3,7 +3,7 @@ import dash_bootstrap_components as dbc
 from dash import html, dcc
 from dash.dependencies import Input, Output
 from common.data_loader import load_team_stats, load_player_stats
-from layouts import home, table, team_analysis, player_analysis
+from layouts import home, table, team_analysis, player_analysis, match_analysis
 from layouts.team_rankings import create_layout as create_team_rankings_layout
 from layouts.player_rankings import create_layout as create_player_rankings_layout
 from callbacks.team_analysis_callbacks import register_callbacks
@@ -36,6 +36,7 @@ app.layout = html.Div([
                     dbc.DropdownMenuItem("Team Rankings", href='/team-rankings'),
                     dbc.DropdownMenuItem("Player Analysis", href='/player-analysis'),
                     dbc.DropdownMenuItem("Player Rankings", href='/player-rankings'),
+                    #dbc.DropdownMenuItem("Match Analysis", href='/match-analysis'),
                 ],
                 label=html.Img(src='assets/menu.png', alt='Open menu', className='menu-icon'),
                 direction="down",
@@ -108,8 +109,10 @@ def display_page(pathname):
         return player_analysis.layout
     elif pathname == '/player-rankings':
         return create_player_rankings_layout()
+    #elif pathname == '/match-analysis':
+        #return match_analysis.layout
     else:
         return home.layout
 
 if __name__ == '__main__':
-    app.run_server(debug=False) 
+    app.run_server(debug=True) # app.run_server(host='0.0.0.0', port=8050, debug=False)
