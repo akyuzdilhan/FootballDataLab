@@ -2,9 +2,9 @@ player_url,fifa_version,short_name,long_name,club_name,league_name,nationality_n
 datasets/playersImage/158023Messi.png,24.0,L. Messi,Lionel Andrés Messi Cuccittini,Inter Miami,Major League Soccer,Argentina
 datasets/playersImage/189332Alba Ramos.png,24.0,Jordi Alba,Jordi Alba Ramos,Inter Miami,Major League Soccer,Spain
 datasets/playersImage/189511Busquets Burgos.png,24.0,Sergio Busquets,Sergio Busquets i Burgos,Inter Miami,Major League Soccer,Spain
-datasets/playersImage/198219Insigne.png,24.0,L. Insigne,Lorenzo Insigne,Toronto,Major League Soccer,Italy
+datasets/playersImage/198219Insigne.png,24.0,L. Insigne,Lorenzo Insigne,Toronto FC,Major League Soccer,Italy
 datasets/playersImage/210021Mukhtar.png,24.0,H. Mukhtar,Hany Mukhtar,Nashville SC,Major League Soccer,Germany
-datasets/playersImage/212404Bernardeschi.png,24.0,F. Bernardeschi,Federico Bernardeschi,Toronto,Major League Soccer,Italy
+datasets/playersImage/212404Bernardeschi.png,24.0,F. Bernardeschi,Federico Bernardeschi,Toronto FC,Major League Soccer,Italy
 datasets/playersImage/178224Hernández.png,24.0,J. Hernández,Javier Hernández Balcázar,LA Galaxy,Major League Soccer,Mexico
 datasets/playersImage/221634Acosta.png,24.0,L. Acosta,Luciano Federico Acosta,Cincinnati,Major League Soccer,Argentina
 datasets/playersImage/212591Zimmerman.png,24.0,W. Zimmerman,Walker Dwain Zimmerman,Nashville SC,Major League Soccer,United States
@@ -15,25 +15,25 @@ datasets/playersImage/201043Dejaegere.png,24.0,B. Dejaegere,Brecht Dejaegere,Cha
 datasets/playersImage/204259Arias.png,24.0,S. Arias,Santiago Arias Naranjo,Cincinnati,Major League Soccer,Colombia
 datasets/playersImage/207877Martínez.png,24.0,J. Martínez,Josef Alexander Martínez Mencia,Inter Miami,Major League Soccer,Venezuela
 datasets/playersImage/224301Świderski.png,24.0,K. Świderski,Karol Świderski,Charlotte,Major League Soccer,Poland
-datasets/playersImage/221908Morgan.png,24.0,L. Morgan,Lewis Morgan,New York RB,Major League Soccer,Scotland
+datasets/playersImage/221908Morgan.png,24.0,L. Morgan,Lewis Morgan,New York Red Bulls,Major League Soccer,Scotland
 datasets/playersImage/236885Vazquez.png,24.0,B. Vazquez,Brandon Vázquez Toledo,Cincinnati,Major League Soccer,United States
-datasets/playersImage/234905Vanzeir.png,24.0,D. Vanzeir,Dante Vanzeir,New York RB,Major League Soccer,Belgium
+datasets/playersImage/234905Vanzeir.png,24.0,D. Vanzeir,Dante Vanzeir,New York Red Bulls,Major League Soccer,Belgium
 datasets/playersImage/215565Miazga.png,24.0,M. Miazga,Matthew Miazga,Cincinnati,Major League Soccer,United States
 datasets/playersImage/191648Yoshida.png,24.0,M. Yoshida,吉田 麻也,LA Galaxy,Major League Soccer,Japan
 datasets/playersImage/205726Brugman.png,24.0,G. Brugman,Gastón Brugman Duarte,LA Galaxy,Major League Soccer,Uruguay
-datasets/playersImage/213439Osorio.png,24.0,J. Osorio,Jonathan Osorio,Toronto,Major League Soccer,Canada
+datasets/playersImage/213439Osorio.png,24.0,J. Osorio,Jonathan Osorio,Toronto FC,Major League Soccer,Canada
 datasets/playersImage/238332Copetti.png,24.0,E. Copetti,Enzo Nahuel Copetti,Charlotte,Major League Soccer,Argentina
 datasets/playersImage/251410de Magalhães da S..png,24.0,Gregore,Gregore de Magalhães da S.,Inter Miami,Major League Soccer,Brazil
-datasets/playersImage/242084Coronel.png,24.0,Carlos Coronel,Carlos Miguel Coronel,New York RB,Major League Soccer,Brazil
+datasets/playersImage/242084Coronel.png,24.0,Carlos Coronel,Carlos Miguel Coronel,New York Red Bulls,Major League Soccer,Brazil
 datasets/playersImage/232120Moore.png,24.0,S. Moore,Shaquell Moore,Nashville SC,Major League Soccer,United States
 datasets/playersImage/258881Nwobodo.png,24.0,O. Nwobodo,Obinna Nwobodo,Cincinnati,Major League Soccer,Nigeria
-datasets/playersImage/244186Lima Linhares.png,24.0,Luquinhas,Lucas Lima Linhares,New York RB,Major League Soccer,Brazil
+datasets/playersImage/244186Lima Linhares.png,24.0,Luquinhas,Lucas Lima Linhares,New York Red Bulls,Major League Soccer,Brazil
 datasets/playersImage/189280Westwood.png,24.0,A. Westwood,Ashley Westwood,Charlotte,Major League Soccer,England
 datasets/playersImage/206414Kryvtsov.png,24.0,S. Kryvtsov,Sergiy Kryvtsov,Inter Miami,Major League Soccer,Ukraine
 datasets/playersImage/209238Oliveira de Sousa.png,24.0,Jean Mota,Jean Mota Oliveira de Sousa,Inter Miami,Major League Soccer,Brazil
 datasets/playersImage/226273Davis.png,24.0,S. Davis,Sean Davis,Nashville SC,Major League Soccer,United States
 datasets/playersImage/236281Negri.png,24.0,F. Negri,Franco Negri,Inter Miami,Major League Soccer,Argentina
-datasets/playersImage/251834Tolkin.png,24.0,J. Tolkin,John Tolkin,New York RB,Major League Soccer,United States
+datasets/playersImage/251834Tolkin.png,24.0,J. Tolkin,John Tolkin,New York Red Bulls,Major League Soccer,United States
 datasets/playersImage/251105Joveljić.png,24.0,D. Joveljić,Dejan Joveljić,LA Galaxy,Major League Soccer,Serbia
 datasets/playersImage/234249Surridge.png,24.0,S. Surridge,Sam Surridge,Nashville SC,Major League Soccer,England
 datasets/playersImage/247648Miller.png,24.0,K. Miller,Kamal Anthony Miller,Inter Miami,Major League Soccer,Canada
@@ -44,19 +44,19 @@ datasets/playersImage/217047Godoy.png,24.0,A. Godoy,Aníbal Cesis Godoy Lemus,Na
 datasets/playersImage/240982Moreno.png,24.0,J. Moreno,Júnior Leonardo Moreno Borrero,Cincinnati,Major League Soccer,Venezuela
 datasets/playersImage/245691Barreal.png,24.0,Á. Barreal,Álvaro Martín Barreal,Cincinnati,Major League Soccer,Argentina
 datasets/playersImage/253568Campana.png,24.0,L. Campana,Leonardo Campana Romero,Inter Miami,Major League Soccer,Ecuador
-datasets/playersImage/247459Nealis.png,24.0,S. Nealis,Sean Nealis,New York RB,Major League Soccer,United States
+datasets/playersImage/247459Nealis.png,24.0,S. Nealis,Sean Nealis,New York Red Bulls,Major League Soccer,United States
 datasets/playersImage/253289Corujo.png,24.0,G. Corujo,Guzmán Corujo Bríccola,Charlotte,Major League Soccer,Uruguay
 datasets/playersImage/163050Sharp.png,24.0,B. Sharp,Billy Sharp,LA Galaxy,Major League Soccer,England
 datasets/playersImage/176071McCarty.png,24.0,D. McCarty,Dax McCarty,Nashville SC,Major League Soccer,United States
-datasets/playersImage/190780Johnson.png,24.0,S. Johnson,Sean Everet Johnson,Toronto,Major League Soccer,United States
+datasets/playersImage/190780Johnson.png,24.0,S. Johnson,Sean Everet Johnson,Toronto FC,Major League Soccer,United States
 datasets/playersImage/201895Fagundez.png,24.0,D. Fagundez,Diego Santiago Fagúndez Pepe,LA Galaxy,Major League Soccer,Uruguay
 datasets/playersImage/208592Delgado.png,24.0,M. Delgado,Marky Delgado,LA Galaxy,Major League Soccer,United States
 datasets/playersImage/211672Boyd.png,24.0,T. Boyd,Tyler Dominic Boyd,LA Galaxy,Major League Soccer,United States
 datasets/playersImage/212722Yedlin.png,24.0,D. Yedlin,DeAndre Roselle Yedlin,Inter Miami,Major League Soccer,United States
 datasets/playersImage/221306Barrios.png,24.0,M. Barrios,Michael David Barrios Puerta,LA Galaxy,Major League Soccer,Colombia
 datasets/playersImage/221713Lovitz.png,24.0,D. Lovitz,Daniel Lovitz,Nashville SC,Major League Soccer,United States
-datasets/playersImage/237153Blessing.png,24.0,L. Blessing,Latif Blessing,Toronto,Major League Soccer,Ghana
-datasets/playersImage/246048Reyes.png,24.0,A. Reyes,Andrés Felipe Reyes Ambuila,New York RB,Major League Soccer,Colombia
+datasets/playersImage/237153Blessing.png,24.0,L. Blessing,Latif Blessing,Toronto FC,Major League Soccer,Ghana
+datasets/playersImage/246048Reyes.png,24.0,A. Reyes,Andrés Felipe Reyes Ambuila,New York Red Bulls,Major League Soccer,Colombia
 datasets/playersImage/233222Jóźwiak.png,24.0,K. Jóźwiak,Kamil Jóźwiak,Charlotte,Major League Soccer,Poland
 datasets/playersImage/227911Leal.png,24.0,R. Leal,Randall Enrique Leal Arley,Nashville SC,Major League Soccer,Costa Rica
 datasets/playersImage/178287Arfield.png,24.0,S. Arfield,Scott Harry Nathaniel Arfield,Charlotte,Major League Soccer,Canada
@@ -66,43 +66,43 @@ datasets/playersImage/239944Taylor.png,24.0,R. Taylor,Robert Thomas Taylor,Inter
 datasets/playersImage/254234Arroyo.png,24.0,D. Arroyo,Dixon Jair Arroyo Espinoza,Inter Miami,Major League Soccer,Ecuador
 datasets/playersImage/262998Calegari.png,24.0,Calegari,Lucas Felipe Calegari,LA Galaxy,Major League Soccer,Brazil
 datasets/playersImage/274569Avilés.png,24.0,T. Avilés,Tomás Agustín Avilés,Inter Miami,Major League Soccer,Argentina
-datasets/playersImage/247582Amaya.png,24.0,F. Amaya,Frankie Amaya,New York RB,Major League Soccer,United States
+datasets/playersImage/247582Amaya.png,24.0,F. Amaya,Frankie Amaya,New York Red Bulls,Major League Soccer,United States
 datasets/playersImage/256666Mosquera.png,24.0,Y. Mosquera,Yerson Mosquera Valdelamar,Cincinnati,Major League Soccer,Colombia
 datasets/playersImage/266382Celentano.png,24.0,R. Celentano,Roman Celentano,Cincinnati,Major League Soccer,United States
 datasets/playersImage/254962Callender.png,24.0,D. Callender,Drake Callender,Inter Miami,Major League Soccer,United States
-datasets/playersImage/236038Duncan.png,24.0,K. Duncan,Kyle Duncan,New York RB,Major League Soccer,United States
-datasets/playersImage/237642Petretta.png,24.0,R. Petretta,Raoul Petretta,Toronto,Major League Soccer,Italy
-datasets/playersImage/155887Bradley.png,24.0,M. Bradley,Michael Bradley,Toronto,Major League Soccer,United States
+datasets/playersImage/236038Duncan.png,24.0,K. Duncan,Kyle Duncan,New York Red Bulls,Major League Soccer,United States
+datasets/playersImage/237642Petretta.png,24.0,R. Petretta,Raoul Petretta,Toronto FC,Major League Soccer,Italy
+datasets/playersImage/155887Bradley.png,24.0,M. Bradley,Michael Bradley,Toronto FC,Major League Soccer,United States
 datasets/playersImage/202223Meram.png,24.0,J. Meram,Justin Meram,Charlotte,Major League Soccer,Iraq
 datasets/playersImage/221680Hagglund.png,24.0,N. Hagglund,Nick Hagglund,Cincinnati,Major League Soccer,United States
 datasets/playersImage/224330Stefanelli.png,24.0,N. Stefanelli,Nicolás Marcelo Stefanelli,Inter Miami,Major League Soccer,Argentina
 datasets/playersImage/226495Santos Gomes.png,24.0,Sergio Santos,Sergio Henrique Santos Gomes,Cincinnati,Major League Soccer,Brazil
 datasets/playersImage/258095Aude.png,24.0,J. Aude,Julián Ezequiel Aude Bernardi,LA Galaxy,Major League Soccer,Argentina
-datasets/playersImage/271779Mailula.png,24.0,C. Mailula,Cassius Mailula,Toronto,Major League Soccer,South Africa
+datasets/playersImage/271779Mailula.png,24.0,C. Mailula,Cassius Mailula,Toronto FC,Major League Soccer,South Africa
 datasets/playersImage/247509Cerrillo.png,24.0,E. Cerrillo,Edwin Cerrillo,LA Galaxy,Major League Soccer,United States
 datasets/playersImage/197928Bond.png,24.0,J. Bond,Jonathan Bond,LA Galaxy,Major League Soccer,England
-datasets/playersImage/244250Owusu.png,24.0,P. Owusu,Prince Osei Owusu,Toronto,Major League Soccer,Germany
+datasets/playersImage/244250Owusu.png,24.0,P. Owusu,Prince Osei Owusu,Toronto FC,Major League Soccer,Germany
 datasets/playersImage/202814Byrne.png,24.0,N. Byrne,Nathan Byrne,Charlotte,Major League Soccer,England
 datasets/playersImage/217242Kubo.png,24.0,Y. Kubo,久保 裕也,Cincinnati,Major League Soccer,Japan
 datasets/playersImage/220886Tuiloma.png,24.0,B. Tuiloma,Bill Tuiloma,Charlotte,Major League Soccer,New Zealand
 datasets/playersImage/234927Edwards.png,24.0,R. Edwards,Raheem Edwards,LA Galaxy,Major League Soccer,Canada
-datasets/playersImage/241984Burke.png,24.0,C. Burke,Cory Burke,New York RB,Major League Soccer,Jamaica
-datasets/playersImage/269617Mina.png,24.0,J. Mina,Juan José Mina González,New York RB,Major League Soccer,Colombia
+datasets/playersImage/241984Burke.png,24.0,C. Burke,Cory Burke,New York Red Bulls,Major League Soccer,Jamaica
+datasets/playersImage/269617Mina.png,24.0,J. Mina,Juan José Mina González,New York Red Bulls,Major League Soccer,Colombia
 datasets/playersImage/242334Lindsey.png,24.0,J. Lindsey,Jaylin Lindsey,Charlotte,Major League Soccer,United States
 datasets/playersImage/269278Gómez.png,24.0,D. Gómez,Diego Alexander Gómez Amarilla,Inter Miami,Major League Soccer,Paraguay
 datasets/playersImage/259292Maher.png,24.0,J. Maher,Jack Maher,Nashville SC,Major League Soccer,United States
-datasets/playersImage/240611Yearwood.png,24.0,D. Yearwood,Dru Yearwood,New York RB,Major League Soccer,England
+datasets/playersImage/240611Yearwood.png,24.0,D. Yearwood,Dru Yearwood,New York Red Bulls,Major League Soccer,England
 datasets/playersImage/235425Jones.png,24.0,D. Jones,Derrick Jones Amaniampong,Charlotte,Major League Soccer,United States
 datasets/playersImage/251352Shaffelburg.png,24.0,J. Shaffelburg,Jacob Shaffelburg,Nashville SC,Major League Soccer,Canada
-datasets/playersImage/189508Vázquez Solsona.png,24.0,Víctor Vázquez,Víctor Vázquez Solsona,Toronto,Major League Soccer,Spain
-datasets/playersImage/202220Sapong.png,24.0,C. Sapong,Charles Kwabena Sapong,Toronto,Major League Soccer,United States
+datasets/playersImage/189508Vázquez Solsona.png,24.0,Víctor Vázquez,Víctor Vázquez Solsona,Toronto FC,Major League Soccer,Spain
+datasets/playersImage/202220Sapong.png,24.0,C. Sapong,Charles Kwabena Sapong,Toronto FC,Major League Soccer,United States
 datasets/playersImage/207783Gaddis.png,24.0,R. Gaddis,Raymon Gaddis,Cincinnati,Major League Soccer,United States
 datasets/playersImage/216346Powell.png,24.0,A. Powell,Alvas Elvis Powell,Cincinnati,Major League Soccer,Jamaica
 datasets/playersImage/227998Badji.png,24.0,D. Badji,Dominique Badji,Cincinnati,Major League Soccer,Senegal
 datasets/playersImage/231886Muyl.png,24.0,A. Muyl,Alex Muyl,Nashville SC,Major League Soccer,United States
 datasets/playersImage/262597Malanda.png,24.0,A. Malanda,Adilson Malanda,Charlotte,Major League Soccer,France
 datasets/playersImage/266716Angulo.png,24.0,M. Angulo,Marco Antonio Angulo Solórzano,Cincinnati,Major League Soccer,Ecuador
-datasets/playersImage/256426Harper.png,24.0,C. Harper,Cameron Harper,New York RB,Major League Soccer,United States
+datasets/playersImage/256426Harper.png,24.0,C. Harper,Cameron Harper,New York Red Bulls,Major League Soccer,United States
 datasets/playersImage/237920Bronico.png,24.0,B. Bronico,Brandt Bronico,Charlotte,Major League Soccer,United States
 datasets/playersImage/189514Afful.png,24.0,H. Afful,Harrison Afful,Charlotte,Major League Soccer,Ghana
 datasets/playersImage/193278Mavinga.png,24.0,C. Mavinga,Chris Mavinga,LA Galaxy,Major League Soccer,Congo DR
@@ -110,87 +110,87 @@ datasets/playersImage/193561Leerdam.png,24.0,K. Leerdam,Kelvin Walther Gianini L
 datasets/playersImage/197716Bunbury.png,24.0,T. Bunbury,Teal Alexander Bunbury,Nashville SC,Major League Soccer,United States
 datasets/playersImage/204677Rosell Argerich.png,24.0,Oriol Rosell,Oriol Rosell Argerich,LA Galaxy,Major League Soccer,Spain
 datasets/playersImage/213719Kann.png,24.0,A. Kann,Alec Kann,Cincinnati,Major League Soccer,United States
-datasets/playersImage/227362Rosted.png,24.0,S. Rosted,Sigurd Rosted,Toronto,Major League Soccer,Norway
+datasets/playersImage/227362Rosted.png,24.0,S. Rosted,Sigurd Rosted,Toronto FC,Major League Soccer,Norway
 datasets/playersImage/266282Kahlina.png,24.0,K. Kahlina,Kristijan Kahlina,Charlotte,Major League Soccer,Croatia
 datasets/playersImage/272687Cremaschi.png,24.0,B. Cremaschi,Benjamin Cremaschi,Inter Miami,Major League Soccer,United States
 datasets/playersImage/269913Vargas.png,24.0,K. Vargas,Kerwin Calderón Vargas,Charlotte,Major League Soccer,Colombia
 datasets/playersImage/266373Bender.png,24.0,B. Bender,Benjamin Bender,Charlotte,Major League Soccer,United States
-datasets/playersImage/242302Servania.png,24.0,B. Servania,Brandon Iván Servania,Toronto,Major League Soccer,United States
-datasets/playersImage/247084Fernandez.png,24.0,O. Fernandez,Omir Guadalupe Fernandez Mosso,New York RB,Major League Soccer,United States
+datasets/playersImage/242302Servania.png,24.0,B. Servania,Brandon Iván Servania,Toronto FC,Major League Soccer,United States
+datasets/playersImage/247084Fernandez.png,24.0,O. Fernandez,Omir Guadalupe Fernandez Mosso,New York Red Bulls,Major League Soccer,United States
 datasets/playersImage/239742Klinsmann.png,24.0,J. Klinsmann,Jonathan Klinsmann,LA Galaxy,Major League Soccer,United States
 datasets/playersImage/242199McVey.png,24.0,C. McVey,Christopher McVey,Inter Miami,Major League Soccer,Sweden
-datasets/playersImage/229650Gutiérrez.png,24.0,C. Gutiérrez,Cristián Daniel Gutiérrez Zúñiga,Toronto,Major League Soccer,Canada
+datasets/playersImage/229650Gutiérrez.png,24.0,C. Gutiérrez,Cristián Daniel Gutiérrez Zúñiga,Toronto FC,Major League Soccer,Canada
 datasets/playersImage/235590Sisniega.png,24.0,P. Sisniega,Pablo Eduardo Sisniega Fink,Charlotte,Major League Soccer,Mexico
 datasets/playersImage/237215DePuy.png,24.0,N. DePuy,Nick DePuy,Nashville SC,Major League Soccer,United States
-datasets/playersImage/207610Meara.png,24.0,R. Meara,Ryan Meara,New York RB,Major League Soccer,United States
+datasets/playersImage/207610Meara.png,24.0,R. Meara,Ryan Meara,New York Red Bulls,Major League Soccer,United States
 datasets/playersImage/231987Washington.png,24.0,T. Washington,Taylor Washington,Nashville SC,Major League Soccer,United States
 datasets/playersImage/232017Alfaro Vázquez.png,24.0,Tony Alfaro,José Antonio Alfaro Vázquez,LA Galaxy,Major League Soccer,Mexico
 datasets/playersImage/260635Neal.png,24.0,J. Neal,Jalen Neal,LA Galaxy,Major League Soccer,United States
-datasets/playersImage/272770Cabezas.png,24.0,J. Cabezas,Jorge Leguín Cabezas Hurtado,New York RB,Major League Soccer,Colombia
-datasets/playersImage/266033Edelman.png,24.0,D. Edelman,Daniel Edelman,New York RB,Major League Soccer,United States
-datasets/playersImage/260772Carmona.png,24.0,W. Carmona,Wikelman José Carmona Torres,New York RB,Major League Soccer,Venezuela
-datasets/playersImage/254695Ibarra.png,24.0,F. Ibarra,Franco Gabriel Ibarra,Toronto,Major League Soccer,Argentina
-datasets/playersImage/268433Franklin.png,24.0,K. Franklin,Kobe Franklin,Toronto,Major League Soccer,Canada
-datasets/playersImage/237550Ndam.png,24.0,H. Ndam,Hassan Ndam,New York RB,Major League Soccer,Cameroon
+datasets/playersImage/272770Cabezas.png,24.0,J. Cabezas,Jorge Leguín Cabezas Hurtado,New York Red Bulls,Major League Soccer,Colombia
+datasets/playersImage/266033Edelman.png,24.0,D. Edelman,Daniel Edelman,New York Red Bulls,Major League Soccer,United States
+datasets/playersImage/260772Carmona.png,24.0,W. Carmona,Wikelman José Carmona Torres,New York Red Bulls,Major League Soccer,Venezuela
+datasets/playersImage/254695Ibarra.png,24.0,F. Ibarra,Franco Gabriel Ibarra,Toronto FC,Major League Soccer,Argentina
+datasets/playersImage/268433Franklin.png,24.0,K. Franklin,Kobe Franklin,Toronto FC,Major League Soccer,Canada
+datasets/playersImage/237550Ndam.png,24.0,H. Ndam,Hassan Ndam,New York Red Bulls,Major League Soccer,Cameroon
 datasets/playersImage/250849Sobociński.png,24.0,J. Sobociński,Jan Sobociński,Charlotte,Major League Soccer,Poland
 datasets/playersImage/255031Robinson.png,24.0,R. Robinson,Robbie Robinson Belmar,Inter Miami,Major League Soccer,United States
-datasets/playersImage/260679Mabika.png,24.0,A. Mabika,Aimé Mabika,Toronto,Major League Soccer,Zambia
+datasets/playersImage/260679Mabika.png,24.0,A. Mabika,Aimé Mabika,Toronto FC,Major League Soccer,Zambia
 datasets/playersImage/239826Gaines.png,24.0,O. Gaines,Orrin McKinze Gaines II,Charlotte,Major League Soccer,United States
-datasets/playersImage/255033Nealis.png,24.0,D. Nealis,Dylan Nealis,New York RB,Major League Soccer,United States
-datasets/playersImage/188107Diomande.png,24.0,A. Diomande,Adama Valentin Diomande,Toronto,Major League Soccer,Norway
-datasets/playersImage/211581O'Neill.png,24.0,S. O'Neill,Shane Edward O'Neill,Toronto,Major League Soccer,United States
-datasets/playersImage/271195Manoel.png,24.0,Elias Manoel,Elias Manoel Alves de Paula,New York RB,Major League Soccer,Brazil
+datasets/playersImage/255033Nealis.png,24.0,D. Nealis,Dylan Nealis,New York Red Bulls,Major League Soccer,United States
+datasets/playersImage/188107Diomande.png,24.0,A. Diomande,Adama Valentin Diomande,Toronto FC,Major League Soccer,Norway
+datasets/playersImage/211581O'Neill.png,24.0,S. O'Neill,Shane Edward O'Neill,Toronto FC,Major League Soccer,United States
+datasets/playersImage/271195Manoel.png,24.0,Elias Manoel,Elias Manoel Alves de Paula,New York Red Bulls,Major League Soccer,Brazil
 datasets/playersImage/255177Anunga.png,24.0,B. Anunga,Brian Anunga,Nashville SC,Major League Soccer,Cameroon
 datasets/playersImage/266717MacNaughton.png,24.0,L. MacNaughton,Lukas MacNaughton,Nashville SC,Major League Soccer,Canada
 datasets/playersImage/200671Ulloa.png,24.0,V. Ulloa,Victor Ulloa,Inter Miami,Major League Soccer,Mexico
 datasets/playersImage/202073Zavaleta.png,24.0,E. Zavaleta,Eriq Anthony Zavaleta Vanney,LA Galaxy,Major League Soccer,El Salvador
-datasets/playersImage/243459Barlow.png,24.0,T. Barlow,Tom Barlow,New York RB,Major League Soccer,United States
+datasets/playersImage/243459Barlow.png,24.0,T. Barlow,Tom Barlow,New York Red Bulls,Major League Soccer,United States
 datasets/playersImage/268130Murphy.png,24.0,I. Murphy,Ian Murphy,Cincinnati,Major League Soccer,United States
 datasets/playersImage/240388Perry.png,24.0,N. Perry,Nebiyou Perry,Nashville SC,Major League Soccer,United States
-datasets/playersImage/255335Marshall-Rutty.png,24.0,J. Marshall-Rutty,Jahkeele Marshall-Rutty,Toronto,Major League Soccer,Canada
+datasets/playersImage/255335Marshall-Rutty.png,24.0,J. Marshall-Rutty,Jahkeele Marshall-Rutty,Toronto FC,Major League Soccer,Canada
 datasets/playersImage/274664Diop.png,24.0,H. Diop,Hamady Diop,Charlotte,Major League Soccer,Senegal
 datasets/playersImage/265988Silveira de Mello.png,24.0,Vinicius Mello,Vinicius Silveira de Mello,Charlotte,Major League Soccer,Brazil
-datasets/playersImage/260918Romero.png,24.0,T. Romero,Tomas Lían Romero Keubler,Toronto,Major League Soccer,El Salvador
-datasets/playersImage/266615Kerr.png,24.0,D. Kerr,Deandre Kerr,Toronto,Major League Soccer,Canada
+datasets/playersImage/260918Romero.png,24.0,T. Romero,Tomas Lían Romero Keubler,Toronto FC,Major League Soccer,El Salvador
+datasets/playersImage/266615Kerr.png,24.0,D. Kerr,Deandre Kerr,Toronto FC,Major League Soccer,Canada
 datasets/playersImage/263240Aguirre.png,24.0,D. Aguirre,Daniel Aguirre,LA Galaxy,Major League Soccer,United States
 datasets/playersImage/237399Louro.png,24.0,E. Louro,Evan Michael Louro,Cincinnati,Major League Soccer,United States
-datasets/playersImage/247448Ranjitsingh.png,24.0,G. Ranjitsingh,Gregory Ranjitsingh,Toronto,Major League Soccer,Trinidad and Tobago
+datasets/playersImage/247448Ranjitsingh.png,24.0,G. Ranjitsingh,Gregory Ranjitsingh,Toronto FC,Major League Soccer,Trinidad and Tobago
 datasets/playersImage/267874Marks.png,24.0,G. Marks,George Marks,Charlotte,Major League Soccer,United States
 datasets/playersImage/267801Sailor.png,24.0,R. Sailor,Ryan Sailor,Inter Miami,Major League Soccer,United States
 datasets/playersImage/268483Judd.png,24.0,P. Judd,Preston Judd,LA Galaxy,Major League Soccer,United States
 datasets/playersImage/261874Bauer.png,24.0,J. Bauer,Josh Bauer,Nashville SC,Major League Soccer,United States
 datasets/playersImage/247753Zubak.png,24.0,E. Zubak,Ethan Zubak,Nashville SC,Major League Soccer,United States
 datasets/playersImage/256111Panicco.png,24.0,E. Panicco,Elliot Panicco,Nashville SC,Major League Soccer,United States
-datasets/playersImage/267796Ngoma.png,24.0,S. Ngoma,Serge Ngoma,New York RB,Major League Soccer,United States
+datasets/playersImage/267796Ngoma.png,24.0,S. Ngoma,Serge Ngoma,New York Red Bulls,Major League Soccer,United States
 datasets/playersImage/275253Ruiz.png,24.0,D. Ruiz,David Ruiz,Inter Miami,Major League Soccer,Honduras
 datasets/playersImage/260616Saldaña.png,24.0,A. Saldaña,Adam Esparza Saldaña,LA Galaxy,Major League Soccer,United States
 datasets/playersImage/260732Fray.png,24.0,I. Fray,Ian Fray,Inter Miami,Major League Soccer,United States
-datasets/playersImage/272813Reid.png,24.0,J. Reid,Jayden Reid,New York RB,Major League Soccer,United States
+datasets/playersImage/272813Reid.png,24.0,J. Reid,Jayden Reid,New York Red Bulls,Major League Soccer,United States
 datasets/playersImage/267872Allen.png,24.0,N. Allen,Noah Allen,Inter Miami,Major League Soccer,United States
 datasets/playersImage/275032Mićović.png,24.0,N. Mićović,Novak Mićović,LA Galaxy,Major League Soccer,Serbia
-datasets/playersImage/270963Nocita.png,24.0,M. Nocita,Matthew Nocita,New York RB,Major League Soccer,United States
+datasets/playersImage/270963Nocita.png,24.0,M. Nocita,Matthew Nocita,New York Red Bulls,Major League Soccer,United States
 datasets/playersImage/263679Ordoñez.png,24.0,A. Ordoñez,Arquimides Ordoñez,Cincinnati,Major League Soccer,Guatemala
-datasets/playersImage/273548Stroud.png,24.0,P. Stroud,Peter Stroud,New York RB,Major League Soccer,United States
+datasets/playersImage/273548Stroud.png,24.0,P. Stroud,Peter Stroud,New York Red Bulls,Major League Soccer,United States
 datasets/playersImage/275251Cuevas.png,24.0,M. Cuevas,Mauricio Cuevas,LA Galaxy,Major League Soccer,United States
-datasets/playersImage/274976Coello.png,24.0,A. Coello,Alonso Coello Camarero,Toronto,Major League Soccer,Spain
+datasets/playersImage/274976Coello.png,24.0,A. Coello,Alonso Coello Camarero,Toronto FC,Major League Soccer,Spain
 datasets/playersImage/256106Haakenson.png,24.0,L. Haakenson,Luke Haakenson,Nashville SC,Major League Soccer,United States
 datasets/playersImage/257205Neville.png,24.0,H. Neville,Harvey Neville,Inter Miami,Major League Soccer,Republic of Ireland
 datasets/playersImage/275212Vivi.png,24.0,G. Vivi,Gino Vivi Quesada,LA Galaxy,Major League Soccer,Costa Rica
-datasets/playersImage/261022Estrela.png,24.0,B. Estrela,Bento Estrela,New York RB,Major League Soccer,United States
-datasets/playersImage/261639Ofori.png,24.0,C. Ofori,Curtis Ofori,New York RB,Major League Soccer,United States
+datasets/playersImage/261022Estrela.png,24.0,B. Estrela,Bento Estrela,New York Red Bulls,Major League Soccer,United States
+datasets/playersImage/261639Ofori.png,24.0,C. Ofori,Curtis Ofori,New York Red Bulls,Major League Soccer,United States
 datasets/playersImage/260724Ferkranus.png,24.0,M. Ferkranus,Marcus Ferkranus,LA Galaxy,Major League Soccer,United States
-datasets/playersImage/272667Mbongue.png,24.0,H. Mbongue,Hugo Mbongue,Toronto,Major League Soccer,Canada
+datasets/playersImage/272667Mbongue.png,24.0,H. Mbongue,Hugo Mbongue,Toronto FC,Major League Soccer,Canada
 datasets/playersImage/271109Longmire.png,24.0,A. Longmire,Ahmed Longmire,Nashville SC,Major League Soccer,United States
 datasets/playersImage/267636dos Santos.png,24.0,C. dos Santos,CJ dos Santos,Inter Miami,Major League Soccer,United States
 datasets/playersImage/274685Agyemang.png,24.0,P. Agyemang,Patrick Agyemang,Charlotte,Major League Soccer,Ghana
-datasets/playersImage/269091Antonoglou.png,24.0,T. Antonoglou,Themi Antonoglou,Toronto,Major League Soccer,Canada
-datasets/playersImage/277916Gavran.png,24.0,L. Gavran,Luka Gavran,Toronto,Major League Soccer,Canada
-datasets/playersImage/275469Faria.png,24.0,J. Faria,Jordan Faria,Toronto,Major League Soccer,Canada
+datasets/playersImage/269091Antonoglou.png,24.0,T. Antonoglou,Themi Antonoglou,Toronto FC,Major League Soccer,Canada
+datasets/playersImage/277916Gavran.png,24.0,L. Gavran,Luka Gavran,Toronto FC,Major League Soccer,Canada
+datasets/playersImage/275469Faria.png,24.0,J. Faria,Jordan Faria,Toronto FC,Major League Soccer,Canada
 datasets/playersImage/256274Wyke.png,24.0,L. Wyke,Laurence Wyke,Nashville SC,Major League Soccer,England
-datasets/playersImage/270066Sserwadda.png,24.0,S. Sserwadda,Steven Sserwadda,New York RB,Major League Soccer,Uganda
+datasets/playersImage/270066Sserwadda.png,24.0,S. Sserwadda,Steven Sserwadda,New York Red Bulls,Major League Soccer,Uganda
 datasets/playersImage/261232Halsey.png,24.0,B. Halsey,Bret Halsey,Cincinnati,Major League Soccer,United States
-datasets/playersImage/267787Marcucci.png,24.0,A. Marcucci,Anthony Marcucci,New York RB,Major League Soccer,United States
-datasets/playersImage/276497Stefanović.png,24.0,L. Stefanović,Lazar Stefanović,Toronto,Major League Soccer,Canada
+datasets/playersImage/267787Marcucci.png,24.0,A. Marcucci,Anthony Marcucci,New York Red Bulls,Major League Soccer,United States
+datasets/playersImage/276497Stefanović.png,24.0,L. Stefanović,Lazar Stefanović,Toronto FC,Major League Soccer,Canada
 datasets/playersImage/266281Hegardt.png,24.0,C. Hegardt,Christopher Hegardt,Charlotte,Major League Soccer,United States
 datasets/playersImage/277622Skinner.png,24.0,J. Skinner,Joey Skinner,Nashville SC,Major League Soccer,United States
 datasets/playersImage/272817Cambridge.png,24.0,B. Cambridge,Brandon Cambridge,Charlotte,Major League Soccer,United States

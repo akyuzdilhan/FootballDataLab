@@ -5,20 +5,20 @@ game,team,player,game_id,player_id,reason,status
 2023-02-26 Atlanta United-San Jose Earthquakes,Atlanta United,Giorgos Giakoumakis,1701721,347809,unfit,Doubtful
 2023-02-26 Atlanta United-San Jose Earthquakes,Atlanta United,Santiago Sosa,1701721,364065,suspended,Out
 2023-02-26 Atlanta United-San Jose Earthquakes,San Jose Earthquakes,Ousseni Bouda,1701721,433889,injured,Out
-2023-02-26 Charlotte FC-New England Revolution,Charlotte FC,Adam Armour,1701724,433531,injured,Out
-2023-02-26 Charlotte FC-New England Revolution,Charlotte FC,Guzmán Corujo,1701724,433524,injured,Out
-2023-02-26 Charlotte FC-New England Revolution,Charlotte FC,Vinicius Mello,1701724,417866,injured,Out
+2023-02-26 Charlotte FC-New England Revolution,Charlotte,Adam Armour,1701724,433531,injured,Out
+2023-02-26 Charlotte FC-New England Revolution,Charlotte,Guzmán Corujo,1701724,433524,injured,Out
+2023-02-26 Charlotte FC-New England Revolution,Charlotte,Vinicius Mello,1701724,417866,injured,Out
 2023-02-26 Charlotte FC-New England Revolution,New England Revolution,Jacob Jackson,1701724,433537,injured,Out
 2023-02-26 Charlotte FC-New England Revolution,New England Revolution,Maciel,1701724,414560,injured,Out
 2023-02-26 FC Dallas-Minnesota United,Minnesota United,Hassani Dotson,1701735,371031,injured,Out
 2023-02-26 FC Dallas-Minnesota United,Minnesota United,Patrick Weah,1701735,414571,injured,Out
-2023-02-26 Inter Miami CF-CF Montreal,Inter Miami CF,Corentin Jean,1701844,118351,injured,Out
-2023-02-26 Inter Miami CF-CF Montreal,Inter Miami CF,Ian Fray,1701844,445274,injured,Out
-2023-02-26 Inter Miami CF-CF Montreal,Inter Miami CF,Robbie Robinson,1701844,393147,injured,Out
+2023-02-26 Inter Miami CF-CF Montreal,Inter Miami,Corentin Jean,1701844,118351,injured,Out
+2023-02-26 Inter Miami CF-CF Montreal,Inter Miami,Ian Fray,1701844,445274,injured,Out
+2023-02-26 Inter Miami CF-CF Montreal,Inter Miami,Robbie Robinson,1701844,393147,injured,Out
 2023-02-26 Orlando City-New York Red Bulls,New York Red Bulls,Dru Yearwood,1701729,342789,injured,Out
 2023-02-26 Orlando City-New York Red Bulls,Orlando City,Antônio Carlos,1701729,114164,injured,Out
 2023-02-27 Seattle Sounders FC-Colorado Rapids,Seattle Sounders FC,Raúl Ruidíaz,1701719,85915,injured,Out
-2023-03-04 Los Angeles FC-Portland Timbers,Los Angeles FC,Maxime Crépeau,1701705,137263,suspended,Out
+2023-03-04 Los Angeles FC-Portland Timbers,LAFC,Maxime Crépeau,1701705,137263,suspended,Out
 2023-03-04 Los Angeles FC-Portland Timbers,Portland Timbers,Claudio Bravo,1701705,302984,injured,Out
 2023-03-04 Los Angeles FC-Portland Timbers,Portland Timbers,Felipe Mora,1701705,393150,injured,Out
 2023-03-04 Los Angeles FC-Portland Timbers,Portland Timbers,Yimmi Chará,1701705,97041,injured,Out
@@ -32,8 +32,8 @@ game,team,player,game_id,player_id,reason,status
 2023-03-05 FC Dallas-LA Galaxy,LA Galaxy,Calegari,1701715,378634,injured doubtful,Doubtful
 2023-03-05 FC Dallas-LA Galaxy,LA Galaxy,Chicharito,1701715,35003,injured,Out
 2023-03-05 FC Dallas-LA Galaxy,LA Galaxy,Douglas Costa,1701715,68889,injured,Out
-2023-03-05 Inter Miami CF-Philadelphia Union,Inter Miami CF,Ian Fray,1701706,445274,injured,Out
-2023-03-05 Inter Miami CF-Philadelphia Union,Inter Miami CF,Robbie Robinson,1701706,393147,injured,Out
+2023-03-05 Inter Miami CF-Philadelphia Union,Inter Miami,Ian Fray,1701706,445274,injured,Out
+2023-03-05 Inter Miami CF-Philadelphia Union,Inter Miami,Robbie Robinson,1701706,393147,injured,Out
 2023-03-05 New England Revolution-Houston Dynamo FC,New England Revolution,Jacob Jackson,1701709,433537,injured,Out
 2023-03-05 New England Revolution-Houston Dynamo FC,New England Revolution,Maciel,1701709,414560,injured,Out
 2023-03-05 New York Red Bulls-Nashville SC,Nashville SC,Nick DePuy,1701711,334518,injured,Out
@@ -41,16 +41,16 @@ game,team,player,game_id,player_id,reason,status
 2023-03-05 Orlando City-FC Cincinnati,Orlando City,Antônio Carlos,1701714,114164,injured,Out
 2023-03-05 San Jose Earthquakes-Vancouver Whitecaps,San Jose Earthquakes,Ousseni Bouda,1701843,433889,injured,Out
 2023-03-05 Seattle Sounders FC-Real Salt Lake,Seattle Sounders FC,Raúl Ruidíaz,1701726,85915,injured,Out
-2023-03-05 St. Louis City-Charlotte FC,Charlotte FC,Adam Armour,1701718,433531,injured,Out
-2023-03-05 St. Louis City-Charlotte FC,Charlotte FC,Guzmán Corujo,1701718,433524,injured,Out
-2023-03-05 St. Louis City-Charlotte FC,Charlotte FC,Vinicius Mello,1701718,417866,injured,Out
+2023-03-05 St. Louis City-Charlotte FC,Charlotte,Adam Armour,1701718,433531,injured,Out
+2023-03-05 St. Louis City-Charlotte FC,Charlotte,Guzmán Corujo,1701718,433524,injured,Out
+2023-03-05 St. Louis City-Charlotte FC,Charlotte,Vinicius Mello,1701718,417866,injured,Out
 2023-03-11 Charlotte FC-Atlanta United,Atlanta United,Machop Chol,1701742,413707,injured,Out
 2023-03-11 Charlotte FC-Atlanta United,Atlanta United,Osvaldo Alonso,1701742,72567,injured,Out
 2023-03-11 Charlotte FC-Atlanta United,Atlanta United,Tyler Wolff,1701742,396297,injured doubtful,Doubtful
-2023-03-11 Charlotte FC-Atlanta United,Charlotte FC,Adam Armour,1701742,433531,injured,Out
-2023-03-11 Charlotte FC-Atlanta United,Charlotte FC,Guzmán Corujo,1701742,433524,injured,Out
-2023-03-11 Charlotte FC-Atlanta United,Charlotte FC,Kristijan Kahlina,1701742,425343,injured,Out
-2023-03-11 Charlotte FC-Atlanta United,Charlotte FC,Vinicius Mello,1701742,417866,injured doubtful,Doubtful
+2023-03-11 Charlotte FC-Atlanta United,Charlotte,Adam Armour,1701742,433531,injured,Out
+2023-03-11 Charlotte FC-Atlanta United,Charlotte,Guzmán Corujo,1701742,433524,injured,Out
+2023-03-11 Charlotte FC-Atlanta United,Charlotte,Kristijan Kahlina,1701742,425343,injured,Out
+2023-03-11 Charlotte FC-Atlanta United,Charlotte,Vinicius Mello,1701742,417866,injured doubtful,Doubtful
 2023-03-11 Vancouver Whitecaps-FC Dallas,FC Dallas,Marco Farfan,1701864,334427,injured doubtful,Doubtful
 2023-03-11 Vancouver Whitecaps-FC Dallas,FC Dallas,Paxton Pomykal,1701864,328380,injured doubtful,Doubtful
 2023-03-11 Vancouver Whitecaps-FC Dallas,Vancouver Whitecaps,Cristián Gutiérrez,1701864,393110,injured,Out
@@ -76,10 +76,10 @@ game,team,player,game_id,player_id,reason,status
 2023-03-12 Nashville SC-CF Montreal,CF Montreal,Romell Quioto,1701870,334513,injured,Out
 2023-03-12 Nashville SC-CF Montreal,CF Montreal,Samuel Piette,1701870,117112,injured,Out
 2023-03-12 Nashville SC-CF Montreal,Nashville SC,Nick DePuy,1701870,334518,injured,Out
-2023-03-12 New York City FC-Inter Miami CF,Inter Miami CF,Corentin Jean,1701728,118351,injured doubtful,Doubtful
-2023-03-12 New York City FC-Inter Miami CF,Inter Miami CF,Edison Azcona,1701728,413765,injured,Out
-2023-03-12 New York City FC-Inter Miami CF,Inter Miami CF,Ian Fray,1701728,445274,injured,Out
-2023-03-12 New York City FC-Inter Miami CF,Inter Miami CF,Noah Allen,1701728,433513,injured,Out
+2023-03-12 New York City FC-Inter Miami CF,Inter Miami,Corentin Jean,1701728,118351,injured doubtful,Doubtful
+2023-03-12 New York City FC-Inter Miami CF,Inter Miami,Edison Azcona,1701728,413765,injured,Out
+2023-03-12 New York City FC-Inter Miami CF,Inter Miami,Ian Fray,1701728,445274,injured,Out
+2023-03-12 New York City FC-Inter Miami CF,Inter Miami,Noah Allen,1701728,433513,injured,Out
 2023-03-12 New York City FC-Inter Miami CF,New York City FC,James Sands,1701728,345160,injured doubtful,Doubtful
 2023-03-12 New York City FC-Inter Miami CF,New York City FC,Mitja Ilenic,1701728,435079,injured doubtful,Doubtful
 2023-03-12 New York City FC-Inter Miami CF,New York City FC,Tayvon Gray,1701728,396066,injured doubtful,Doubtful
@@ -116,7 +116,7 @@ game,team,player,game_id,player_id,reason,status
 2023-03-12 Toronto FC-Columbus Crew,Toronto FC,Ayo Akinola,1701868,356147,injured,Out
 2023-03-12 Toronto FC-Columbus Crew,Toronto FC,Lorenzo Insigne,1701868,83390,injured,Out
 2023-03-12 Toronto FC-Columbus Crew,Toronto FC,Themi Antonoglou,1701868,437100,injured doubtful,Doubtful
-2023-03-13 Los Angeles FC-New England Revolution,Los Angeles FC,Maxime Crépeau,1701730,137263,suspended,Out
+2023-03-13 Los Angeles FC-New England Revolution,LAFC,Maxime Crépeau,1701730,137263,suspended,Out
 2023-03-13 Los Angeles FC-New England Revolution,New England Revolution,Andrew Farrell,1701730,126735,injured,Out
 2023-03-13 Los Angeles FC-New England Revolution,New England Revolution,Gustavo Bou,1701730,38559,injured doubtful,Doubtful
 2023-03-13 Los Angeles FC-New England Revolution,New England Revolution,Jacob Jackson,1701730,433537,injured,Out
@@ -150,19 +150,19 @@ game,team,player,game_id,player_id,reason,status
 2023-03-18 New York Red Bulls-Columbus Crew,New York Red Bulls,Cameron Harper,1701716,398270,injured doubtful,Doubtful
 2023-03-18 New York Red Bulls-Columbus Crew,New York Red Bulls,Dru Yearwood,1701716,342789,injured,Out
 2023-03-18 New York Red Bulls-Columbus Crew,New York Red Bulls,Serge Ngoma,1701716,433519,injured,Out
-2023-03-18 Orlando City-Charlotte FC,Charlotte FC,Adam Armour,1701710,433531,injured,Out
-2023-03-18 Orlando City-Charlotte FC,Charlotte FC,Guzmán Corujo,1701710,433524,injured,Out
-2023-03-18 Orlando City-Charlotte FC,Charlotte FC,Kristijan Kahlina,1701710,425343,injured,Out
-2023-03-18 Orlando City-Charlotte FC,Charlotte FC,Vinicius Mello,1701710,417866,injured doubtful,Doubtful
+2023-03-18 Orlando City-Charlotte FC,Charlotte,Adam Armour,1701710,433531,injured,Out
+2023-03-18 Orlando City-Charlotte FC,Charlotte,Guzmán Corujo,1701710,433524,injured,Out
+2023-03-18 Orlando City-Charlotte FC,Charlotte,Kristijan Kahlina,1701710,425343,injured,Out
+2023-03-18 Orlando City-Charlotte FC,Charlotte,Vinicius Mello,1701710,417866,injured doubtful,Doubtful
 2023-03-18 Orlando City-Charlotte FC,Orlando City,Antônio Carlos,1701710,114164,injured,Out
 2023-03-18 Orlando City-Charlotte FC,Orlando City,Favian Loyola,1701710,467694,injured doubtful,Doubtful
 2023-03-18 Orlando City-Charlotte FC,Orlando City,Jack Lynn,1701710,434256,injured doubtful,Doubtful
-2023-03-18 Seattle Sounders FC-Los Angeles FC,Los Angeles FC,Ryan Hollingshead,1701722,144810,injured,Out
+2023-03-18 Seattle Sounders FC-Los Angeles FC,LAFC,Ryan Hollingshead,1701722,144810,injured,Out
 2023-03-18 Seattle Sounders FC-Los Angeles FC,Seattle Sounders FC,Obed Vargas,1701722,419580,injured,Out
-2023-03-18 Toronto FC-Inter Miami CF,Inter Miami CF,Corentin Jean,1701894,118351,injured doubtful,Doubtful
-2023-03-18 Toronto FC-Inter Miami CF,Inter Miami CF,Edison Azcona,1701894,413765,injured,Out
-2023-03-18 Toronto FC-Inter Miami CF,Inter Miami CF,Ian Fray,1701894,445274,injured,Out
-2023-03-18 Toronto FC-Inter Miami CF,Inter Miami CF,Noah Allen,1701894,433513,injured,Out
+2023-03-18 Toronto FC-Inter Miami CF,Inter Miami,Corentin Jean,1701894,118351,injured doubtful,Doubtful
+2023-03-18 Toronto FC-Inter Miami CF,Inter Miami,Edison Azcona,1701894,413765,injured,Out
+2023-03-18 Toronto FC-Inter Miami CF,Inter Miami,Ian Fray,1701894,445274,injured,Out
+2023-03-18 Toronto FC-Inter Miami CF,Inter Miami,Noah Allen,1701894,433513,injured,Out
 2023-03-18 Toronto FC-Inter Miami CF,Toronto FC,Adama Diomande,1701894,243562,injured,Out
 2023-03-18 Toronto FC-Inter Miami CF,Toronto FC,Ayo Akinola,1701894,356147,injured,Out
 2023-03-18 Toronto FC-Inter Miami CF,Toronto FC,Lorenzo Insigne,1701894,83390,injured,Out
@@ -195,10 +195,10 @@ game,team,player,game_id,player_id,reason,status
 2023-03-19 St. Louis City-San Jose Earthquakes,San Jose Earthquakes,Niko Tsakiris,1701756,433890,injured,Out
 2023-03-19 St. Louis City-San Jose Earthquakes,St. Louis City,Isak Jensen,1701756,464921,injured,Out
 2023-03-19 St. Louis City-San Jose Earthquakes,St. Louis City,Joakim Nilsson,1701756,320565,injured,Out
-2023-03-25 Charlotte FC-New York Red Bulls,Charlotte FC,Adam Armour,1701754,433531,injured,Out
-2023-03-25 Charlotte FC-New York Red Bulls,Charlotte FC,Guzmán Corujo,1701754,433524,injured,Out
-2023-03-25 Charlotte FC-New York Red Bulls,Charlotte FC,Kristijan Kahlina,1701754,425343,injured,Out
-2023-03-25 Charlotte FC-New York Red Bulls,Charlotte FC,Vinicius Mello,1701754,417866,injured doubtful,Doubtful
+2023-03-25 Charlotte FC-New York Red Bulls,Charlotte,Adam Armour,1701754,433531,injured,Out
+2023-03-25 Charlotte FC-New York Red Bulls,Charlotte,Guzmán Corujo,1701754,433524,injured,Out
+2023-03-25 Charlotte FC-New York Red Bulls,Charlotte,Kristijan Kahlina,1701754,425343,injured,Out
+2023-03-25 Charlotte FC-New York Red Bulls,Charlotte,Vinicius Mello,1701754,417866,injured doubtful,Doubtful
 2023-03-25 Charlotte FC-New York Red Bulls,New York Red Bulls,Dru Yearwood,1701754,342789,injured,Out
 2023-03-25 Charlotte FC-New York Red Bulls,New York Red Bulls,Lewis Morgan,1701754,364232,injured,Out
 2023-03-25 Charlotte FC-New York Red Bulls,New York Red Bulls,Serge Ngoma,1701754,433519,injured,Out
@@ -217,11 +217,11 @@ game,team,player,game_id,player_id,reason,status
 2023-03-25 Inter Miami CF-Chicago Fire FC,Chicago Fire FC,Justin Reynolds,1701750,471853,injured,Out
 2023-03-25 Inter Miami CF-Chicago Fire FC,Chicago Fire FC,Sergio Oregel,1701750,436485,injured,Out
 2023-03-25 Inter Miami CF-Chicago Fire FC,Chicago Fire FC,Xherdan Shaqiri,1701750,76304,injured,Out
-2023-03-25 Inter Miami CF-Chicago Fire FC,Inter Miami CF,Edison Azcona,1701750,413765,injured,Out
-2023-03-25 Inter Miami CF-Chicago Fire FC,Inter Miami CF,Gregore,1701750,355710,injured,Out
-2023-03-25 Inter Miami CF-Chicago Fire FC,Inter Miami CF,Ian Fray,1701750,445274,injured,Out
-2023-03-25 Inter Miami CF-Chicago Fire FC,Inter Miami CF,Noah Allen,1701750,433513,injured,Out
-2023-03-25 Inter Miami CF-Chicago Fire FC,Inter Miami CF,Robbie Robinson,1701750,393147,injured,Out
+2023-03-25 Inter Miami CF-Chicago Fire FC,Inter Miami,Edison Azcona,1701750,413765,injured,Out
+2023-03-25 Inter Miami CF-Chicago Fire FC,Inter Miami,Gregore,1701750,355710,injured,Out
+2023-03-25 Inter Miami CF-Chicago Fire FC,Inter Miami,Ian Fray,1701750,445274,injured,Out
+2023-03-25 Inter Miami CF-Chicago Fire FC,Inter Miami,Noah Allen,1701750,433513,injured,Out
+2023-03-25 Inter Miami CF-Chicago Fire FC,Inter Miami,Robbie Robinson,1701750,393147,injured,Out
 2023-03-25 Philadelphia Union-Orlando City,Orlando City,Favian Loyola,1701749,467694,injured doubtful,Doubtful
 2023-03-25 Philadelphia Union-Orlando City,Philadelphia Union,Andre Blake,1701749,143496,injured,Out
 2023-03-25 Philadelphia Union-Orlando City,Philadelphia Union,Julián Carranza,1701749,347863,suspended,Out
@@ -244,9 +244,9 @@ game,team,player,game_id,player_id,reason,status
 2023-03-26 Austin FC-Colorado Rapids,Colorado Rapids,Moise Bombito,1701748,474201,injured,Out
 2023-03-26 Houston Dynamo FC-New York City FC,Houston Dynamo FC,Brad Smith,1701747,141414,injured,Out
 2023-03-26 Los Angeles FC-FC Dallas,FC Dallas,Paxton Pomykal,1701758,328380,injured,Out
-2023-03-26 Los Angeles FC-FC Dallas,Los Angeles FC,Kellyn Acosta,1701758,126909,injured doubtful,Doubtful
-2023-03-26 Los Angeles FC-FC Dallas,Los Angeles FC,Maxime Crépeau,1701758,137263,injured,Out
-2023-03-26 Los Angeles FC-FC Dallas,Los Angeles FC,Tony Leone,1701758,399744,injured,Out
+2023-03-26 Los Angeles FC-FC Dallas,LAFC,Kellyn Acosta,1701758,126909,injured doubtful,Doubtful
+2023-03-26 Los Angeles FC-FC Dallas,LAFC,Maxime Crépeau,1701758,137263,injured,Out
+2023-03-26 Los Angeles FC-FC Dallas,LAFC,Tony Leone,1701758,399744,injured,Out
 2023-03-26 Minnesota United-Vancouver Whitecaps,Minnesota United,Bakaye Dibassy,1701892,248278,injured,Out
 2023-03-26 Minnesota United-Vancouver Whitecaps,Minnesota United,Doneil Henry,1701892,91780,injured doubtful,Doubtful
 2023-03-26 Minnesota United-Vancouver Whitecaps,Minnesota United,Mikael Marques,1701892,407883,injured,Out
@@ -283,15 +283,15 @@ game,team,player,game_id,player_id,reason,status
 2023-04-01 Columbus Crew-Real Salt Lake,Columbus Crew,Josh Williams,1701780,99318,injured,Out
 2023-04-01 Columbus Crew-Real Salt Lake,Columbus Crew,Kevin Molino,1701780,138492,injured,Out
 2023-04-01 Columbus Crew-Real Salt Lake,Real Salt Lake,Zack Farnsworth,1701780,448622,injured,Out
-2023-04-01 FC Cincinnati-Inter Miami CF,FC Cincinnati,Malik Pinto,1701779,470407,injured,Out
-2023-04-01 FC Cincinnati-Inter Miami CF,FC Cincinnati,Yuya Kubo,1701779,109664,injured,Out
-2023-04-01 FC Cincinnati-Inter Miami CF,Inter Miami CF,Edison Azcona,1701779,413765,injured,Out
-2023-04-01 FC Cincinnati-Inter Miami CF,Inter Miami CF,Franco Negri,1701779,323654,injured doubtful,Doubtful
-2023-04-01 FC Cincinnati-Inter Miami CF,Inter Miami CF,Gregore,1701779,355710,injured,Out
-2023-04-01 FC Cincinnati-Inter Miami CF,Inter Miami CF,Ian Fray,1701779,445274,injured,Out
-2023-04-01 FC Cincinnati-Inter Miami CF,Inter Miami CF,Jean Mota,1701779,110601,injured doubtful,Doubtful
-2023-04-01 FC Cincinnati-Inter Miami CF,Inter Miami CF,Noah Allen,1701779,433513,injured,Out
-2023-04-01 FC Cincinnati-Inter Miami CF,Inter Miami CF,Robbie Robinson,1701779,393147,injured,Out
+2023-04-01 FC Cincinnati-Inter Miami CF,Cincinnati,Malik Pinto,1701779,470407,injured,Out
+2023-04-01 FC Cincinnati-Inter Miami CF,Cincinnati,Yuya Kubo,1701779,109664,injured,Out
+2023-04-01 FC Cincinnati-Inter Miami CF,Inter Miami,Edison Azcona,1701779,413765,injured,Out
+2023-04-01 FC Cincinnati-Inter Miami CF,Inter Miami,Franco Negri,1701779,323654,injured doubtful,Doubtful
+2023-04-01 FC Cincinnati-Inter Miami CF,Inter Miami,Gregore,1701779,355710,injured,Out
+2023-04-01 FC Cincinnati-Inter Miami CF,Inter Miami,Ian Fray,1701779,445274,injured,Out
+2023-04-01 FC Cincinnati-Inter Miami CF,Inter Miami,Jean Mota,1701779,110601,injured doubtful,Doubtful
+2023-04-01 FC Cincinnati-Inter Miami CF,Inter Miami,Noah Allen,1701779,433513,injured,Out
+2023-04-01 FC Cincinnati-Inter Miami CF,Inter Miami,Robbie Robinson,1701779,393147,injured,Out
 2023-04-01 LA Galaxy-Seattle Sounders FC,LA Galaxy,Chase Gasper,1701781,371032,injured,Out
 2023-04-01 LA Galaxy-Seattle Sounders FC,LA Galaxy,Chicharito,1701781,35003,injured,Out
 2023-04-01 LA Galaxy-Seattle Sounders FC,LA Galaxy,Douglas Costa,1701781,68889,injured,Out
@@ -304,8 +304,8 @@ game,team,player,game_id,player_id,reason,status
 2023-04-01 Orlando City-Nashville SC,Nashville SC,Nick DePuy,1701765,334518,injured,Out
 2023-04-01 Orlando City-Nashville SC,Nashville SC,Randall Leal,1701765,393102,injured,Out
 2023-04-01 Orlando City-Nashville SC,Orlando City,Favian Loyola,1701765,467694,injured doubtful,Doubtful
-2023-04-01 Toronto FC-Charlotte FC,Charlotte FC,Guzmán Corujo,1701890,433524,injured,Out
-2023-04-01 Toronto FC-Charlotte FC,Charlotte FC,Kristijan Kahlina,1701890,425343,injured,Out
+2023-04-01 Toronto FC-Charlotte FC,Charlotte,Guzmán Corujo,1701890,433524,injured,Out
+2023-04-01 Toronto FC-Charlotte FC,Charlotte,Kristijan Kahlina,1701890,425343,injured,Out
 2023-04-01 Toronto FC-Charlotte FC,Toronto FC,Adama Diomande,1701890,243562,injured,Out
 2023-04-01 Toronto FC-Charlotte FC,Toronto FC,Cristián Gutiérrez,1701890,393110,injured,Out
 2023-04-01 Toronto FC-Charlotte FC,Toronto FC,Lorenzo Insigne,1701890,83390,injured,Out
@@ -322,9 +322,9 @@ game,team,player,game_id,player_id,reason,status
 2023-04-02 Colorado Rapids-Los Angeles FC,Colorado Rapids,Jack Price,1701783,105891,injured,Out
 2023-04-02 Colorado Rapids-Los Angeles FC,Colorado Rapids,Lalas Abubakar,1701783,334731,injured,Out
 2023-04-02 Colorado Rapids-Los Angeles FC,Colorado Rapids,Moise Bombito,1701783,474201,injured,Out
-2023-04-02 Colorado Rapids-Los Angeles FC,Los Angeles FC,Kellyn Acosta,1701783,126909,injured doubtful,Doubtful
-2023-04-02 Colorado Rapids-Los Angeles FC,Los Angeles FC,Maxime Crépeau,1701783,137263,injured,Out
-2023-04-02 Colorado Rapids-Los Angeles FC,Los Angeles FC,Tony Leone,1701783,399744,injured,Out
+2023-04-02 Colorado Rapids-Los Angeles FC,LAFC,Kellyn Acosta,1701783,126909,injured doubtful,Doubtful
+2023-04-02 Colorado Rapids-Los Angeles FC,LAFC,Maxime Crépeau,1701783,137263,injured,Out
+2023-04-02 Colorado Rapids-Los Angeles FC,LAFC,Tony Leone,1701783,399744,injured,Out
 2023-04-02 FC Dallas-Portland Timbers,FC Dallas,Ema Twumasi,1701771,358965,suspended,Out
 2023-04-02 FC Dallas-Portland Timbers,FC Dallas,Marco Farfan,1701771,334427,injured doubtful,Doubtful
 2023-04-02 FC Dallas-Portland Timbers,FC Dallas,Tarik Scott,1701771,474793,injured,Out
@@ -367,20 +367,20 @@ game,team,player,game_id,player_id,reason,status
 2023-04-08 DC United-Columbus Crew,DC United,Martín Rodríguez,1701777,101584,injured,Out
 2023-04-08 DC United-Columbus Crew,DC United,Nigel Robertha,1701777,316933,injured doubtful,Doubtful
 2023-04-08 DC United-Columbus Crew,DC United,Pedro Santos,1701777,121356,injured,Out
-2023-04-08 FC Cincinnati-Philadelphia Union,FC Cincinnati,Yuya Kubo,1701759,109664,injured,Out
+2023-04-08 FC Cincinnati-Philadelphia Union,Cincinnati,Yuya Kubo,1701759,109664,injured,Out
 2023-04-08 FC Cincinnati-Philadelphia Union,Philadelphia Union,Kai Wagner,1701759,371010,injured,Out
 2023-04-08 Inter Miami CF-FC Dallas,FC Dallas,Isaiah Parker,1701762,433503,injured,Out
 2023-04-08 Inter Miami CF-FC Dallas,FC Dallas,Tarik Scott,1701762,474793,injured,Out
-2023-04-08 Inter Miami CF-FC Dallas,Inter Miami CF,Edison Azcona,1701762,413765,injured,Out
-2023-04-08 Inter Miami CF-FC Dallas,Inter Miami CF,Gregore,1701762,355710,injured,Out
-2023-04-08 Inter Miami CF-FC Dallas,Inter Miami CF,Ian Fray,1701762,445274,injured,Out
-2023-04-08 Inter Miami CF-FC Dallas,Inter Miami CF,Leonardo Campana,1701762,392650,injured,Out
-2023-04-08 Inter Miami CF-FC Dallas,Inter Miami CF,Noah Allen,1701762,433513,injured,Out
-2023-04-08 Inter Miami CF-FC Dallas,Inter Miami CF,Robbie Robinson,1701762,393147,injured,Out
+2023-04-08 Inter Miami CF-FC Dallas,Inter Miami,Edison Azcona,1701762,413765,injured,Out
+2023-04-08 Inter Miami CF-FC Dallas,Inter Miami,Gregore,1701762,355710,injured,Out
+2023-04-08 Inter Miami CF-FC Dallas,Inter Miami,Ian Fray,1701762,445274,injured,Out
+2023-04-08 Inter Miami CF-FC Dallas,Inter Miami,Leonardo Campana,1701762,392650,injured,Out
+2023-04-08 Inter Miami CF-FC Dallas,Inter Miami,Noah Allen,1701762,433513,injured,Out
+2023-04-08 Inter Miami CF-FC Dallas,Inter Miami,Robbie Robinson,1701762,393147,injured,Out
 2023-04-08 Los Angeles FC-Austin FC,Austin FC,CJ Fodrey,1701760,471093,injured,Out
 2023-04-08 Los Angeles FC-Austin FC,Austin FC,Julio Cascante,1701760,354099,injured,Out
-2023-04-08 Los Angeles FC-Austin FC,Los Angeles FC,Maxime Crépeau,1701760,137263,injured,Out
-2023-04-08 Los Angeles FC-Austin FC,Los Angeles FC,Tony Leone,1701760,399744,injured,Out
+2023-04-08 Los Angeles FC-Austin FC,LAFC,Maxime Crépeau,1701760,137263,injured,Out
+2023-04-08 Los Angeles FC-Austin FC,LAFC,Tony Leone,1701760,399744,injured,Out
 2023-04-08 New England Revolution-CF Montreal,CF Montreal,George Campbell,1701888,393107,injured,Out
 2023-04-08 New England Revolution-CF Montreal,CF Montreal,James Pantemis,1701888,354094,injured,Out
 2023-04-08 New England Revolution-CF Montreal,CF Montreal,Matko Miljevic,1701888,366429,injured,Out
@@ -420,9 +420,9 @@ game,team,player,game_id,player_id,reason,status
 2023-04-09 Nashville SC-Toronto FC,Toronto FC,Adama Diomande,1701896,243562,injured,Out
 2023-04-09 Nashville SC-Toronto FC,Toronto FC,Cristián Gutiérrez,1701896,393110,injured,Out
 2023-04-09 Nashville SC-Toronto FC,Toronto FC,Lorenzo Insigne,1701896,83390,injured,Out
-2023-04-09 Real Salt Lake-Charlotte FC,Charlotte FC,Ashley Westwood,1701773,79050,injured,Out
-2023-04-09 Real Salt Lake-Charlotte FC,Charlotte FC,Guzmán Corujo,1701773,433524,injured,Out
-2023-04-09 Real Salt Lake-Charlotte FC,Charlotte FC,Kristijan Kahlina,1701773,425343,injured,Out
+2023-04-09 Real Salt Lake-Charlotte FC,Charlotte,Ashley Westwood,1701773,79050,injured,Out
+2023-04-09 Real Salt Lake-Charlotte FC,Charlotte,Guzmán Corujo,1701773,433524,injured,Out
+2023-04-09 Real Salt Lake-Charlotte FC,Charlotte,Kristijan Kahlina,1701773,425343,injured,Out
 2023-04-09 Real Salt Lake-Charlotte FC,Real Salt Lake,Bode Hidalgo,1701773,425148,injured,Out
 2023-04-09 Real Salt Lake-Charlotte FC,Real Salt Lake,Bryan Oviedo,1701773,83455,injured,Out
 2023-04-09 Real Salt Lake-Charlotte FC,Real Salt Lake,Danny Musovski,1701773,396235,injured,Out
@@ -465,9 +465,9 @@ game,team,player,game_id,player_id,reason,status
 2023-04-15 CF Montreal-DC United,DC United,Martín Rodríguez,1702191,101584,injured,Out
 2023-04-15 CF Montreal-DC United,DC United,Nigel Robertha,1702191,316933,injured doubtful,Doubtful
 2023-04-15 CF Montreal-DC United,DC United,Pedro Santos,1702191,121356,injured,Out
-2023-04-15 Charlotte FC-Colorado Rapids,Charlotte FC,Ashley Westwood,1701775,79050,injured,Out
-2023-04-15 Charlotte FC-Colorado Rapids,Charlotte FC,Guzmán Corujo,1701775,433524,injured,Out
-2023-04-15 Charlotte FC-Colorado Rapids,Charlotte FC,Kristijan Kahlina,1701775,425343,injured,Out
+2023-04-15 Charlotte FC-Colorado Rapids,Charlotte,Ashley Westwood,1701775,79050,injured,Out
+2023-04-15 Charlotte FC-Colorado Rapids,Charlotte,Guzmán Corujo,1701775,433524,injured,Out
+2023-04-15 Charlotte FC-Colorado Rapids,Charlotte,Kristijan Kahlina,1701775,425343,injured,Out
 2023-04-15 Charlotte FC-Colorado Rapids,Colorado Rapids,Aboubacar Keita,1701775,377604,injured,Out
 2023-04-15 Charlotte FC-Colorado Rapids,Colorado Rapids,Braian Galván,1701775,344657,injured,Out
 2023-04-15 Charlotte FC-Colorado Rapids,Colorado Rapids,Dantouma Toure,1701775,419464,injured,Out
@@ -512,8 +512,8 @@ game,team,player,game_id,player_id,reason,status
 2023-04-16 LA Galaxy-Los Angeles FC,LA Galaxy,Douglas Costa,1701789,68889,suspended,Out
 2023-04-16 LA Galaxy-Los Angeles FC,LA Galaxy,Jonathan Bond,1701789,81979,injured,Out
 2023-04-16 LA Galaxy-Los Angeles FC,LA Galaxy,Martín Cáceres,1701789,30635,suspended,Out
-2023-04-16 LA Galaxy-Los Angeles FC,Los Angeles FC,Maxime Crépeau,1701789,137263,injured,Out
-2023-04-16 LA Galaxy-Los Angeles FC,Los Angeles FC,Tony Leone,1701789,399744,injured,Out
+2023-04-16 LA Galaxy-Los Angeles FC,LAFC,Maxime Crépeau,1701789,137263,injured,Out
+2023-04-16 LA Galaxy-Los Angeles FC,LAFC,Tony Leone,1701789,399744,injured,Out
 2023-04-16 Minnesota United-Orlando City,Minnesota United,Bakaye Dibassy,1701792,248278,injured,Out
 2023-04-16 Minnesota United-Orlando City,Minnesota United,Ryen Jiba,1701792,471103,injured,Out
 2023-04-16 Minnesota United-Orlando City,Orlando City,Ercan Kara,1701792,404210,injured,Out
@@ -538,7 +538,7 @@ game,team,player,game_id,player_id,reason,status
 2023-04-16 San Jose Earthquakes-Sporting Kansas City,Sporting Kansas City,Logan Ndenbe,1701787,417295,injured,Out
 2023-04-16 San Jose Earthquakes-Sporting Kansas City,Sporting Kansas City,Nemanja Radoja,1701787,239053,injured,Out
 2023-04-16 San Jose Earthquakes-Sporting Kansas City,Sporting Kansas City,Tim Leibold,1701787,140849,injured,Out
-2023-04-16 St. Louis City-FC Cincinnati,FC Cincinnati,Yuya Kubo,1701794,109664,injured,Out
+2023-04-16 St. Louis City-FC Cincinnati,Cincinnati,Yuya Kubo,1701794,109664,injured,Out
 2023-04-16 St. Louis City-FC Cincinnati,St. Louis City,Joakim Nilsson,1701794,320565,injured,Out
 2023-04-16 St. Louis City-FC Cincinnati,St. Louis City,Njabulo Blom,1701794,458426,injured,Out
 2023-04-16 St. Louis City-FC Cincinnati,St. Louis City,Rasmus Alm,1701794,469664,injured,Out
@@ -549,15 +549,15 @@ game,team,player,game_id,player_id,reason,status
 2023-04-22 CF Montreal-New York Red Bulls,CF Montreal,Samuel Piette,1701902,117112,injured,Out
 2023-04-22 CF Montreal-New York Red Bulls,New York Red Bulls,Lewis Morgan,1701902,364232,injured,Out
 2023-04-22 CF Montreal-New York Red Bulls,New York Red Bulls,Serge Ngoma,1701902,433519,injured,Out
-2023-04-22 Charlotte FC-Columbus Crew,Charlotte FC,Ashley Westwood,1701797,79050,injured,Out
-2023-04-22 Charlotte FC-Columbus Crew,Charlotte FC,Guzmán Corujo,1701797,433524,injured,Out
-2023-04-22 Charlotte FC-Columbus Crew,Charlotte FC,Kristijan Kahlina,1701797,425343,injured,Out
+2023-04-22 Charlotte FC-Columbus Crew,Charlotte,Ashley Westwood,1701797,79050,injured,Out
+2023-04-22 Charlotte FC-Columbus Crew,Charlotte,Guzmán Corujo,1701797,433524,injured,Out
+2023-04-22 Charlotte FC-Columbus Crew,Charlotte,Kristijan Kahlina,1701797,425343,injured,Out
 2023-04-22 Charlotte FC-Columbus Crew,Columbus Crew,Cucho Hernández,1701797,362501,injured,Out
 2023-04-22 Charlotte FC-Columbus Crew,Columbus Crew,Eloy Room,1701797,67114,injured,Out
 2023-04-22 Charlotte FC-Columbus Crew,Columbus Crew,Josh Williams,1701797,99318,injured,Out
 2023-04-22 Charlotte FC-Columbus Crew,Columbus Crew,Kevin Molino,1701797,138492,injured,Out
 2023-04-22 Charlotte FC-Columbus Crew,Columbus Crew,Luis Díaz,1701797,378710,injured,Out
-2023-04-22 FC Cincinnati-Portland Timbers,FC Cincinnati,Yuya Kubo,1701814,109664,injured,Out
+2023-04-22 FC Cincinnati-Portland Timbers,Cincinnati,Yuya Kubo,1701814,109664,injured,Out
 2023-04-22 FC Cincinnati-Portland Timbers,Portland Timbers,Cristhian Paredes,1701814,354098,injured,Out
 2023-04-22 FC Cincinnati-Portland Timbers,Portland Timbers,Felipe Mora,1701814,393150,injured,Out
 2023-04-22 FC Cincinnati-Portland Timbers,Portland Timbers,Marvin Loría,1701814,377469,injured,Out
@@ -602,19 +602,19 @@ game,team,player,game_id,player_id,reason,status
 2023-04-23 Colorado Rapids-St. Louis City,St. Louis City,Joakim Nilsson,1701817,320565,injured,Out
 2023-04-23 Houston Dynamo FC-Inter Miami CF,Houston Dynamo FC,Brad Smith,1701815,141414,injured,Out
 2023-04-23 Houston Dynamo FC-Inter Miami CF,Houston Dynamo FC,Ifunanyachi Achara,1701815,393390,injured,Out
-2023-04-23 Houston Dynamo FC-Inter Miami CF,Inter Miami CF,Edison Azcona,1701815,413765,injured,Out
-2023-04-23 Houston Dynamo FC-Inter Miami CF,Inter Miami CF,Gregore,1701815,355710,injured,Out
-2023-04-23 Houston Dynamo FC-Inter Miami CF,Inter Miami CF,Ian Fray,1701815,445274,injured,Out
-2023-04-23 Houston Dynamo FC-Inter Miami CF,Inter Miami CF,Leonardo Campana,1701815,392650,injured,Out
-2023-04-23 Houston Dynamo FC-Inter Miami CF,Inter Miami CF,Noah Allen,1701815,433513,injured,Out
-2023-04-23 Houston Dynamo FC-Inter Miami CF,Inter Miami CF,Robbie Robinson,1701815,393147,injured,Out
+2023-04-23 Houston Dynamo FC-Inter Miami CF,Inter Miami,Edison Azcona,1701815,413765,injured,Out
+2023-04-23 Houston Dynamo FC-Inter Miami CF,Inter Miami,Gregore,1701815,355710,injured,Out
+2023-04-23 Houston Dynamo FC-Inter Miami CF,Inter Miami,Ian Fray,1701815,445274,injured,Out
+2023-04-23 Houston Dynamo FC-Inter Miami CF,Inter Miami,Leonardo Campana,1701815,392650,injured,Out
+2023-04-23 Houston Dynamo FC-Inter Miami CF,Inter Miami,Noah Allen,1701815,433513,injured,Out
+2023-04-23 Houston Dynamo FC-Inter Miami CF,Inter Miami,Robbie Robinson,1701815,393147,injured,Out
 2023-04-23 LA Galaxy-Austin FC,Austin FC,Julio Cascante,1701819,354099,injured,Out
 2023-04-23 LA Galaxy-Austin FC,Austin FC,Zan Kolmanic,1701819,412162,injured,Out
 2023-04-23 LA Galaxy-Austin FC,LA Galaxy,Jonathan Bond,1701819,81979,injured,Out
-2023-04-23 Nashville SC-Los Angeles FC,Los Angeles FC,Eldin Jakupovic,1701816,18310,injured,Out
-2023-04-23 Nashville SC-Los Angeles FC,Los Angeles FC,Maxime Crépeau,1701816,137263,injured,Out
-2023-04-23 Nashville SC-Los Angeles FC,Los Angeles FC,Timothy Tillman,1701816,319996,injured,Out
-2023-04-23 Nashville SC-Los Angeles FC,Los Angeles FC,Tony Leone,1701816,399744,injured,Out
+2023-04-23 Nashville SC-Los Angeles FC,LAFC,Eldin Jakupovic,1701816,18310,injured,Out
+2023-04-23 Nashville SC-Los Angeles FC,LAFC,Maxime Crépeau,1701816,137263,injured,Out
+2023-04-23 Nashville SC-Los Angeles FC,LAFC,Timothy Tillman,1701816,319996,injured,Out
+2023-04-23 Nashville SC-Los Angeles FC,LAFC,Tony Leone,1701816,399744,injured,Out
 2023-04-23 Nashville SC-Los Angeles FC,Nashville SC,Nick DePuy,1701816,334518,injured,Out
 2023-04-23 Nashville SC-Los Angeles FC,Nashville SC,Randall Leal,1701816,393102,injured,Out
 2023-04-23 Real Salt Lake-San Jose Earthquakes,Real Salt Lake,Erik Holt,1701818,371974,injured,Out
@@ -629,15 +629,15 @@ game,team,player,game_id,player_id,reason,status
 2023-04-29 Columbus Crew-Inter Miami CF,Columbus Crew,Josh Williams,1701823,99318,injured,Out
 2023-04-29 Columbus Crew-Inter Miami CF,Columbus Crew,Kevin Molino,1701823,138492,injured,Out
 2023-04-29 Columbus Crew-Inter Miami CF,Columbus Crew,Luis Díaz,1701823,378710,injured,Out
-2023-04-29 Columbus Crew-Inter Miami CF,Inter Miami CF,Edison Azcona,1701823,413765,injured,Out
-2023-04-29 Columbus Crew-Inter Miami CF,Inter Miami CF,Gregore,1701823,355710,injured,Out
-2023-04-29 Columbus Crew-Inter Miami CF,Inter Miami CF,Ian Fray,1701823,445274,injured,Out
-2023-04-29 Columbus Crew-Inter Miami CF,Inter Miami CF,Leonardo Campana,1701823,392650,injured,Out
-2023-04-29 Columbus Crew-Inter Miami CF,Inter Miami CF,Noah Allen,1701823,433513,injured,Out
-2023-04-29 Columbus Crew-Inter Miami CF,Inter Miami CF,Robbie Robinson,1701823,393147,injured,Out
-2023-04-29 DC United-Charlotte FC,Charlotte FC,Ashley Westwood,1701824,79050,injured,Out
-2023-04-29 DC United-Charlotte FC,Charlotte FC,Guzmán Corujo,1701824,433524,injured,Out
-2023-04-29 DC United-Charlotte FC,Charlotte FC,Kristijan Kahlina,1701824,425343,injured,Out
+2023-04-29 Columbus Crew-Inter Miami CF,Inter Miami,Edison Azcona,1701823,413765,injured,Out
+2023-04-29 Columbus Crew-Inter Miami CF,Inter Miami,Gregore,1701823,355710,injured,Out
+2023-04-29 Columbus Crew-Inter Miami CF,Inter Miami,Ian Fray,1701823,445274,injured,Out
+2023-04-29 Columbus Crew-Inter Miami CF,Inter Miami,Leonardo Campana,1701823,392650,injured,Out
+2023-04-29 Columbus Crew-Inter Miami CF,Inter Miami,Noah Allen,1701823,433513,injured,Out
+2023-04-29 Columbus Crew-Inter Miami CF,Inter Miami,Robbie Robinson,1701823,393147,injured,Out
+2023-04-29 DC United-Charlotte FC,Charlotte,Ashley Westwood,1701824,79050,injured,Out
+2023-04-29 DC United-Charlotte FC,Charlotte,Guzmán Corujo,1701824,433524,injured,Out
+2023-04-29 DC United-Charlotte FC,Charlotte,Kristijan Kahlina,1701824,425343,injured,Out
 2023-04-29 DC United-Charlotte FC,DC United,Brendan Hines-Ike,1701824,320457,injured,Out
 2023-04-29 DC United-Charlotte FC,DC United,Derrick Williams,1701824,109593,injured,Out
 2023-04-29 DC United-Charlotte FC,DC United,Martín Rodríguez,1701824,101584,injured,Out
@@ -647,7 +647,7 @@ game,team,player,game_id,player_id,reason,status
 2023-04-29 Nashville SC-Atlanta United,Atlanta United,Osvaldo Alonso,1701822,72567,injured,Out
 2023-04-29 Nashville SC-Atlanta United,Nashville SC,Nick DePuy,1701822,334518,injured,Out
 2023-04-29 Nashville SC-Atlanta United,Nashville SC,Randall Leal,1701822,393102,injured,Out
-2023-04-29 New England Revolution-FC Cincinnati,FC Cincinnati,Yuya Kubo,1701813,109664,injured,Out
+2023-04-29 New England Revolution-FC Cincinnati,Cincinnati,Yuya Kubo,1701813,109664,injured,Out
 2023-04-29 New England Revolution-FC Cincinnati,New England Revolution,Jacob Jackson,1701813,433537,injured,Out
 2023-04-29 New England Revolution-FC Cincinnati,New England Revolution,Nacho Gil,1701813,300779,injured,Out
 2023-04-29 New England Revolution-FC Cincinnati,New England Revolution,Tommy McNamara,1701813,143557,injured,Out
@@ -702,18 +702,18 @@ game,team,player,game_id,player_id,reason,status
 2023-05-01 Minnesota United-FC Dallas,FC Dallas,Tarik Scott,1701800,474793,injured,Out
 2023-05-01 Minnesota United-FC Dallas,Minnesota United,Bakaye Dibassy,1701800,248278,injured,Out
 2023-05-01 Minnesota United-FC Dallas,Minnesota United,Ryen Jiba,1701800,471103,injured,Out
-2023-05-06 Charlotte FC-New York City FC,Charlotte FC,Bill Tuiloma,1701802,141264,injured,Out
-2023-05-06 Charlotte FC-New York City FC,Charlotte FC,Guzmán Corujo,1701802,433524,injured,Out
-2023-05-06 Charlotte FC-New York City FC,Charlotte FC,Joseph Mora,1701802,354530,injured,Out
-2023-05-06 Charlotte FC-New York City FC,Charlotte FC,Kamil Józwiak,1701802,312752,injured,Out
-2023-05-06 Charlotte FC-New York City FC,Charlotte FC,Pablo Sisniega,1701802,371099,injured,Out
+2023-05-06 Charlotte FC-New York City FC,Charlotte,Bill Tuiloma,1701802,141264,injured,Out
+2023-05-06 Charlotte FC-New York City FC,Charlotte,Guzmán Corujo,1701802,433524,injured,Out
+2023-05-06 Charlotte FC-New York City FC,Charlotte,Joseph Mora,1701802,354530,injured,Out
+2023-05-06 Charlotte FC-New York City FC,Charlotte,Kamil Józwiak,1701802,312752,injured,Out
+2023-05-06 Charlotte FC-New York City FC,Charlotte,Pablo Sisniega,1701802,371099,injured,Out
 2023-05-06 FC Cincinnati-DC United,DC United,Brendan Hines-Ike,1701804,320457,injured,Out
 2023-05-06 FC Cincinnati-DC United,DC United,Martín Rodríguez,1701804,101584,injured,Out
 2023-05-06 FC Cincinnati-DC United,DC United,Mohanad Jeahze,1701804,321201,suspended,Out
 2023-05-06 FC Cincinnati-DC United,DC United,Nigel Robertha,1701804,316933,injured,Out
 2023-05-06 FC Cincinnati-DC United,DC United,Pedro Santos,1701804,121356,injured,Out
 2023-05-06 FC Cincinnati-DC United,DC United,Steven Birnbaum,1701804,143470,injured,Out
-2023-05-06 FC Cincinnati-DC United,FC Cincinnati,Santiago Arias,1701804,88112,injured,Out
+2023-05-06 FC Cincinnati-DC United,Cincinnati,Santiago Arias,1701804,88112,injured,Out
 2023-05-07 Houston Dynamo FC-Real Salt Lake,Houston Dynamo FC,Ifunanyachi Achara,1701809,393390,injured,Out
 2023-05-07 Houston Dynamo FC-Real Salt Lake,Houston Dynamo FC,Tate Schmitt,1701809,371299,injured,Out
 2023-05-07 Houston Dynamo FC-Real Salt Lake,Real Salt Lake,Andrew Brody,1701809,315321,injured,Out
@@ -752,11 +752,11 @@ game,team,player,game_id,player_id,reason,status
 2023-05-07 Vancouver Whitecaps-Minnesota United,Vancouver Whitecaps,Sergio Córdova,1701875,344069,injured doubtful,Doubtful
 2023-05-13 Atlanta United-Charlotte FC,Atlanta United,Brad Guzan,1701826,28746,injured,Out
 2023-05-13 Atlanta United-Charlotte FC,Atlanta United,Osvaldo Alonso,1701826,72567,injured,Out
-2023-05-13 Atlanta United-Charlotte FC,Charlotte FC,Bill Tuiloma,1701826,141264,injured,Out
-2023-05-13 Atlanta United-Charlotte FC,Charlotte FC,Guzmán Corujo,1701826,433524,injured,Out
-2023-05-13 Atlanta United-Charlotte FC,Charlotte FC,Joseph Mora,1701826,354530,injured,Out
-2023-05-13 Atlanta United-Charlotte FC,Charlotte FC,Kamil Józwiak,1701826,312752,injured,Out
-2023-05-13 Atlanta United-Charlotte FC,Charlotte FC,Pablo Sisniega,1701826,371099,injured,Out
+2023-05-13 Atlanta United-Charlotte FC,Charlotte,Bill Tuiloma,1701826,141264,injured,Out
+2023-05-13 Atlanta United-Charlotte FC,Charlotte,Guzmán Corujo,1701826,433524,injured,Out
+2023-05-13 Atlanta United-Charlotte FC,Charlotte,Joseph Mora,1701826,354530,injured,Out
+2023-05-13 Atlanta United-Charlotte FC,Charlotte,Kamil Józwiak,1701826,312752,injured,Out
+2023-05-13 Atlanta United-Charlotte FC,Charlotte,Pablo Sisniega,1701826,371099,injured,Out
 2023-05-13 Chicago Fire FC-St. Louis City,Chicago Fire FC,Justin Reynolds,1701830,471853,injured,Out
 2023-05-13 Chicago Fire FC-St. Louis City,Chicago Fire FC,Victor Bezerra,1701830,434642,injured,Out
 2023-05-13 Chicago Fire FC-St. Louis City,St. Louis City,Joakim Nilsson,1701830,320565,injured,Out
@@ -774,12 +774,12 @@ game,team,player,game_id,player_id,reason,status
 2023-05-13 DC United-Nashville SC,DC United,Steven Birnbaum,1701846,143470,injured,Out
 2023-05-13 DC United-Nashville SC,Nashville SC,Nick DePuy,1701846,334518,injured,Out
 2023-05-13 DC United-Nashville SC,Nashville SC,Randall Leal,1701846,393102,injured,Out
-2023-05-13 Inter Miami CF-New England Revolution,Inter Miami CF,Edison Azcona,1701848,413765,injured,Out
-2023-05-13 Inter Miami CF-New England Revolution,Inter Miami CF,Gregore,1701848,355710,injured,Out
-2023-05-13 Inter Miami CF-New England Revolution,Inter Miami CF,Ian Fray,1701848,445274,injured,Out
-2023-05-13 Inter Miami CF-New England Revolution,Inter Miami CF,Leonardo Campana,1701848,392650,injured,Out
-2023-05-13 Inter Miami CF-New England Revolution,Inter Miami CF,Noah Allen,1701848,433513,injured,Out
-2023-05-13 Inter Miami CF-New England Revolution,Inter Miami CF,Robbie Robinson,1701848,393147,injured,Out
+2023-05-13 Inter Miami CF-New England Revolution,Inter Miami,Edison Azcona,1701848,413765,injured,Out
+2023-05-13 Inter Miami CF-New England Revolution,Inter Miami,Gregore,1701848,355710,injured,Out
+2023-05-13 Inter Miami CF-New England Revolution,Inter Miami,Ian Fray,1701848,445274,injured,Out
+2023-05-13 Inter Miami CF-New England Revolution,Inter Miami,Leonardo Campana,1701848,392650,injured,Out
+2023-05-13 Inter Miami CF-New England Revolution,Inter Miami,Noah Allen,1701848,433513,injured,Out
+2023-05-13 Inter Miami CF-New England Revolution,Inter Miami,Robbie Robinson,1701848,393147,injured,Out
 2023-05-13 Inter Miami CF-New England Revolution,New England Revolution,Jacob Jackson,1701848,433537,injured,Out
 2023-05-13 Inter Miami CF-New England Revolution,New England Revolution,Nacho Gil,1701848,300779,injured,Out
 2023-05-13 Inter Miami CF-New England Revolution,New England Revolution,Tommy McNamara,1701848,143557,injured,Out
@@ -803,9 +803,9 @@ game,team,player,game_id,player_id,reason,status
 2023-05-14 Portland Timbers-Vancouver Whitecaps,Portland Timbers,Eryk Williamson,1701871,358518,injured,Out
 2023-05-14 Portland Timbers-Vancouver Whitecaps,Portland Timbers,Felipe Mora,1701871,393150,injured,Out
 2023-05-14 Portland Timbers-Vancouver Whitecaps,Vancouver Whitecaps,Max Anchor,1701871,438987,injured,Out
-2023-05-14 Real Salt Lake-Los Angeles FC,Los Angeles FC,Eldin Jakupovic,1701860,18310,injured,Out
-2023-05-14 Real Salt Lake-Los Angeles FC,Los Angeles FC,Maxime Crépeau,1701860,137263,injured,Out
-2023-05-14 Real Salt Lake-Los Angeles FC,Los Angeles FC,Tony Leone,1701860,399744,injured,Out
+2023-05-14 Real Salt Lake-Los Angeles FC,LAFC,Eldin Jakupovic,1701860,18310,injured,Out
+2023-05-14 Real Salt Lake-Los Angeles FC,LAFC,Maxime Crépeau,1701860,137263,injured,Out
+2023-05-14 Real Salt Lake-Los Angeles FC,LAFC,Tony Leone,1701860,399744,injured,Out
 2023-05-14 Real Salt Lake-Los Angeles FC,Real Salt Lake,Anderson Julio,1701860,329226,injured,Out
 2023-05-14 Real Salt Lake-Los Angeles FC,Real Salt Lake,Bode Hidalgo,1701860,425148,injured,Out
 2023-05-14 Real Salt Lake-Los Angeles FC,Real Salt Lake,Erik Holt,1701860,371974,injured,Out
@@ -827,11 +827,11 @@ game,team,player,game_id,player_id,reason,status
 2023-05-17 Atlanta United-Colorado Rapids,Colorado Rapids,Abraham Rodriguez,1701863,426072,injured,Out
 2023-05-17 Atlanta United-Colorado Rapids,Colorado Rapids,Jack Price,1701863,105891,injured,Out
 2023-05-17 Atlanta United-Colorado Rapids,Colorado Rapids,Moise Bombito,1701863,474201,injured,Out
-2023-05-17 Charlotte FC-Chicago Fire FC,Charlotte FC,Bill Tuiloma,1701865,141264,injured,Out
-2023-05-17 Charlotte FC-Chicago Fire FC,Charlotte FC,Guzmán Corujo,1701865,433524,injured,Out
-2023-05-17 Charlotte FC-Chicago Fire FC,Charlotte FC,Joseph Mora,1701865,354530,injured,Out
-2023-05-17 Charlotte FC-Chicago Fire FC,Charlotte FC,Kamil Józwiak,1701865,312752,injured,Out
-2023-05-17 Charlotte FC-Chicago Fire FC,Charlotte FC,Pablo Sisniega,1701865,371099,injured,Out
+2023-05-17 Charlotte FC-Chicago Fire FC,Charlotte,Bill Tuiloma,1701865,141264,injured,Out
+2023-05-17 Charlotte FC-Chicago Fire FC,Charlotte,Guzmán Corujo,1701865,433524,injured,Out
+2023-05-17 Charlotte FC-Chicago Fire FC,Charlotte,Joseph Mora,1701865,354530,injured,Out
+2023-05-17 Charlotte FC-Chicago Fire FC,Charlotte,Kamil Józwiak,1701865,312752,injured,Out
+2023-05-17 Charlotte FC-Chicago Fire FC,Charlotte,Pablo Sisniega,1701865,371099,injured,Out
 2023-05-17 Charlotte FC-Chicago Fire FC,Chicago Fire FC,Justin Reynolds,1701865,471853,injured,Out
 2023-05-17 Charlotte FC-Chicago Fire FC,Chicago Fire FC,Victor Bezerra,1701865,434642,injured,Out
 2023-05-17 Columbus Crew-LA Galaxy,Columbus Crew,Cucho Hernández,1701853,362501,injured,Out
@@ -845,7 +845,7 @@ game,team,player,game_id,player_id,reason,status
 2023-05-17 FC Cincinnati-CF Montreal,CF Montreal,Matko Miljevic,1701869,366429,injured,Out
 2023-05-17 FC Cincinnati-CF Montreal,CF Montreal,Romell Quioto,1701869,334513,injured,Out
 2023-05-17 FC Cincinnati-CF Montreal,CF Montreal,Samuel Piette,1701869,117112,injured,Out
-2023-05-17 FC Cincinnati-CF Montreal,FC Cincinnati,Santiago Arias,1701869,88112,injured,Out
+2023-05-17 FC Cincinnati-CF Montreal,Cincinnati,Santiago Arias,1701869,88112,injured,Out
 2023-05-17 Orlando City-New York City FC,Orlando City,Michael Halliday,1701866,402978,injured,Out
 2023-05-17 Philadelphia Union-DC United,DC United,Brendan Hines-Ike,1701855,320457,injured,Out
 2023-05-17 Philadelphia Union-DC United,DC United,Martín Rodríguez,1701855,101584,injured,Out
@@ -862,9 +862,9 @@ game,team,player,game_id,player_id,reason,status
 2023-05-18 FC Dallas-Vancouver Whitecaps,FC Dallas,Paul Arriola,1701876,132631,injured,Out
 2023-05-18 FC Dallas-Vancouver Whitecaps,FC Dallas,Tarik Scott,1701876,474793,injured,Out
 2023-05-18 FC Dallas-Vancouver Whitecaps,Vancouver Whitecaps,Max Anchor,1701876,438987,injured,Out
-2023-05-18 Los Angeles FC-Sporting Kansas City,Los Angeles FC,Eldin Jakupovic,1701851,18310,injured,Out
-2023-05-18 Los Angeles FC-Sporting Kansas City,Los Angeles FC,Maxime Crépeau,1701851,137263,injured,Out
-2023-05-18 Los Angeles FC-Sporting Kansas City,Los Angeles FC,Tony Leone,1701851,399744,injured,Out
+2023-05-18 Los Angeles FC-Sporting Kansas City,LAFC,Eldin Jakupovic,1701851,18310,injured,Out
+2023-05-18 Los Angeles FC-Sporting Kansas City,LAFC,Maxime Crépeau,1701851,137263,injured,Out
+2023-05-18 Los Angeles FC-Sporting Kansas City,LAFC,Tony Leone,1701851,399744,injured,Out
 2023-05-18 Los Angeles FC-Sporting Kansas City,Sporting Kansas City,Kayden Pierre,1701851,419819,injured,Out
 2023-05-18 Los Angeles FC-Sporting Kansas City,Sporting Kansas City,Kortne Ford,1701851,333995,injured doubtful,Doubtful
 2023-05-18 Los Angeles FC-Sporting Kansas City,Sporting Kansas City,Nemanja Radoja,1701851,239053,injured,Out
@@ -876,12 +876,12 @@ game,team,player,game_id,player_id,reason,status
 2023-05-18 Minnesota United-Houston Dynamo FC,Minnesota United,Kervin Arriaga,1701857,433488,injured,Out
 2023-05-18 Minnesota United-Houston Dynamo FC,Minnesota United,Mikael Marques,1701857,407883,injured,Out
 2023-05-18 Minnesota United-Houston Dynamo FC,Minnesota United,Ryen Jiba,1701857,471103,injured,Out
-2023-05-18 Nashville SC-Inter Miami CF,Inter Miami CF,Edison Azcona,1701859,413765,injured,Out
-2023-05-18 Nashville SC-Inter Miami CF,Inter Miami CF,Gregore,1701859,355710,injured,Out
-2023-05-18 Nashville SC-Inter Miami CF,Inter Miami CF,Ian Fray,1701859,445274,injured,Out
-2023-05-18 Nashville SC-Inter Miami CF,Inter Miami CF,Leonardo Campana,1701859,392650,injured,Out
-2023-05-18 Nashville SC-Inter Miami CF,Inter Miami CF,Noah Allen,1701859,433513,injured,Out
-2023-05-18 Nashville SC-Inter Miami CF,Inter Miami CF,Robbie Robinson,1701859,393147,injured,Out
+2023-05-18 Nashville SC-Inter Miami CF,Inter Miami,Edison Azcona,1701859,413765,injured,Out
+2023-05-18 Nashville SC-Inter Miami CF,Inter Miami,Gregore,1701859,355710,injured,Out
+2023-05-18 Nashville SC-Inter Miami CF,Inter Miami,Ian Fray,1701859,445274,injured,Out
+2023-05-18 Nashville SC-Inter Miami CF,Inter Miami,Leonardo Campana,1701859,392650,injured,Out
+2023-05-18 Nashville SC-Inter Miami CF,Inter Miami,Noah Allen,1701859,433513,injured,Out
+2023-05-18 Nashville SC-Inter Miami CF,Inter Miami,Robbie Robinson,1701859,393147,injured,Out
 2023-05-18 Nashville SC-Inter Miami CF,Nashville SC,Nick DePuy,1701859,334518,injured,Out
 2023-05-18 Nashville SC-Inter Miami CF,Nashville SC,Randall Leal,1701859,393102,injured,Out
 2023-05-18 Real Salt Lake-Portland Timbers,Portland Timbers,David Ayala,1701862,389242,injured,Out
@@ -899,12 +899,12 @@ game,team,player,game_id,player_id,reason,status
 2023-05-18 Seattle Sounders FC-Austin FC,Seattle Sounders FC,Jacob Castro,1701849,468751,injured,Out
 2023-05-18 Seattle Sounders FC-Austin FC,Seattle Sounders FC,Nouhou Tolo,1701849,335583,injured doubtful,Doubtful
 2023-05-18 Seattle Sounders FC-Austin FC,Seattle Sounders FC,Raúl Ruidíaz,1701849,85915,injured,Out
-2023-05-20 Charlotte FC-Nashville SC,Charlotte FC,Ben Bender,1701827,433529,injured,Out
-2023-05-20 Charlotte FC-Nashville SC,Charlotte FC,George Marks,1701827,433530,injured,Out
-2023-05-20 Charlotte FC-Nashville SC,Charlotte FC,Guzmán Corujo,1701827,433524,injured,Out
-2023-05-20 Charlotte FC-Nashville SC,Charlotte FC,Kamil Józwiak,1701827,312752,injured,Out
-2023-05-20 Charlotte FC-Nashville SC,Charlotte FC,Kerwin Vargas,1701827,438986,injured,Out
-2023-05-20 Charlotte FC-Nashville SC,Charlotte FC,McKinze Gaines,1701827,346839,injured,Out
+2023-05-20 Charlotte FC-Nashville SC,Charlotte,Ben Bender,1701827,433529,injured,Out
+2023-05-20 Charlotte FC-Nashville SC,Charlotte,George Marks,1701827,433530,injured,Out
+2023-05-20 Charlotte FC-Nashville SC,Charlotte,Guzmán Corujo,1701827,433524,injured,Out
+2023-05-20 Charlotte FC-Nashville SC,Charlotte,Kamil Józwiak,1701827,312752,injured,Out
+2023-05-20 Charlotte FC-Nashville SC,Charlotte,Kerwin Vargas,1701827,438986,injured,Out
+2023-05-20 Charlotte FC-Nashville SC,Charlotte,McKinze Gaines,1701827,346839,injured,Out
 2023-05-20 Charlotte FC-Nashville SC,Nashville SC,Nick DePuy,1701827,334518,injured,Out
 2023-05-20 Charlotte FC-Nashville SC,Nashville SC,Walker Zimmerman,1701827,126914,injured,Out
 2023-05-20 DC United-LA Galaxy,DC United,Brendan Hines-Ike,1701831,320457,injured,Out
@@ -918,13 +918,13 @@ game,team,player,game_id,player_id,reason,status
 2023-05-20 FC Cincinnati-Columbus Crew,Columbus Crew,Josh Williams,1701829,99318,injured,Out
 2023-05-20 FC Cincinnati-Columbus Crew,Columbus Crew,Kevin Molino,1701829,138492,injured,Out
 2023-05-20 FC Cincinnati-Columbus Crew,Columbus Crew,Luis Díaz,1701829,378710,injured,Out
-2023-05-20 FC Cincinnati-Columbus Crew,FC Cincinnati,Santiago Arias,1701829,88112,injured,Out
-2023-05-20 Inter Miami CF-Orlando City,Inter Miami CF,Edison Azcona,1701833,413765,injured,Out
-2023-05-20 Inter Miami CF-Orlando City,Inter Miami CF,Gregore,1701833,355710,injured,Out
-2023-05-20 Inter Miami CF-Orlando City,Inter Miami CF,Ian Fray,1701833,445274,injured,Out
-2023-05-20 Inter Miami CF-Orlando City,Inter Miami CF,Leonardo Campana,1701833,392650,injured,Out
-2023-05-20 Inter Miami CF-Orlando City,Inter Miami CF,Noah Allen,1701833,433513,injured,Out
-2023-05-20 Inter Miami CF-Orlando City,Inter Miami CF,Robbie Robinson,1701833,393147,injured,Out
+2023-05-20 FC Cincinnati-Columbus Crew,Cincinnati,Santiago Arias,1701829,88112,injured,Out
+2023-05-20 Inter Miami CF-Orlando City,Inter Miami,Edison Azcona,1701833,413765,injured,Out
+2023-05-20 Inter Miami CF-Orlando City,Inter Miami,Gregore,1701833,355710,injured,Out
+2023-05-20 Inter Miami CF-Orlando City,Inter Miami,Ian Fray,1701833,445274,injured,Out
+2023-05-20 Inter Miami CF-Orlando City,Inter Miami,Leonardo Campana,1701833,392650,injured,Out
+2023-05-20 Inter Miami CF-Orlando City,Inter Miami,Noah Allen,1701833,433513,injured,Out
+2023-05-20 Inter Miami CF-Orlando City,Inter Miami,Robbie Robinson,1701833,393147,injured,Out
 2023-05-20 Inter Miami CF-Orlando City,Orlando City,Michael Halliday,1701833,402978,injured,Out
 2023-05-20 New York Red Bulls-CF Montreal,CF Montreal,George Campbell,1701874,393107,injured,Out
 2023-05-20 New York Red Bulls-CF Montreal,CF Montreal,James Pantemis,1701874,354094,injured,Out
@@ -965,11 +965,11 @@ game,team,player,game_id,player_id,reason,status
 2023-05-21 FC Dallas-Houston Dynamo FC,Houston Dynamo FC,Ifunanyachi Achara,1701838,393390,injured,Out
 2023-05-21 FC Dallas-Houston Dynamo FC,Houston Dynamo FC,Tate Schmitt,1701838,371299,injured,Out
 2023-05-21 FC Dallas-Houston Dynamo FC,Houston Dynamo FC,Teenage Hadebe,1701838,332944,injured,Out
-2023-05-21 Los Angeles FC-San Jose Earthquakes,Los Angeles FC,Giorgio Chiellini,1701839,9991,injured,Out
-2023-05-21 Los Angeles FC-San Jose Earthquakes,Los Angeles FC,Jesús Murillo,1701839,403927,injured,Out
-2023-05-21 Los Angeles FC-San Jose Earthquakes,Los Angeles FC,Kellyn Acosta,1701839,126909,injured doubtful,Doubtful
-2023-05-21 Los Angeles FC-San Jose Earthquakes,Los Angeles FC,Maxime Crépeau,1701839,137263,injured,Out
-2023-05-21 Los Angeles FC-San Jose Earthquakes,Los Angeles FC,Tony Leone,1701839,399744,injured,Out
+2023-05-21 Los Angeles FC-San Jose Earthquakes,LAFC,Giorgio Chiellini,1701839,9991,injured,Out
+2023-05-21 Los Angeles FC-San Jose Earthquakes,LAFC,Jesús Murillo,1701839,403927,injured,Out
+2023-05-21 Los Angeles FC-San Jose Earthquakes,LAFC,Kellyn Acosta,1701839,126909,injured doubtful,Doubtful
+2023-05-21 Los Angeles FC-San Jose Earthquakes,LAFC,Maxime Crépeau,1701839,137263,injured,Out
+2023-05-21 Los Angeles FC-San Jose Earthquakes,LAFC,Tony Leone,1701839,399744,injured,Out
 2023-05-21 Los Angeles FC-San Jose Earthquakes,San Jose Earthquakes,Carlos Akapo,1701839,139639,injured doubtful,Doubtful
 2023-05-21 Los Angeles FC-San Jose Earthquakes,San Jose Earthquakes,Nathan,1701839,240917,injured,Out
 2023-05-21 Portland Timbers-Minnesota United,Minnesota United,Bakaye Dibassy,1701840,248278,injured,Out
@@ -994,10 +994,10 @@ game,team,player,game_id,player_id,reason,status
 2023-05-21 Vancouver Whitecaps-Seattle Sounders FC,Seattle Sounders FC,Raúl Ruidíaz,1701877,85915,injured,Out
 2023-05-27 CF Montreal-Inter Miami CF,CF Montreal,Mason Toye,1702061,354266,injured,Out
 2023-05-27 CF Montreal-Inter Miami CF,CF Montreal,Samuel Piette,1702061,117112,injured,Out
-2023-05-27 CF Montreal-Inter Miami CF,Inter Miami CF,Gregore,1702061,355710,injured,Out
-2023-05-27 CF Montreal-Inter Miami CF,Inter Miami CF,Jean Mota,1702061,110601,injured,Out
-2023-05-27 CF Montreal-Inter Miami CF,Inter Miami CF,Robbie Robinson,1702061,393147,injured,Out
-2023-05-27 CF Montreal-Inter Miami CF,Inter Miami CF,Rodolfo Pizarro,1702061,142040,injured,Out
+2023-05-27 CF Montreal-Inter Miami CF,Inter Miami,Gregore,1702061,355710,injured,Out
+2023-05-27 CF Montreal-Inter Miami CF,Inter Miami,Jean Mota,1702061,110601,injured,Out
+2023-05-27 CF Montreal-Inter Miami CF,Inter Miami,Robbie Robinson,1702061,393147,injured,Out
+2023-05-27 CF Montreal-Inter Miami CF,Inter Miami,Rodolfo Pizarro,1702061,142040,injured,Out
 2023-05-27 New England Revolution-Chicago Fire FC,Chicago Fire FC,Carlos Terán,1701878,404383,injured,Out
 2023-05-27 New England Revolution-Chicago Fire FC,Chicago Fire FC,Federico Navarro,1701878,365995,suspended,Out
 2023-05-27 New England Revolution-Chicago Fire FC,Chicago Fire FC,Jonathan Dean,1701878,471104,injured,Out
@@ -1033,19 +1033,19 @@ game,team,player,game_id,player_id,reason,status
 2023-05-28 Colorado Rapids-FC Cincinnati,Colorado Rapids,Abraham Rodriguez,1701882,426072,injured,Out
 2023-05-28 Colorado Rapids-FC Cincinnati,Colorado Rapids,Cole Bassett,1701882,361862,injured doubtful,Doubtful
 2023-05-28 Colorado Rapids-FC Cincinnati,Colorado Rapids,Jack Price,1701882,105891,injured,Out
-2023-05-28 Colorado Rapids-FC Cincinnati,FC Cincinnati,Santiago Arias,1701882,88112,injured,Out
+2023-05-28 Colorado Rapids-FC Cincinnati,Cincinnati,Santiago Arias,1701882,88112,injured,Out
 2023-05-28 Houston Dynamo FC-Austin FC,Austin FC,Sebastián Driussi,1701884,140601,injured,Out
 2023-05-28 Houston Dynamo FC-Austin FC,Austin FC,Zan Kolmanic,1701884,412162,injured,Out
 2023-05-28 Houston Dynamo FC-Austin FC,Houston Dynamo FC,Erik Sviatchenko,1701884,71565,injured,Out
 2023-05-28 Houston Dynamo FC-Austin FC,Houston Dynamo FC,Ifunanyachi Achara,1701884,393390,injured,Out
 2023-05-28 Houston Dynamo FC-Austin FC,Houston Dynamo FC,Tate Schmitt,1701884,371299,injured,Out
 2023-05-28 Houston Dynamo FC-Austin FC,Houston Dynamo FC,Teenage Hadebe,1701884,332944,injured,Out
-2023-05-28 LA Galaxy-Charlotte FC,Charlotte FC,Ben Bender,1701881,433529,injured,Out
-2023-05-28 LA Galaxy-Charlotte FC,Charlotte FC,George Marks,1701881,433530,injured,Out
-2023-05-28 LA Galaxy-Charlotte FC,Charlotte FC,Guzmán Corujo,1701881,433524,injured,Out
-2023-05-28 LA Galaxy-Charlotte FC,Charlotte FC,Kamil Józwiak,1701881,312752,injured,Out
-2023-05-28 LA Galaxy-Charlotte FC,Charlotte FC,Kerwin Vargas,1701881,438986,injured,Out
-2023-05-28 LA Galaxy-Charlotte FC,Charlotte FC,McKinze Gaines,1701881,346839,injured,Out
+2023-05-28 LA Galaxy-Charlotte FC,Charlotte,Ben Bender,1701881,433529,injured,Out
+2023-05-28 LA Galaxy-Charlotte FC,Charlotte,George Marks,1701881,433530,injured,Out
+2023-05-28 LA Galaxy-Charlotte FC,Charlotte,Guzmán Corujo,1701881,433524,injured,Out
+2023-05-28 LA Galaxy-Charlotte FC,Charlotte,Kamil Józwiak,1701881,312752,injured,Out
+2023-05-28 LA Galaxy-Charlotte FC,Charlotte,Kerwin Vargas,1701881,438986,injured,Out
+2023-05-28 LA Galaxy-Charlotte FC,Charlotte,McKinze Gaines,1701881,346839,injured,Out
 2023-05-28 LA Galaxy-Charlotte FC,LA Galaxy,Jonathan Bond,1701881,81979,injured,Out
 2023-05-28 Minnesota United-Real Salt Lake,Minnesota United,Bakaye Dibassy,1701883,248278,injured,Out
 2023-05-28 Minnesota United-Real Salt Lake,Minnesota United,Mikael Marques,1701883,407883,injured,Out
@@ -1087,7 +1087,7 @@ game,team,player,game_id,player_id,reason,status
 2023-06-03 FC Cincinnati-Chicago Fire FC,Chicago Fire FC,Carlos Terán,1701917,404383,injured,Out
 2023-06-03 FC Cincinnati-Chicago Fire FC,Chicago Fire FC,Federico Navarro,1701917,365995,suspended,Out
 2023-06-03 FC Cincinnati-Chicago Fire FC,Chicago Fire FC,Jonathan Dean,1701917,471104,injured,Out
-2023-06-03 FC Cincinnati-Chicago Fire FC,FC Cincinnati,Santiago Arias,1701917,88112,injured,Out
+2023-06-03 FC Cincinnati-Chicago Fire FC,Cincinnati,Santiago Arias,1701917,88112,injured,Out
 2023-06-03 Inter Miami CF-DC United,DC United,Andy Najar,1701912,85015,injured,Out
 2023-06-03 Inter Miami CF-DC United,DC United,Martín Rodríguez,1701912,101584,injured,Out
 2023-06-03 Inter Miami CF-DC United,DC United,Mohanad Jeahze,1701912,321201,injured,Out
@@ -1096,10 +1096,10 @@ game,team,player,game_id,player_id,reason,status
 2023-06-03 Inter Miami CF-DC United,DC United,Ruan,1701912,371290,injured,Out
 2023-06-03 Inter Miami CF-DC United,DC United,Steven Birnbaum,1701912,143470,injured,Out
 2023-06-03 Inter Miami CF-DC United,DC United,Taxiarchis Fountas,1701912,282854,injured,Out
-2023-06-03 Inter Miami CF-DC United,Inter Miami CF,Gregore,1701912,355710,injured,Out
-2023-06-03 Inter Miami CF-DC United,Inter Miami CF,Jean Mota,1701912,110601,injured,Out
-2023-06-03 Inter Miami CF-DC United,Inter Miami CF,Robbie Robinson,1701912,393147,injured,Out
-2023-06-03 Inter Miami CF-DC United,Inter Miami CF,Rodolfo Pizarro,1701912,142040,injured,Out
+2023-06-03 Inter Miami CF-DC United,Inter Miami,Gregore,1701912,355710,injured,Out
+2023-06-03 Inter Miami CF-DC United,Inter Miami,Jean Mota,1701912,110601,injured,Out
+2023-06-03 Inter Miami CF-DC United,Inter Miami,Robbie Robinson,1701912,393147,injured,Out
+2023-06-03 Inter Miami CF-DC United,Inter Miami,Rodolfo Pizarro,1701912,142040,injured,Out
 2023-06-03 New York City FC-New England Revolution,New England Revolution,Carles Gil,1701921,116164,injured,Out
 2023-06-03 New York City FC-New England Revolution,New England Revolution,Dylan Borrero,1701921,402907,injured,Out
 2023-06-03 New York City FC-New England Revolution,New England Revolution,Gustavo Bou,1701921,38559,injured,Out
@@ -1132,12 +1132,12 @@ game,team,player,game_id,player_id,reason,status
 2023-06-04 Colorado Rapids-San Jose Earthquakes,Colorado Rapids,Jack Price,1701934,105891,injured,Out
 2023-06-04 Colorado Rapids-San Jose Earthquakes,San Jose Earthquakes,Carlos Akapo,1701934,139639,injured doubtful,Doubtful
 2023-06-04 Colorado Rapids-San Jose Earthquakes,San Jose Earthquakes,Nathan,1701934,240917,injured,Out
-2023-06-04 Columbus Crew-Charlotte FC,Charlotte FC,Ben Bender,1701915,433529,injured,Out
-2023-06-04 Columbus Crew-Charlotte FC,Charlotte FC,Enzo Copetti,1701915,323473,injured,Out
-2023-06-04 Columbus Crew-Charlotte FC,Charlotte FC,George Marks,1701915,433530,injured,Out
-2023-06-04 Columbus Crew-Charlotte FC,Charlotte FC,Hamady Diop,1701915,473871,injured,Out
-2023-06-04 Columbus Crew-Charlotte FC,Charlotte FC,Kamil Józwiak,1701915,312752,injured,Out
-2023-06-04 Columbus Crew-Charlotte FC,Charlotte FC,McKinze Gaines,1701915,346839,injured,Out
+2023-06-04 Columbus Crew-Charlotte FC,Charlotte,Ben Bender,1701915,433529,injured,Out
+2023-06-04 Columbus Crew-Charlotte FC,Charlotte,Enzo Copetti,1701915,323473,injured,Out
+2023-06-04 Columbus Crew-Charlotte FC,Charlotte,George Marks,1701915,433530,injured,Out
+2023-06-04 Columbus Crew-Charlotte FC,Charlotte,Hamady Diop,1701915,473871,injured,Out
+2023-06-04 Columbus Crew-Charlotte FC,Charlotte,Kamil Józwiak,1701915,312752,injured,Out
+2023-06-04 Columbus Crew-Charlotte FC,Charlotte,McKinze Gaines,1701915,346839,injured,Out
 2023-06-04 Columbus Crew-Charlotte FC,Columbus Crew,Alexandru Matan,1701915,400091,injured,Out
 2023-06-04 Columbus Crew-Charlotte FC,Columbus Crew,Eloy Room,1701915,67114,injured,Out
 2023-06-04 Columbus Crew-Charlotte FC,Columbus Crew,Gustavo Vallecilla,1701915,414566,injured,Out
@@ -1183,11 +1183,11 @@ game,team,player,game_id,player_id,reason,status
 2023-06-08 Los Angeles FC-Atlanta United,Atlanta United,Erik López,1701911,414220,injured,Out
 2023-06-08 Los Angeles FC-Atlanta United,Atlanta United,Luiz Araújo,1701911,317743,suspended,Out
 2023-06-08 Los Angeles FC-Atlanta United,Atlanta United,Osvaldo Alonso,1701911,72567,injured,Out
-2023-06-08 Los Angeles FC-Atlanta United,Los Angeles FC,Giorgio Chiellini,1701911,9991,injured,Out
-2023-06-08 Los Angeles FC-Atlanta United,Los Angeles FC,Jesús Murillo,1701911,403927,injured,Out
-2023-06-08 Los Angeles FC-Atlanta United,Los Angeles FC,Kellyn Acosta,1701911,126909,injured doubtful,Doubtful
-2023-06-08 Los Angeles FC-Atlanta United,Los Angeles FC,Maxime Crépeau,1701911,137263,injured,Out
-2023-06-08 Los Angeles FC-Atlanta United,Los Angeles FC,Tony Leone,1701911,399744,injured,Out
+2023-06-08 Los Angeles FC-Atlanta United,LAFC,Giorgio Chiellini,1701911,9991,injured,Out
+2023-06-08 Los Angeles FC-Atlanta United,LAFC,Jesús Murillo,1701911,403927,injured,Out
+2023-06-08 Los Angeles FC-Atlanta United,LAFC,Kellyn Acosta,1701911,126909,injured doubtful,Doubtful
+2023-06-08 Los Angeles FC-Atlanta United,LAFC,Maxime Crépeau,1701911,137263,injured,Out
+2023-06-08 Los Angeles FC-Atlanta United,LAFC,Tony Leone,1701911,399744,injured,Out
 2023-06-10 Atlanta United-DC United,Atlanta United,Amar Sejdic,1701914,372336,injured,Out
 2023-06-10 Atlanta United-DC United,Atlanta United,Brad Guzan,1701914,28746,injured,Out
 2023-06-10 Atlanta United-DC United,Atlanta United,Erik López,1701914,414220,injured,Out
@@ -1206,19 +1206,19 @@ game,team,player,game_id,player_id,reason,status
 2023-06-10 CF Montreal-Minnesota United,Minnesota United,Bakaye Dibassy,1702032,248278,injured,Out
 2023-06-10 CF Montreal-Minnesota United,Minnesota United,Mikael Marques,1702032,407883,injured,Out
 2023-06-10 CF Montreal-Minnesota United,Minnesota United,Ryen Jiba,1702032,471103,injured,Out
-2023-06-10 Charlotte FC-Seattle Sounders FC,Charlotte FC,Ben Bender,1701907,433529,injured,Out
-2023-06-10 Charlotte FC-Seattle Sounders FC,Charlotte FC,Enzo Copetti,1701907,323473,injured,Out
-2023-06-10 Charlotte FC-Seattle Sounders FC,Charlotte FC,George Marks,1701907,433530,injured,Out
-2023-06-10 Charlotte FC-Seattle Sounders FC,Charlotte FC,Hamady Diop,1701907,473871,injured,Out
-2023-06-10 Charlotte FC-Seattle Sounders FC,Charlotte FC,Kamil Józwiak,1701907,312752,injured,Out
-2023-06-10 Charlotte FC-Seattle Sounders FC,Charlotte FC,McKinze Gaines,1701907,346839,injured,Out
+2023-06-10 Charlotte FC-Seattle Sounders FC,Charlotte,Ben Bender,1701907,433529,injured,Out
+2023-06-10 Charlotte FC-Seattle Sounders FC,Charlotte,Enzo Copetti,1701907,323473,injured,Out
+2023-06-10 Charlotte FC-Seattle Sounders FC,Charlotte,George Marks,1701907,433530,injured,Out
+2023-06-10 Charlotte FC-Seattle Sounders FC,Charlotte,Hamady Diop,1701907,473871,injured,Out
+2023-06-10 Charlotte FC-Seattle Sounders FC,Charlotte,Kamil Józwiak,1701907,312752,injured,Out
+2023-06-10 Charlotte FC-Seattle Sounders FC,Charlotte,McKinze Gaines,1701907,346839,injured,Out
 2023-06-10 Charlotte FC-Seattle Sounders FC,Seattle Sounders FC,Cristian Roldan,1701907,271592,injured,Out
 2023-06-10 Charlotte FC-Seattle Sounders FC,Seattle Sounders FC,Ethan Dobbelaere,1701907,396103,injured,Out
-2023-06-10 New England Revolution-Inter Miami CF,Inter Miami CF,Gregore,1701910,355710,injured,Out
-2023-06-10 New England Revolution-Inter Miami CF,Inter Miami CF,Jean Mota,1701910,110601,injured,Out
-2023-06-10 New England Revolution-Inter Miami CF,Inter Miami CF,Kamal Miller,1701910,371016,suspended,Out
-2023-06-10 New England Revolution-Inter Miami CF,Inter Miami CF,Robbie Robinson,1701910,393147,injured,Out
-2023-06-10 New England Revolution-Inter Miami CF,Inter Miami CF,Rodolfo Pizarro,1701910,142040,injured,Out
+2023-06-10 New England Revolution-Inter Miami CF,Inter Miami,Gregore,1701910,355710,injured,Out
+2023-06-10 New England Revolution-Inter Miami CF,Inter Miami,Jean Mota,1701910,110601,injured,Out
+2023-06-10 New England Revolution-Inter Miami CF,Inter Miami,Kamal Miller,1701910,371016,suspended,Out
+2023-06-10 New England Revolution-Inter Miami CF,Inter Miami,Robbie Robinson,1701910,393147,injured,Out
+2023-06-10 New England Revolution-Inter Miami CF,Inter Miami,Rodolfo Pizarro,1701910,142040,injured,Out
 2023-06-10 New England Revolution-Inter Miami CF,New England Revolution,Carles Gil,1701910,116164,injured,Out
 2023-06-10 New England Revolution-Inter Miami CF,New England Revolution,Dylan Borrero,1701910,402907,injured,Out
 2023-06-10 New England Revolution-Inter Miami CF,New England Revolution,Gustavo Bou,1701910,38559,injured,Out
@@ -1249,11 +1249,11 @@ game,team,player,game_id,player_id,reason,status
 2023-06-11 Houston Dynamo FC-Los Angeles FC,Houston Dynamo FC,Ifunanyachi Achara,1702193,393390,injured,Out
 2023-06-11 Houston Dynamo FC-Los Angeles FC,Houston Dynamo FC,Tate Schmitt,1702193,371299,injured,Out
 2023-06-11 Houston Dynamo FC-Los Angeles FC,Houston Dynamo FC,Teenage Hadebe,1702193,332944,injured,Out
-2023-06-11 Houston Dynamo FC-Los Angeles FC,Los Angeles FC,Giorgio Chiellini,1702193,9991,injured,Out
-2023-06-11 Houston Dynamo FC-Los Angeles FC,Los Angeles FC,Jesús Murillo,1702193,403927,injured,Out
-2023-06-11 Houston Dynamo FC-Los Angeles FC,Los Angeles FC,Kellyn Acosta,1702193,126909,injured doubtful,Doubtful
-2023-06-11 Houston Dynamo FC-Los Angeles FC,Los Angeles FC,Maxime Crépeau,1702193,137263,injured,Out
-2023-06-11 Houston Dynamo FC-Los Angeles FC,Los Angeles FC,Tony Leone,1702193,399744,injured,Out
+2023-06-11 Houston Dynamo FC-Los Angeles FC,LAFC,Giorgio Chiellini,1702193,9991,injured,Out
+2023-06-11 Houston Dynamo FC-Los Angeles FC,LAFC,Jesús Murillo,1702193,403927,injured,Out
+2023-06-11 Houston Dynamo FC-Los Angeles FC,LAFC,Kellyn Acosta,1702193,126909,injured doubtful,Doubtful
+2023-06-11 Houston Dynamo FC-Los Angeles FC,LAFC,Maxime Crépeau,1702193,137263,injured,Out
+2023-06-11 Houston Dynamo FC-Los Angeles FC,LAFC,Tony Leone,1702193,399744,injured,Out
 2023-06-11 Orlando City-Colorado Rapids,Colorado Rapids,Aboubacar Keita,1701905,377604,injured,Out
 2023-06-11 Orlando City-Colorado Rapids,Colorado Rapids,Abraham Rodriguez,1701905,426072,injured,Out
 2023-06-11 Orlando City-Colorado Rapids,Colorado Rapids,Cole Bassett,1701905,361862,injured doubtful,Doubtful
@@ -1276,7 +1276,7 @@ game,team,player,game_id,player_id,reason,status
 2023-06-11 St. Louis City-LA Galaxy,LA Galaxy,Jonathan Bond,1702195,81979,injured,Out
 2023-06-11 St. Louis City-LA Galaxy,St. Louis City,Joakim Nilsson,1702195,320565,injured,Out
 2023-06-11 St. Louis City-LA Galaxy,St. Louis City,Njabulo Blom,1702195,458426,injured,Out
-2023-06-11 Vancouver Whitecaps-FC Cincinnati,FC Cincinnati,Santiago Arias,1702037,88112,injured,Out
+2023-06-11 Vancouver Whitecaps-FC Cincinnati,Cincinnati,Santiago Arias,1702037,88112,injured,Out
 2023-06-11 Vancouver Whitecaps-FC Cincinnati,Vancouver Whitecaps,Ali Ahmed,1702037,437419,injured,Out
 2023-06-12 Portland Timbers-FC Dallas,FC Dallas,Alan Velasco,1701913,379317,injured,Out
 2023-06-12 Portland Timbers-FC Dallas,FC Dallas,Tarik Scott,1701913,474793,injured,Out
@@ -1325,11 +1325,11 @@ game,team,player,game_id,player_id,reason,status
 2023-06-18 San Jose Earthquakes-Portland Timbers,Portland Timbers,Pablo Bonilla,1701908,396241,injured doubtful,Doubtful
 2023-06-18 San Jose Earthquakes-Portland Timbers,Portland Timbers,Yimmi Chará,1701908,97041,injured doubtful,Doubtful
 2023-06-18 San Jose Earthquakes-Portland Timbers,San Jose Earthquakes,Nathan,1701908,240917,injured,Out
-2023-06-18 Sporting Kansas City-Los Angeles FC,Los Angeles FC,Aaron Long,1701930,249916,injured,Out
-2023-06-18 Sporting Kansas City-Los Angeles FC,Los Angeles FC,Kellyn Acosta,1701930,126909,injured,Out
-2023-06-18 Sporting Kansas City-Los Angeles FC,Los Angeles FC,Maxime Crépeau,1701930,137263,injured,Out
-2023-06-18 Sporting Kansas City-Los Angeles FC,Los Angeles FC,Sergi Palencia,1701930,362498,injured,Out
-2023-06-18 Sporting Kansas City-Los Angeles FC,Los Angeles FC,Timothy Tillman,1701930,319996,injured,Out
+2023-06-18 Sporting Kansas City-Los Angeles FC,LAFC,Aaron Long,1701930,249916,injured,Out
+2023-06-18 Sporting Kansas City-Los Angeles FC,LAFC,Kellyn Acosta,1701930,126909,injured,Out
+2023-06-18 Sporting Kansas City-Los Angeles FC,LAFC,Maxime Crépeau,1701930,137263,injured,Out
+2023-06-18 Sporting Kansas City-Los Angeles FC,LAFC,Sergi Palencia,1701930,362498,injured,Out
+2023-06-18 Sporting Kansas City-Los Angeles FC,LAFC,Timothy Tillman,1701930,319996,injured,Out
 2023-06-18 Sporting Kansas City-Los Angeles FC,Sporting Kansas City,Kayden Pierre,1701930,419819,injured doubtful,Doubtful
 2023-06-18 Sporting Kansas City-Los Angeles FC,Sporting Kansas City,Khiry Shelton,1701930,271559,injured,Out
 2023-06-18 Sporting Kansas City-Los Angeles FC,Sporting Kansas City,Kortne Ford,1701930,333995,injured doubtful,Doubtful
@@ -1342,17 +1342,17 @@ game,team,player,game_id,player_id,reason,status
 2023-06-21 CF Montreal-Nashville SC,CF Montreal,Samuel Piette,1702048,117112,injured,Out
 2023-06-21 CF Montreal-Nashville SC,Nashville SC,Lukas MacNaughton,1702048,433506,injured,Out
 2023-06-21 CF Montreal-Nashville SC,Nashville SC,Nick DePuy,1702048,334518,injured,Out
-2023-06-21 FC Cincinnati-Toronto FC,FC Cincinnati,Brenner,1702047,339723,injured doubtful,Doubtful
-2023-06-21 FC Cincinnati-Toronto FC,FC Cincinnati,Ian Murphy,1702047,433892,injured doubtful,Doubtful
-2023-06-21 FC Cincinnati-Toronto FC,FC Cincinnati,Sergio Santos,1702047,371011,injured doubtful,Doubtful
+2023-06-21 FC Cincinnati-Toronto FC,Cincinnati,Brenner,1702047,339723,injured doubtful,Doubtful
+2023-06-21 FC Cincinnati-Toronto FC,Cincinnati,Ian Murphy,1702047,433892,injured doubtful,Doubtful
+2023-06-21 FC Cincinnati-Toronto FC,Cincinnati,Sergio Santos,1702047,371011,injured doubtful,Doubtful
 2023-06-21 FC Cincinnati-Toronto FC,Toronto FC,Adama Diomande,1702047,243562,injured doubtful,Doubtful
 2023-06-21 FC Cincinnati-Toronto FC,Toronto FC,Matt Hedges,1702047,112024,injured,Out
 2023-06-21 FC Cincinnati-Toronto FC,Toronto FC,Michael Bradley,1702047,22825,injured doubtful,Doubtful
 2023-06-21 FC Cincinnati-Toronto FC,Toronto FC,Víctor Vázquez,1702047,35667,injured doubtful,Doubtful
-2023-06-21 New York Red Bulls-Charlotte FC,Charlotte FC,Enzo Copetti,1701923,323473,injured,Out
-2023-06-21 New York Red Bulls-Charlotte FC,Charlotte FC,George Marks,1701923,433530,injured,Out
-2023-06-21 New York Red Bulls-Charlotte FC,Charlotte FC,Hamady Diop,1701923,473871,injured,Out
-2023-06-21 New York Red Bulls-Charlotte FC,Charlotte FC,Kamil Józwiak,1701923,312752,injured,Out
+2023-06-21 New York Red Bulls-Charlotte FC,Charlotte,Enzo Copetti,1701923,323473,injured,Out
+2023-06-21 New York Red Bulls-Charlotte FC,Charlotte,George Marks,1701923,433530,injured,Out
+2023-06-21 New York Red Bulls-Charlotte FC,Charlotte,Hamady Diop,1701923,473871,injured,Out
+2023-06-21 New York Red Bulls-Charlotte FC,Charlotte,Kamil Józwiak,1701923,312752,injured,Out
 2023-06-21 New York Red Bulls-Charlotte FC,New York Red Bulls,Andrés Reyes,1701923,393387,suspended,Out
 2023-06-21 New York Red Bulls-Charlotte FC,New York Red Bulls,Omir Fernandez,1701923,371022,injured,Out
 2023-06-21 New York Red Bulls-Charlotte FC,New York Red Bulls,Serge Ngoma,1701923,433519,injured,Out
@@ -1385,10 +1385,10 @@ game,team,player,game_id,player_id,reason,status
 2023-06-22 LA Galaxy-Sporting Kansas City,Sporting Kansas City,Logan Ndenbe,1701953,417295,injured,Out
 2023-06-22 LA Galaxy-Sporting Kansas City,Sporting Kansas City,Tim Melia,1701953,85011,injured,Out
 2023-06-22 LA Galaxy-Sporting Kansas City,Sporting Kansas City,William Agada,1701953,442600,injured,Out
-2023-06-22 Los Angeles FC-Seattle Sounders FC,Los Angeles FC,Kellyn Acosta,1701955,126909,injured,Out
-2023-06-22 Los Angeles FC-Seattle Sounders FC,Los Angeles FC,Maxime Crépeau,1701955,137263,injured,Out
-2023-06-22 Los Angeles FC-Seattle Sounders FC,Los Angeles FC,Sergi Palencia,1701955,362498,injured,Out
-2023-06-22 Los Angeles FC-Seattle Sounders FC,Los Angeles FC,Timothy Tillman,1701955,319996,injured,Out
+2023-06-22 Los Angeles FC-Seattle Sounders FC,LAFC,Kellyn Acosta,1701955,126909,injured,Out
+2023-06-22 Los Angeles FC-Seattle Sounders FC,LAFC,Maxime Crépeau,1701955,137263,injured,Out
+2023-06-22 Los Angeles FC-Seattle Sounders FC,LAFC,Sergi Palencia,1701955,362498,injured,Out
+2023-06-22 Los Angeles FC-Seattle Sounders FC,LAFC,Timothy Tillman,1701955,319996,injured,Out
 2023-06-22 Los Angeles FC-Seattle Sounders FC,Seattle Sounders FC,Ethan Dobbelaere,1701955,396103,injured,Out
 2023-06-22 Los Angeles FC-Seattle Sounders FC,Seattle Sounders FC,Nicolás Lodeiro,1701955,33554,injured,Out
 2023-06-22 Los Angeles FC-Seattle Sounders FC,Seattle Sounders FC,Sota Kitahara,1701955,462097,injured,Out
@@ -1408,7 +1408,7 @@ game,team,player,game_id,player_id,reason,status
 2023-06-22 St. Louis City-Real Salt Lake,St. Louis City,João Klauss,1701951,383808,injured,Out
 2023-06-24 Charlotte FC-CF Montreal,CF Montreal,Romell Quioto,1702149,334513,injured doubtful,Doubtful
 2023-06-24 Charlotte FC-CF Montreal,CF Montreal,Samuel Piette,1702149,117112,injured,Out
-2023-06-24 Charlotte FC-CF Montreal,Charlotte FC,Hamady Diop,1702149,473871,injured,Out
+2023-06-24 Charlotte FC-CF Montreal,Charlotte,Hamady Diop,1702149,473871,injured,Out
 2023-06-24 Columbus Crew-Nashville SC,Columbus Crew,Gustavo Vallecilla,1701958,414566,injured,Out
 2023-06-24 Columbus Crew-Nashville SC,Columbus Crew,Milos Degenek,1701958,318155,injured,Out
 2023-06-24 Columbus Crew-Nashville SC,Columbus Crew,Will Sands,1701958,433495,injured,Out
@@ -1419,9 +1419,9 @@ game,team,player,game_id,player_id,reason,status
 2023-06-24 DC United-FC Cincinnati,DC United,Nigel Robertha,1701960,316933,injured,Out
 2023-06-24 DC United-FC Cincinnati,DC United,Steven Birnbaum,1701960,143470,suspended,Out
 2023-06-24 DC United-FC Cincinnati,DC United,Theodore Ku-DiPietro,1701960,434633,injured,Out
-2023-06-24 DC United-FC Cincinnati,FC Cincinnati,Brenner,1701960,339723,injured,Out
-2023-06-24 DC United-FC Cincinnati,FC Cincinnati,Nick Hagglund,1701960,143777,injured doubtful,Doubtful
-2023-06-24 DC United-FC Cincinnati,FC Cincinnati,Sergio Santos,1701960,371011,injured doubtful,Doubtful
+2023-06-24 DC United-FC Cincinnati,Cincinnati,Brenner,1701960,339723,injured,Out
+2023-06-24 DC United-FC Cincinnati,Cincinnati,Nick Hagglund,1701960,143777,injured doubtful,Doubtful
+2023-06-24 DC United-FC Cincinnati,Cincinnati,Sergio Santos,1701960,371011,injured doubtful,Doubtful
 2023-06-24 New England Revolution-Toronto FC,New England Revolution,Dylan Borrero,1702167,402907,injured,Out
 2023-06-24 New England Revolution-Toronto FC,New England Revolution,Henry Kessler,1702167,393090,injured,Out
 2023-06-24 New England Revolution-Toronto FC,New England Revolution,Nacho Gil,1702167,300779,injured,Out
@@ -1437,10 +1437,10 @@ game,team,player,game_id,player_id,reason,status
 2023-06-24 New York Red Bulls-Atlanta United,New York Red Bulls,Lewis Morgan,1702021,364232,injured,Out
 2023-06-24 New York Red Bulls-Atlanta United,New York Red Bulls,Serge Ngoma,1702021,433519,injured,Out
 2023-06-24 New York Red Bulls-Atlanta United,New York Red Bulls,Steven Sserwadda,1702021,440156,injured,Out
-2023-06-24 Philadelphia Union-Inter Miami CF,Inter Miami CF,Corentin Jean,1701975,118351,injured,Out
-2023-06-24 Philadelphia Union-Inter Miami CF,Inter Miami CF,Gregore,1701975,355710,injured,Out
-2023-06-24 Philadelphia Union-Inter Miami CF,Inter Miami CF,Jean Mota,1701975,110601,injured,Out
-2023-06-24 Philadelphia Union-Inter Miami CF,Inter Miami CF,Robbie Robinson,1701975,393147,injured,Out
+2023-06-24 Philadelphia Union-Inter Miami CF,Inter Miami,Corentin Jean,1701975,118351,injured,Out
+2023-06-24 Philadelphia Union-Inter Miami CF,Inter Miami,Gregore,1701975,355710,injured,Out
+2023-06-24 Philadelphia Union-Inter Miami CF,Inter Miami,Jean Mota,1701975,110601,injured,Out
+2023-06-24 Philadelphia Union-Inter Miami CF,Inter Miami,Robbie Robinson,1701975,393147,injured,Out
 2023-06-24 Philadelphia Union-Inter Miami CF,Philadelphia Union,Andrés Perea,1701975,393099,injured doubtful,Doubtful
 2023-06-25 Austin FC-Houston Dynamo FC,Austin FC,Leo Väisänen,1702019,371961,injured,Out
 2023-06-25 Austin FC-Houston Dynamo FC,Austin FC,Sofiane Djeffal,1702019,433521,injured,Out
@@ -1454,11 +1454,11 @@ game,team,player,game_id,player_id,reason,status
 2023-06-25 Colorado Rapids-LA Galaxy,LA Galaxy,Chicharito,1702015,35003,injured,Out
 2023-06-25 Colorado Rapids-LA Galaxy,LA Galaxy,Memo Rodríguez,1702015,270783,injured,Out
 2023-06-25 Colorado Rapids-LA Galaxy,LA Galaxy,Séga Coulibaly,1702015,301458,injured,Out
-2023-06-25 Los Angeles FC-Vancouver Whitecaps,Los Angeles FC,Jesús Murillo,1702165,403927,injured,Out
-2023-06-25 Los Angeles FC-Vancouver Whitecaps,Los Angeles FC,Kellyn Acosta,1702165,126909,injured,Out
-2023-06-25 Los Angeles FC-Vancouver Whitecaps,Los Angeles FC,Maxime Crépeau,1702165,137263,injured,Out
-2023-06-25 Los Angeles FC-Vancouver Whitecaps,Los Angeles FC,Sergi Palencia,1702165,362498,injured,Out
-2023-06-25 Los Angeles FC-Vancouver Whitecaps,Los Angeles FC,Timothy Tillman,1702165,319996,injured,Out
+2023-06-25 Los Angeles FC-Vancouver Whitecaps,LAFC,Jesús Murillo,1702165,403927,injured,Out
+2023-06-25 Los Angeles FC-Vancouver Whitecaps,LAFC,Kellyn Acosta,1702165,126909,injured,Out
+2023-06-25 Los Angeles FC-Vancouver Whitecaps,LAFC,Maxime Crépeau,1702165,137263,injured,Out
+2023-06-25 Los Angeles FC-Vancouver Whitecaps,LAFC,Sergi Palencia,1702165,362498,injured,Out
+2023-06-25 Los Angeles FC-Vancouver Whitecaps,LAFC,Timothy Tillman,1702165,319996,injured,Out
 2023-06-25 Los Angeles FC-Vancouver Whitecaps,Vancouver Whitecaps,Russell Teibert,1702165,99501,injured,Out
 2023-06-25 Portland Timbers-New York City FC,New York City FC,Thiago Martins,1701938,202106,injured,Out
 2023-06-25 Portland Timbers-New York City FC,Portland Timbers,David Ayala,1701938,389242,injured,Out
@@ -1494,9 +1494,9 @@ game,team,player,game_id,player_id,reason,status
 2023-07-02 Atlanta United-Philadelphia Union,Atlanta United,Santiago Sosa,1701935,364065,injured,Out
 2023-07-02 Atlanta United-Philadelphia Union,Philadelphia Union,Andrés Perea,1701935,393099,injured doubtful,Doubtful
 2023-07-04 Inter Miami CF-Columbus Crew,Columbus Crew,Will Sands,1702012,433495,injured,Out
-2023-07-04 Inter Miami CF-Columbus Crew,Inter Miami CF,Gregore,1702012,355710,injured,Out
-2023-07-04 Inter Miami CF-Columbus Crew,Inter Miami CF,Jean Mota,1702012,110601,injured,Out
-2023-07-04 Inter Miami CF-Columbus Crew,Inter Miami CF,Ryan Sailor,1702012,438106,injured,Out
+2023-07-04 Inter Miami CF-Columbus Crew,Inter Miami,Gregore,1702012,355710,injured,Out
+2023-07-04 Inter Miami CF-Columbus Crew,Inter Miami,Jean Mota,1702012,110601,injured,Out
+2023-07-04 Inter Miami CF-Columbus Crew,Inter Miami,Ryan Sailor,1702012,438106,injured,Out
 2023-07-04 Orlando City-Toronto FC,Orlando City,Abdi Salim,1702159,474595,injured,Out
 2023-07-04 Orlando City-Toronto FC,Orlando City,Adam Grinwis,1702159,358069,injured doubtful,Doubtful
 2023-07-04 Orlando City-Toronto FC,Toronto FC,Adama Diomande,1702159,243562,injured doubtful,Doubtful
@@ -1514,12 +1514,12 @@ game,team,player,game_id,player_id,reason,status
 2023-07-05 LA Galaxy-Los Angeles FC,LA Galaxy,Chicharito,1701737,35003,injured,Out
 2023-07-05 LA Galaxy-Los Angeles FC,LA Galaxy,Martín Cáceres,1701737,30635,injured,Out
 2023-07-05 LA Galaxy-Los Angeles FC,LA Galaxy,Memo Rodríguez,1701737,270783,injured,Out
-2023-07-05 LA Galaxy-Los Angeles FC,Los Angeles FC,Aaron Long,1701737,249916,international duty,Out
-2023-07-05 LA Galaxy-Los Angeles FC,Los Angeles FC,Jesús Murillo,1701737,403927,injured,Out
-2023-07-05 LA Galaxy-Los Angeles FC,Los Angeles FC,Maxime Crépeau,1701737,137263,injured,Out
-2023-07-05 LA Galaxy-Los Angeles FC,Los Angeles FC,Sergi Palencia,1701737,362498,injured,Out
-2023-07-05 New York City FC-Charlotte FC,Charlotte FC,Adilson Malanda,1701971,408406,injured,Out
-2023-07-05 New York City FC-Charlotte FC,Charlotte FC,Hamady Diop,1701971,473871,injured,Out
+2023-07-05 LA Galaxy-Los Angeles FC,LAFC,Aaron Long,1701737,249916,international duty,Out
+2023-07-05 LA Galaxy-Los Angeles FC,LAFC,Jesús Murillo,1701737,403927,injured,Out
+2023-07-05 LA Galaxy-Los Angeles FC,LAFC,Maxime Crépeau,1701737,137263,injured,Out
+2023-07-05 LA Galaxy-Los Angeles FC,LAFC,Sergi Palencia,1701737,362498,injured,Out
+2023-07-05 New York City FC-Charlotte FC,Charlotte,Adilson Malanda,1701971,408406,injured,Out
+2023-07-05 New York City FC-Charlotte FC,Charlotte,Hamady Diop,1701971,473871,injured,Out
 2023-07-05 New York City FC-Charlotte FC,New York City FC,Thiago Martins,1701971,202106,injured,Out
 2023-07-12 New England Revolution-Atlanta United,Atlanta United,Franco Ibarra,1701988,389241,suspended,Out
 2023-07-12 New England Revolution-Atlanta United,Atlanta United,Giorgos Giakoumakis,1701988,347809,injured,Out
@@ -1530,10 +1530,10 @@ game,team,player,game_id,player_id,reason,status
 2023-07-12 New England Revolution-Atlanta United,New England Revolution,Henry Kessler,1701988,393090,injured,Out
 2023-07-12 New England Revolution-Atlanta United,New England Revolution,Nacho Gil,1701988,300779,injured,Out
 2023-07-12 New England Revolution-Atlanta United,New England Revolution,Tommy McNamara,1701988,143557,injured,Out
-2023-07-12 New York Red Bulls-FC Cincinnati,FC Cincinnati,Brandon Vazquez,1702046,298709,international duty,Out
-2023-07-12 New York Red Bulls-FC Cincinnati,FC Cincinnati,Dominique Badji,1702046,270584,injured doubtful,Doubtful
-2023-07-12 New York Red Bulls-FC Cincinnati,FC Cincinnati,Gerardo Valenzuela,1702046,482846,injured,Out
-2023-07-12 New York Red Bulls-FC Cincinnati,FC Cincinnati,Matt Miazga,1702046,131999,international duty,Out
+2023-07-12 New York Red Bulls-FC Cincinnati,Cincinnati,Brandon Vazquez,1702046,298709,international duty,Out
+2023-07-12 New York Red Bulls-FC Cincinnati,Cincinnati,Dominique Badji,1702046,270584,injured doubtful,Doubtful
+2023-07-12 New York Red Bulls-FC Cincinnati,Cincinnati,Gerardo Valenzuela,1702046,482846,injured,Out
+2023-07-12 New York Red Bulls-FC Cincinnati,Cincinnati,Matt Miazga,1702046,131999,international duty,Out
 2023-07-12 New York Red Bulls-FC Cincinnati,New York Red Bulls,Cory Burke,1702046,300051,international duty,Out
 2023-07-12 New York Red Bulls-FC Cincinnati,New York Red Bulls,Dru Yearwood,1702046,342789,injured doubtful,Doubtful
 2023-07-12 New York Red Bulls-FC Cincinnati,New York Red Bulls,Dylan Nealis,1702046,393386,injured doubtful,Doubtful
@@ -1571,10 +1571,10 @@ game,team,player,game_id,player_id,reason,status
 2023-07-13 Houston Dynamo FC-Minnesota United,Minnesota United,Kemar Lawrence,1702050,143345,international duty,Out
 2023-07-13 Houston Dynamo FC-Minnesota United,Minnesota United,Mikael Marques,1702050,407883,injured,Out
 2023-07-13 Houston Dynamo FC-Minnesota United,Minnesota United,Ryen Jiba,1702050,471103,injured,Out
-2023-07-13 Los Angeles FC-St. Louis City,Los Angeles FC,Aaron Long,1701909,249916,international duty,Out
-2023-07-13 Los Angeles FC-St. Louis City,Los Angeles FC,Jesús Murillo,1701909,403927,injured,Out
-2023-07-13 Los Angeles FC-St. Louis City,Los Angeles FC,Maxime Crépeau,1701909,137263,injured,Out
-2023-07-13 Los Angeles FC-St. Louis City,Los Angeles FC,Sergi Palencia,1701909,362498,injured,Out
+2023-07-13 Los Angeles FC-St. Louis City,LAFC,Aaron Long,1701909,249916,international duty,Out
+2023-07-13 Los Angeles FC-St. Louis City,LAFC,Jesús Murillo,1701909,403927,injured,Out
+2023-07-13 Los Angeles FC-St. Louis City,LAFC,Maxime Crépeau,1701909,137263,injured,Out
+2023-07-13 Los Angeles FC-St. Louis City,LAFC,Sergi Palencia,1701909,362498,injured,Out
 2023-07-13 Los Angeles FC-St. Louis City,St. Louis City,Eduard Löwen,1701909,334739,injured doubtful,Doubtful
 2023-07-13 Los Angeles FC-St. Louis City,St. Louis City,Joakim Nilsson,1701909,320565,injured,Out
 2023-07-13 Los Angeles FC-St. Louis City,St. Louis City,João Klauss,1701909,383808,injured,Out
@@ -1621,9 +1621,9 @@ game,team,player,game_id,player_id,reason,status
 2023-07-15 CF Montreal-Charlotte FC,CF Montreal,Mathieu Choinière,1702187,360292,injured,Out
 2023-07-15 CF Montreal-Charlotte FC,CF Montreal,Romell Quioto,1702187,334513,injured,Out
 2023-07-15 CF Montreal-Charlotte FC,CF Montreal,Zachary Brault-Guillard,1702187,371044,injured,Out
-2023-07-15 CF Montreal-Charlotte FC,Charlotte FC,Adilson Malanda,1702187,408406,injured,Out
-2023-07-15 CF Montreal-Charlotte FC,Charlotte FC,Enzo Copetti,1702187,323473,injured,Out
-2023-07-15 CF Montreal-Charlotte FC,Charlotte FC,Pablo Sisniega,1702187,371099,injured,Out
+2023-07-15 CF Montreal-Charlotte FC,Charlotte,Adilson Malanda,1702187,408406,injured,Out
+2023-07-15 CF Montreal-Charlotte FC,Charlotte,Enzo Copetti,1702187,323473,injured,Out
+2023-07-15 CF Montreal-Charlotte FC,Charlotte,Pablo Sisniega,1702187,371099,injured,Out
 2023-07-15 New England Revolution-DC United,DC United,Jacob Greene,1701976,413725,injured,Out
 2023-07-15 New England Revolution-DC United,DC United,Martín Rodríguez,1701976,101584,injured,Out
 2023-07-15 New England Revolution-DC United,DC United,Mohanad Jeahze,1701976,321201,injured,Out
@@ -1665,18 +1665,18 @@ game,team,player,game_id,player_id,reason,status
 2023-07-16 Colorado Rapids-Houston Dynamo FC,Houston Dynamo FC,Ifunanyachi Achara,1702033,393390,injured,Out
 2023-07-16 Colorado Rapids-Houston Dynamo FC,Houston Dynamo FC,Tate Schmitt,1702033,371299,injured,Out
 2023-07-16 Colorado Rapids-Houston Dynamo FC,Houston Dynamo FC,Teenage Hadebe,1702033,332944,injured,Out
-2023-07-16 FC Cincinnati-Nashville SC,FC Cincinnati,Brandon Vazquez,1701984,298709,international duty,Out
-2023-07-16 FC Cincinnati-Nashville SC,FC Cincinnati,Dominique Badji,1701984,270584,injured,Out
-2023-07-16 FC Cincinnati-Nashville SC,FC Cincinnati,Gerardo Valenzuela,1701984,482846,injured,Out
-2023-07-16 FC Cincinnati-Nashville SC,FC Cincinnati,Matt Miazga,1701984,131999,international duty,Out
-2023-07-16 FC Cincinnati-Nashville SC,FC Cincinnati,Yuya Kubo,1701984,109664,injured doubtful,Doubtful
+2023-07-16 FC Cincinnati-Nashville SC,Cincinnati,Brandon Vazquez,1701984,298709,international duty,Out
+2023-07-16 FC Cincinnati-Nashville SC,Cincinnati,Dominique Badji,1701984,270584,injured,Out
+2023-07-16 FC Cincinnati-Nashville SC,Cincinnati,Gerardo Valenzuela,1701984,482846,injured,Out
+2023-07-16 FC Cincinnati-Nashville SC,Cincinnati,Matt Miazga,1701984,131999,international duty,Out
+2023-07-16 FC Cincinnati-Nashville SC,Cincinnati,Yuya Kubo,1701984,109664,injured doubtful,Doubtful
 2023-07-16 FC Cincinnati-Nashville SC,Nashville SC,Aníbal Godoy,1701984,111779,international duty,Out
 2023-07-16 FC Cincinnati-Nashville SC,Nashville SC,Jack Maher,1701984,398009,injured doubtful,Doubtful
 2023-07-16 FC Cincinnati-Nashville SC,Nashville SC,Nick DePuy,1701984,334518,injured,Out
-2023-07-16 Minnesota United-Los Angeles FC,Los Angeles FC,Aaron Long,1701979,249916,international duty,Out
-2023-07-16 Minnesota United-Los Angeles FC,Los Angeles FC,Jesús Murillo,1701979,403927,injured,Out
-2023-07-16 Minnesota United-Los Angeles FC,Los Angeles FC,Maxime Crépeau,1701979,137263,injured,Out
-2023-07-16 Minnesota United-Los Angeles FC,Los Angeles FC,Sergi Palencia,1701979,362498,injured,Out
+2023-07-16 Minnesota United-Los Angeles FC,LAFC,Aaron Long,1701979,249916,international duty,Out
+2023-07-16 Minnesota United-Los Angeles FC,LAFC,Jesús Murillo,1701979,403927,injured,Out
+2023-07-16 Minnesota United-Los Angeles FC,LAFC,Maxime Crépeau,1701979,137263,injured,Out
+2023-07-16 Minnesota United-Los Angeles FC,LAFC,Sergi Palencia,1701979,362498,injured,Out
 2023-07-16 Minnesota United-Los Angeles FC,Minnesota United,Emmanuel Iwe,1701979,477531,injured doubtful,Doubtful
 2023-07-16 Minnesota United-Los Angeles FC,Minnesota United,Franco Fragapane,1701979,141087,injured doubtful,Doubtful
 2023-07-16 Minnesota United-Los Angeles FC,Minnesota United,Jeong Sang-Bin,1701979,450274,injured doubtful,Doubtful
@@ -1716,13 +1716,13 @@ game,team,player,game_id,player_id,reason,status
 2023-07-16 Seattle Sounders FC-FC Dallas,Seattle Sounders FC,Sota Kitahara,1701982,462097,injured,Out
 2023-07-16 Seattle Sounders FC-FC Dallas,Seattle Sounders FC,Stefan Frei,1701982,72630,injured,Out
 2023-07-16 Seattle Sounders FC-FC Dallas,Seattle Sounders FC,Xavier Arreaga,1701982,375466,injured,Out
-2023-07-16 St. Louis City-Inter Miami CF,Inter Miami CF,Corentin Jean,1702030,118351,injured,Out
-2023-07-16 St. Louis City-Inter Miami CF,Inter Miami CF,DeAndre Yedlin,1702030,126958,international duty,Out
-2023-07-16 St. Louis City-Inter Miami CF,Inter Miami CF,Franco Negri,1702030,323654,injured,Out
-2023-07-16 St. Louis City-Inter Miami CF,Inter Miami CF,Gregore,1702030,355710,injured,Out
-2023-07-16 St. Louis City-Inter Miami CF,Inter Miami CF,Jean Mota,1702030,110601,injured,Out
-2023-07-16 St. Louis City-Inter Miami CF,Inter Miami CF,Kamal Miller,1702030,371016,international duty,Out
-2023-07-16 St. Louis City-Inter Miami CF,Inter Miami CF,Ryan Sailor,1702030,438106,injured doubtful,Doubtful
+2023-07-16 St. Louis City-Inter Miami CF,Inter Miami,Corentin Jean,1702030,118351,injured,Out
+2023-07-16 St. Louis City-Inter Miami CF,Inter Miami,DeAndre Yedlin,1702030,126958,international duty,Out
+2023-07-16 St. Louis City-Inter Miami CF,Inter Miami,Franco Negri,1702030,323654,injured,Out
+2023-07-16 St. Louis City-Inter Miami CF,Inter Miami,Gregore,1702030,355710,injured,Out
+2023-07-16 St. Louis City-Inter Miami CF,Inter Miami,Jean Mota,1702030,110601,injured,Out
+2023-07-16 St. Louis City-Inter Miami CF,Inter Miami,Kamal Miller,1702030,371016,international duty,Out
+2023-07-16 St. Louis City-Inter Miami CF,Inter Miami,Ryan Sailor,1702030,438106,injured doubtful,Doubtful
 2023-07-16 St. Louis City-Inter Miami CF,St. Louis City,Eduard Löwen,1702030,334739,injured doubtful,Doubtful
 2023-07-16 St. Louis City-Inter Miami CF,St. Louis City,Joakim Nilsson,1702030,320565,injured,Out
 2023-07-16 St. Louis City-Inter Miami CF,St. Louis City,João Klauss,1702030,383808,injured,Out
@@ -1733,12 +1733,12 @@ game,team,player,game_id,player_id,reason,status
 2023-07-16 Vancouver Whitecaps-LA Galaxy,Vancouver Whitecaps,Ali Ahmed,1702174,437419,injured,Out
 2023-07-16 Vancouver Whitecaps-LA Galaxy,Vancouver Whitecaps,Javain Brown,1702174,414195,international duty,Out
 2023-08-20 Columbus Crew-FC Cincinnati,Columbus Crew,Will Sands,1701983,433495,injured,Out
-2023-08-20 Columbus Crew-FC Cincinnati,FC Cincinnati,Dominique Badji,1701983,270584,injured,Out
-2023-08-20 Columbus Crew-FC Cincinnati,FC Cincinnati,Gerardo Valenzuela,1701983,482846,injured,Out
-2023-08-20 Columbus Crew-FC Cincinnati,FC Cincinnati,Matt Miazga,1701983,131999,suspended,Out
-2023-08-20 Columbus Crew-FC Cincinnati,FC Cincinnati,Sergio Santos,1701983,371011,injured,Out
-2023-08-20 Columbus Crew-FC Cincinnati,FC Cincinnati,Stiven Jimenez,1701983,462801,injured,Out
-2023-08-20 Columbus Crew-FC Cincinnati,FC Cincinnati,Yerson Mosquera,1701983,425060,injured doubtful,Doubtful
+2023-08-20 Columbus Crew-FC Cincinnati,Cincinnati,Dominique Badji,1701983,270584,injured,Out
+2023-08-20 Columbus Crew-FC Cincinnati,Cincinnati,Gerardo Valenzuela,1701983,482846,injured,Out
+2023-08-20 Columbus Crew-FC Cincinnati,Cincinnati,Matt Miazga,1701983,131999,suspended,Out
+2023-08-20 Columbus Crew-FC Cincinnati,Cincinnati,Sergio Santos,1701983,371011,injured,Out
+2023-08-20 Columbus Crew-FC Cincinnati,Cincinnati,Stiven Jimenez,1701983,462801,injured,Out
+2023-08-20 Columbus Crew-FC Cincinnati,Cincinnati,Yerson Mosquera,1701983,425060,injured doubtful,Doubtful
 2023-08-20 New York City FC-Minnesota United,Minnesota United,Kervin Arriaga,1702060,433488,injured,Out
 2023-08-20 New York City FC-Minnesota United,Minnesota United,Robin Lod,1702060,137533,injured,Out
 2023-08-20 New York City FC-Minnesota United,Minnesota United,Ryen Jiba,1702060,471103,injured,Out
@@ -1798,7 +1798,7 @@ game,team,player,game_id,player_id,reason,status
 2023-08-24 Los Angeles FC-Colorado Rapids,Colorado Rapids,Jonathan Lewis,1701999,333958,injured doubtful,Doubtful
 2023-08-24 Los Angeles FC-Colorado Rapids,Colorado Rapids,Michael Edwards,1701999,445156,injured,Out
 2023-08-24 Los Angeles FC-Colorado Rapids,Colorado Rapids,Rafael Navarro,1701999,397829,other,Out
-2023-08-24 Los Angeles FC-Colorado Rapids,Los Angeles FC,Carlos Vela,1701999,25165,injured doubtful,Doubtful
+2023-08-24 Los Angeles FC-Colorado Rapids,LAFC,Carlos Vela,1701999,25165,injured doubtful,Doubtful
 2023-08-26 Atlanta United-Nashville SC,Atlanta United,Machop Chol,1701993,413707,injured,Out
 2023-08-26 Atlanta United-Nashville SC,Atlanta United,Saba Lobjanidze,1701993,283761,ineligible,Out
 2023-08-26 Atlanta United-Nashville SC,Nashville SC,Fafá Picault,1701993,242785,suspended,Out
@@ -1813,10 +1813,10 @@ game,team,player,game_id,player_id,reason,status
 2023-08-26 CF Montreal-New England Revolution,New England Revolution,Gustavo Bou,1702181,38559,injured doubtful,Doubtful
 2023-08-26 CF Montreal-New England Revolution,New England Revolution,Henry Kessler,1702181,393090,injured,Out
 2023-08-26 CF Montreal-New England Revolution,New England Revolution,Maciel,1702181,414560,injured,Out
-2023-08-26 Charlotte FC-Los Angeles FC,Charlotte FC,Enzo Copetti,1701994,323473,injured,Out
-2023-08-26 Charlotte FC-Los Angeles FC,Charlotte FC,Pablo Sisniega,1701994,371099,injured,Out
-2023-08-26 Charlotte FC-Los Angeles FC,Los Angeles FC,Diego Palacios,1701994,361789,unfit,Doubtful
-2023-08-26 Charlotte FC-Los Angeles FC,Los Angeles FC,Diego Rosales,1701994,481483,injured,Out
+2023-08-26 Charlotte FC-Los Angeles FC,Charlotte,Enzo Copetti,1701994,323473,injured,Out
+2023-08-26 Charlotte FC-Los Angeles FC,Charlotte,Pablo Sisniega,1701994,371099,injured,Out
+2023-08-26 Charlotte FC-Los Angeles FC,LAFC,Diego Palacios,1701994,361789,unfit,Doubtful
+2023-08-26 Charlotte FC-Los Angeles FC,LAFC,Diego Rosales,1701994,481483,injured,Out
 2023-08-26 Columbus Crew-Toronto FC,Columbus Crew,Will Sands,1702179,433495,injured,Out
 2023-08-26 Columbus Crew-Toronto FC,Toronto FC,Cristián Gutiérrez,1702179,393110,injured,Out
 2023-08-26 Columbus Crew-Toronto FC,Toronto FC,Greg Ranjitsingh,1702179,371019,injured doubtful,Doubtful
@@ -1827,18 +1827,18 @@ game,team,player,game_id,player_id,reason,status
 2023-08-26 DC United-Philadelphia Union,DC United,Mohanad Jeahze,1701996,321201,injured,Out
 2023-08-26 DC United-Philadelphia Union,DC United,Nigel Robertha,1701996,316933,injured,Out
 2023-08-26 DC United-Philadelphia Union,Philadelphia Union,Julián Carranza,1701996,347863,injured doubtful,Doubtful
-2023-08-26 FC Cincinnati-New York City FC,FC Cincinnati,Dominique Badji,1701995,270584,injured,Out
-2023-08-26 FC Cincinnati-New York City FC,FC Cincinnati,Gerardo Valenzuela,1701995,482846,injured,Out
-2023-08-26 FC Cincinnati-New York City FC,FC Cincinnati,Obinna Nwobodo,1701995,403881,suspended,Out
-2023-08-26 FC Cincinnati-New York City FC,FC Cincinnati,Stiven Jimenez,1701995,462801,injured,Out
-2023-08-26 FC Cincinnati-New York City FC,FC Cincinnati,Yerson Mosquera,1701995,425060,injured doubtful,Doubtful
-2023-08-26 New York Red Bulls-Inter Miami CF,Inter Miami CF,Corentin Jean,1701997,118351,injured,Out
-2023-08-26 New York Red Bulls-Inter Miami CF,Inter Miami CF,Edison Azcona,1701997,413765,injured,Out
-2023-08-26 New York Red Bulls-Inter Miami CF,Inter Miami CF,Franco Negri,1701997,323654,injured,Out
-2023-08-26 New York Red Bulls-Inter Miami CF,Inter Miami CF,Gregore,1701997,355710,injured,Out
-2023-08-26 New York Red Bulls-Inter Miami CF,Inter Miami CF,Ian Fray,1701997,445274,injured,Out
-2023-08-26 New York Red Bulls-Inter Miami CF,Inter Miami CF,Jean Mota,1701997,110601,injured,Out
-2023-08-26 New York Red Bulls-Inter Miami CF,Inter Miami CF,Nicolás Stefanelli,1701997,303877,injured,Out
+2023-08-26 FC Cincinnati-New York City FC,Cincinnati,Dominique Badji,1701995,270584,injured,Out
+2023-08-26 FC Cincinnati-New York City FC,Cincinnati,Gerardo Valenzuela,1701995,482846,injured,Out
+2023-08-26 FC Cincinnati-New York City FC,Cincinnati,Obinna Nwobodo,1701995,403881,suspended,Out
+2023-08-26 FC Cincinnati-New York City FC,Cincinnati,Stiven Jimenez,1701995,462801,injured,Out
+2023-08-26 FC Cincinnati-New York City FC,Cincinnati,Yerson Mosquera,1701995,425060,injured doubtful,Doubtful
+2023-08-26 New York Red Bulls-Inter Miami CF,Inter Miami,Corentin Jean,1701997,118351,injured,Out
+2023-08-26 New York Red Bulls-Inter Miami CF,Inter Miami,Edison Azcona,1701997,413765,injured,Out
+2023-08-26 New York Red Bulls-Inter Miami CF,Inter Miami,Franco Negri,1701997,323654,injured,Out
+2023-08-26 New York Red Bulls-Inter Miami CF,Inter Miami,Gregore,1701997,355710,injured,Out
+2023-08-26 New York Red Bulls-Inter Miami CF,Inter Miami,Ian Fray,1701997,445274,injured,Out
+2023-08-26 New York Red Bulls-Inter Miami CF,Inter Miami,Jean Mota,1701997,110601,injured,Out
+2023-08-26 New York Red Bulls-Inter Miami CF,Inter Miami,Nicolás Stefanelli,1701997,303877,injured,Out
 2023-08-26 New York Red Bulls-Inter Miami CF,New York Red Bulls,Cory Burke,1701997,300051,injured doubtful,Doubtful
 2023-08-26 New York Red Bulls-Inter Miami CF,New York Red Bulls,Dante Vanzeir,1701997,299690,injured doubtful,Doubtful
 2023-08-26 New York Red Bulls-Inter Miami CF,New York Red Bulls,Dylan Nealis,1701997,393386,injured,Out
@@ -1898,25 +1898,25 @@ game,team,player,game_id,player_id,reason,status
 2023-08-27 Sporting Kansas City-San Jose Earthquakes,Sporting Kansas City,Nemanja Radoja,1702004,239053,injured,Out
 2023-08-30 Atlanta United-FC Cincinnati,Atlanta United,Jamal Thiare,1702034,123191,ineligible,Doubtful
 2023-08-30 Atlanta United-FC Cincinnati,Atlanta United,Machop Chol,1702034,413707,injured,Out
-2023-08-30 Atlanta United-FC Cincinnati,FC Cincinnati,Dominique Badji,1702034,270584,injured doubtful,Doubtful
-2023-08-30 Atlanta United-FC Cincinnati,FC Cincinnati,Stiven Jimenez,1702034,462801,injured,Out
-2023-08-30 Atlanta United-FC Cincinnati,FC Cincinnati,Yerson Mosquera,1702034,425060,injured doubtful,Doubtful
-2023-08-30 Charlotte FC-Orlando City,Charlotte FC,Adilson Malanda,1702036,408406,injured doubtful,Doubtful
-2023-08-30 Charlotte FC-Orlando City,Charlotte FC,Brecht Dejaegere,1702036,296457,injured doubtful,Doubtful
-2023-08-30 Charlotte FC-Orlando City,Charlotte FC,Enzo Copetti,1702036,323473,injured doubtful,Doubtful
-2023-08-30 Charlotte FC-Orlando City,Charlotte FC,Hamady Diop,1702036,473871,injured,Out
-2023-08-30 Charlotte FC-Orlando City,Charlotte FC,Nathan Byrne,1702036,90909,injured doubtful,Doubtful
-2023-08-30 Charlotte FC-Orlando City,Charlotte FC,Vinicius Mello,1702036,417866,injured,Out
+2023-08-30 Atlanta United-FC Cincinnati,Cincinnati,Dominique Badji,1702034,270584,injured doubtful,Doubtful
+2023-08-30 Atlanta United-FC Cincinnati,Cincinnati,Stiven Jimenez,1702034,462801,injured,Out
+2023-08-30 Atlanta United-FC Cincinnati,Cincinnati,Yerson Mosquera,1702034,425060,injured doubtful,Doubtful
+2023-08-30 Charlotte FC-Orlando City,Charlotte,Adilson Malanda,1702036,408406,injured doubtful,Doubtful
+2023-08-30 Charlotte FC-Orlando City,Charlotte,Brecht Dejaegere,1702036,296457,injured doubtful,Doubtful
+2023-08-30 Charlotte FC-Orlando City,Charlotte,Enzo Copetti,1702036,323473,injured doubtful,Doubtful
+2023-08-30 Charlotte FC-Orlando City,Charlotte,Hamady Diop,1702036,473871,injured,Out
+2023-08-30 Charlotte FC-Orlando City,Charlotte,Nathan Byrne,1702036,90909,injured doubtful,Doubtful
+2023-08-30 Charlotte FC-Orlando City,Charlotte,Vinicius Mello,1702036,417866,injured,Out
 2023-08-30 Charlotte FC-Orlando City,Orlando City,Antônio Carlos,1702036,114164,injured,Out
 2023-08-30 Charlotte FC-Orlando City,Orlando City,Ercan Kara,1702036,404210,other,Out
 2023-08-30 Charlotte FC-Orlando City,Orlando City,Gastón González,1702036,379161,injured doubtful,Doubtful
 2023-08-30 Charlotte FC-Orlando City,Orlando City,Robin Jansson,1702036,371971,injured doubtful,Doubtful
 2023-08-30 Charlotte FC-Orlando City,Orlando City,Wilder Cartagena,1702036,125163,suspended,Out
-2023-08-30 Inter Miami CF-Nashville SC,Inter Miami CF,Corentin Jean,1702039,118351,injured,Out
-2023-08-30 Inter Miami CF-Nashville SC,Inter Miami CF,Edison Azcona,1702039,413765,injured,Out
-2023-08-30 Inter Miami CF-Nashville SC,Inter Miami CF,Franco Negri,1702039,323654,injured,Out
-2023-08-30 Inter Miami CF-Nashville SC,Inter Miami CF,Gregore,1702039,355710,injured,Out
-2023-08-30 Inter Miami CF-Nashville SC,Inter Miami CF,Ian Fray,1702039,445274,injured,Out
+2023-08-30 Inter Miami CF-Nashville SC,Inter Miami,Corentin Jean,1702039,118351,injured,Out
+2023-08-30 Inter Miami CF-Nashville SC,Inter Miami,Edison Azcona,1702039,413765,injured,Out
+2023-08-30 Inter Miami CF-Nashville SC,Inter Miami,Franco Negri,1702039,323654,injured,Out
+2023-08-30 Inter Miami CF-Nashville SC,Inter Miami,Gregore,1702039,355710,injured,Out
+2023-08-30 Inter Miami CF-Nashville SC,Inter Miami,Ian Fray,1702039,445274,injured,Out
 2023-08-30 Inter Miami CF-Nashville SC,Nashville SC,Nick DePuy,1702039,334518,injured,Out
 2023-08-30 Inter Miami CF-Nashville SC,Nashville SC,Walker Zimmerman,1702039,126914,injured doubtful,Doubtful
 2023-08-30 New England Revolution-New York Red Bulls,New England Revolution,Brandon Bye,1702040,354028,injured,Out
@@ -1993,10 +1993,10 @@ game,team,player,game_id,player_id,reason,status
 2023-09-02 DC United-Chicago Fire FC,DC United,Mohanad Jeahze,1702011,321201,injured,Out
 2023-09-02 DC United-Chicago Fire FC,DC United,Nigel Robertha,1702011,316933,injured,Out
 2023-09-02 DC United-Chicago Fire FC,DC United,Tyler Miller,1702011,313038,injured,Out
-2023-09-02 FC Cincinnati-Orlando City,FC Cincinnati,Aaron Boupendza,1702009,401246,injured doubtful,Doubtful
-2023-09-02 FC Cincinnati-Orlando City,FC Cincinnati,Dominique Badji,1702009,270584,injured doubtful,Doubtful
-2023-09-02 FC Cincinnati-Orlando City,FC Cincinnati,Stiven Jimenez,1702009,462801,injured,Out
-2023-09-02 FC Cincinnati-Orlando City,FC Cincinnati,Yerson Mosquera,1702009,425060,injured doubtful,Doubtful
+2023-09-02 FC Cincinnati-Orlando City,Cincinnati,Aaron Boupendza,1702009,401246,injured doubtful,Doubtful
+2023-09-02 FC Cincinnati-Orlando City,Cincinnati,Dominique Badji,1702009,270584,injured doubtful,Doubtful
+2023-09-02 FC Cincinnati-Orlando City,Cincinnati,Stiven Jimenez,1702009,462801,injured,Out
+2023-09-02 FC Cincinnati-Orlando City,Cincinnati,Yerson Mosquera,1702009,425060,injured doubtful,Doubtful
 2023-09-02 FC Cincinnati-Orlando City,Orlando City,Antônio Carlos,1702009,114164,injured,Out
 2023-09-02 FC Cincinnati-Orlando City,Orlando City,Favian Loyola,1702009,467694,injured,Out
 2023-09-02 FC Cincinnati-Orlando City,Orlando City,Gastón González,1702009,379161,injured,Out
@@ -2018,16 +2018,16 @@ game,team,player,game_id,player_id,reason,status
 2023-09-03 Philadelphia Union-New York Red Bulls,Philadelphia Union,Jesús Bueno,1702059,425483,suspended,Out
 2023-09-03 Philadelphia Union-New York Red Bulls,Philadelphia Union,José Martínez,1702059,393097,suspended,Out
 2023-09-03 Philadelphia Union-New York Red Bulls,Philadelphia Union,Leon Flach,1702059,401252,injured doubtful,Doubtful
-2023-09-04 Los Angeles FC-Inter Miami CF,Inter Miami CF,Corentin Jean,1702049,118351,injured,Out
-2023-09-04 Los Angeles FC-Inter Miami CF,Inter Miami CF,Edison Azcona,1702049,413765,injured,Out
-2023-09-04 Los Angeles FC-Inter Miami CF,Inter Miami CF,Franco Negri,1702049,323654,injured,Out
-2023-09-04 Los Angeles FC-Inter Miami CF,Inter Miami CF,Gregore,1702049,355710,injured,Out
-2023-09-04 Los Angeles FC-Inter Miami CF,Inter Miami CF,Ian Fray,1702049,445274,injured,Out
-2023-09-04 Los Angeles FC-Inter Miami CF,Inter Miami CF,Jean Mota,1702049,110601,injured doubtful,Doubtful
-2023-09-04 Los Angeles FC-Inter Miami CF,Inter Miami CF,Robert Taylor,1702049,130254,suspended,Out
-2023-09-04 Los Angeles FC-Inter Miami CF,Los Angeles FC,Diego Palacios,1702049,361789,unfit,Doubtful
-2023-09-04 Los Angeles FC-Inter Miami CF,Los Angeles FC,Diego Rosales,1702049,481483,injured,Out
-2023-09-04 Los Angeles FC-Inter Miami CF,Los Angeles FC,Jesús Murillo,1702049,403927,injured doubtful,Doubtful
+2023-09-04 Los Angeles FC-Inter Miami CF,Inter Miami,Corentin Jean,1702049,118351,injured,Out
+2023-09-04 Los Angeles FC-Inter Miami CF,Inter Miami,Edison Azcona,1702049,413765,injured,Out
+2023-09-04 Los Angeles FC-Inter Miami CF,Inter Miami,Franco Negri,1702049,323654,injured,Out
+2023-09-04 Los Angeles FC-Inter Miami CF,Inter Miami,Gregore,1702049,355710,injured,Out
+2023-09-04 Los Angeles FC-Inter Miami CF,Inter Miami,Ian Fray,1702049,445274,injured,Out
+2023-09-04 Los Angeles FC-Inter Miami CF,Inter Miami,Jean Mota,1702049,110601,injured doubtful,Doubtful
+2023-09-04 Los Angeles FC-Inter Miami CF,Inter Miami,Robert Taylor,1702049,130254,suspended,Out
+2023-09-04 Los Angeles FC-Inter Miami CF,LAFC,Diego Palacios,1702049,361789,unfit,Doubtful
+2023-09-04 Los Angeles FC-Inter Miami CF,LAFC,Diego Rosales,1702049,481483,injured,Out
+2023-09-04 Los Angeles FC-Inter Miami CF,LAFC,Jesús Murillo,1702049,403927,injured doubtful,Doubtful
 2023-09-09 DC United-San Jose Earthquakes,DC United,Andy Najar,1702183,85015,international duty,Out
 2023-09-09 DC United-San Jose Earthquakes,DC United,Derrick Williams,1702183,109593,injured doubtful,Doubtful
 2023-09-09 DC United-San Jose Earthquakes,DC United,José Fajardo,1702183,458334,international duty,Out
@@ -2042,19 +2042,19 @@ game,team,player,game_id,player_id,reason,status
 2023-09-09 DC United-San Jose Earthquakes,San Jose Earthquakes,Miguel Trauco,1702183,97813,international duty,Out
 2023-09-09 DC United-San Jose Earthquakes,San Jose Earthquakes,Nathan,1702183,240917,injured,Out
 2023-09-09 DC United-San Jose Earthquakes,San Jose Earthquakes,Oskar Agren,1702183,434258,other,Out
-2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami CF,Benjamin Cremaschi,1702180,469660,international duty,Out
-2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami CF,Corentin Jean,1702180,118351,injured,Out
-2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami CF,David Ruíz,1702180,477528,international duty,Out
-2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami CF,Diego Gómez,1702180,446133,international duty,Out
-2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami CF,Edison Azcona,1702180,413765,international duty,Out
-2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami CF,Franco Negri,1702180,323654,injured,Out
-2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami CF,Gregore,1702180,355710,injured,Out
-2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami CF,Ian Fray,1702180,445274,injured,Out
-2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami CF,Jean Mota,1702180,110601,injured doubtful,Doubtful
-2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami CF,Josef Martínez,1702180,93932,international duty,Out
-2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami CF,Lionel Messi,1702180,11119,international duty,Out
-2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami CF,Robert Taylor,1702180,130254,international duty,Out
-2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami CF,Sergii Kryvtsov,1702180,69893,international duty,Out
+2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami,Benjamin Cremaschi,1702180,469660,international duty,Out
+2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami,Corentin Jean,1702180,118351,injured,Out
+2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami,David Ruíz,1702180,477528,international duty,Out
+2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami,Diego Gómez,1702180,446133,international duty,Out
+2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami,Edison Azcona,1702180,413765,international duty,Out
+2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami,Franco Negri,1702180,323654,injured,Out
+2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami,Gregore,1702180,355710,injured,Out
+2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami,Ian Fray,1702180,445274,injured,Out
+2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami,Jean Mota,1702180,110601,injured doubtful,Doubtful
+2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami,Josef Martínez,1702180,93932,international duty,Out
+2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami,Lionel Messi,1702180,11119,international duty,Out
+2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami,Robert Taylor,1702180,130254,international duty,Out
+2023-09-09 Inter Miami CF-Sporting Kansas City,Inter Miami,Sergii Kryvtsov,1702180,69893,international duty,Out
 2023-09-09 Inter Miami CF-Sporting Kansas City,Sporting Kansas City,Gadi Kinda,1702180,382938,international duty,Out
 2023-09-09 Inter Miami CF-Sporting Kansas City,Sporting Kansas City,Graham Zusi,1702180,72626,injured doubtful,Doubtful
 2023-09-09 Inter Miami CF-Sporting Kansas City,Sporting Kansas City,Kayden Pierre,1702180,419819,injured doubtful,Doubtful
@@ -2076,11 +2076,11 @@ game,team,player,game_id,player_id,reason,status
 2023-09-10 Minnesota United-New England Revolution,New England Revolution,Noel Buck,1701949,436493,international duty,Out
 2023-09-10 Minnesota United-New England Revolution,New England Revolution,Ryan Spaulding,1701949,433536,injured doubtful,Doubtful
 2023-09-10 Minnesota United-New England Revolution,New England Revolution,Tomás Vaclík,1701949,68732,ineligible,Out
-2023-09-10 Portland Timbers-Los Angeles FC,Los Angeles FC,Cristian Olivera,1702178,474114,international duty,Out
-2023-09-10 Portland Timbers-Los Angeles FC,Los Angeles FC,Denil Maldonado,1702178,455255,international duty,Out
-2023-09-10 Portland Timbers-Los Angeles FC,Los Angeles FC,Diego Rosales,1702178,481483,injured,Out
-2023-09-10 Portland Timbers-Los Angeles FC,Los Angeles FC,Dénis Bouanga,1702178,249857,international duty,Out
-2023-09-10 Portland Timbers-Los Angeles FC,Los Angeles FC,Stipe Biuk,1702178,416961,international duty,Out
+2023-09-10 Portland Timbers-Los Angeles FC,LAFC,Cristian Olivera,1702178,474114,international duty,Out
+2023-09-10 Portland Timbers-Los Angeles FC,LAFC,Denil Maldonado,1702178,455255,international duty,Out
+2023-09-10 Portland Timbers-Los Angeles FC,LAFC,Diego Rosales,1702178,481483,injured,Out
+2023-09-10 Portland Timbers-Los Angeles FC,LAFC,Dénis Bouanga,1702178,249857,international duty,Out
+2023-09-10 Portland Timbers-Los Angeles FC,LAFC,Stipe Biuk,1702178,416961,international duty,Out
 2023-09-10 Portland Timbers-Los Angeles FC,Portland Timbers,Bryan Acosta,1702178,142123,international duty,Out
 2023-09-10 Portland Timbers-Los Angeles FC,Portland Timbers,David Ayala,1702178,389242,injured,Out
 2023-09-10 Portland Timbers-Los Angeles FC,Portland Timbers,Eryk Williamson,1702178,358518,injured,Out
@@ -2098,12 +2098,12 @@ game,team,player,game_id,player_id,reason,status
 2023-09-11 LA Galaxy-St. Louis City,St. Louis City,Tim Parker,1701972,274961,injured doubtful,Doubtful
 2023-09-16 Atlanta United-Inter Miami CF,Atlanta United,Machop Chol,1702160,413707,injured doubtful,Doubtful
 2023-09-16 Atlanta United-Inter Miami CF,Atlanta United,Osvaldo Alonso,1702160,72567,injured,Out
-2023-09-16 Atlanta United-Inter Miami CF,Inter Miami CF,Corentin Jean,1702160,118351,injured,Out
-2023-09-16 Atlanta United-Inter Miami CF,Inter Miami CF,Diego Gómez,1702160,446133,injured doubtful,Doubtful
-2023-09-16 Atlanta United-Inter Miami CF,Inter Miami CF,Franco Negri,1702160,323654,injured,Out
-2023-09-16 Atlanta United-Inter Miami CF,Inter Miami CF,Gregore,1702160,355710,injured,Out
-2023-09-16 Atlanta United-Inter Miami CF,Inter Miami CF,Ian Fray,1702160,445274,injured,Out
-2023-09-16 Atlanta United-Inter Miami CF,Inter Miami CF,Jean Mota,1702160,110601,injured doubtful,Doubtful
+2023-09-16 Atlanta United-Inter Miami CF,Inter Miami,Corentin Jean,1702160,118351,injured,Out
+2023-09-16 Atlanta United-Inter Miami CF,Inter Miami,Diego Gómez,1702160,446133,injured doubtful,Doubtful
+2023-09-16 Atlanta United-Inter Miami CF,Inter Miami,Franco Negri,1702160,323654,injured,Out
+2023-09-16 Atlanta United-Inter Miami CF,Inter Miami,Gregore,1702160,355710,injured,Out
+2023-09-16 Atlanta United-Inter Miami CF,Inter Miami,Ian Fray,1702160,445274,injured,Out
+2023-09-16 Atlanta United-Inter Miami CF,Inter Miami,Jean Mota,1702160,110601,injured doubtful,Doubtful
 2023-09-16 CF Montreal-Chicago Fire FC,CF Montreal,Aaron Herrera,1702144,356151,injured,Out
 2023-09-16 CF Montreal-Chicago Fire FC,CF Montreal,Joel Waterman,1702144,393088,injured doubtful,Doubtful
 2023-09-16 CF Montreal-Chicago Fire FC,CF Montreal,Matko Miljevic,1702144,366429,other,Out
@@ -2112,7 +2112,7 @@ game,team,player,game_id,player_id,reason,status
 2023-09-16 CF Montreal-Chicago Fire FC,Chicago Fire FC,Federico Navarro,1702144,365995,injured doubtful,Doubtful
 2023-09-16 CF Montreal-Chicago Fire FC,Chicago Fire FC,Javier Casas,1702144,396246,injured,Out
 2023-09-16 CF Montreal-Chicago Fire FC,Chicago Fire FC,Victor Bezerra,1702144,434642,injured,Out
-2023-09-16 Charlotte FC-DC United,Charlotte FC,Vinicius Mello,1702158,417866,injured,Out
+2023-09-16 Charlotte FC-DC United,Charlotte,Vinicius Mello,1702158,417866,injured,Out
 2023-09-16 Charlotte FC-DC United,DC United,Derrick Williams,1702158,109593,injured doubtful,Doubtful
 2023-09-16 Charlotte FC-DC United,DC United,Martín Rodríguez,1702158,101584,injured,Out
 2023-09-16 Charlotte FC-DC United,DC United,Mohanad Jeahze,1702158,321201,injured,Out
@@ -2132,9 +2132,9 @@ game,team,player,game_id,player_id,reason,status
 2023-09-16 Orlando City-Columbus Crew,Orlando City,Favian Loyola,1702157,467694,injured,Out
 2023-09-16 Orlando City-Columbus Crew,Orlando City,Gastón González,1702157,379161,injured doubtful,Doubtful
 2023-09-16 Orlando City-Columbus Crew,Orlando City,Wilder Cartagena,1702157,125163,suspended,Out
-2023-09-16 Philadelphia Union-FC Cincinnati,FC Cincinnati,Dominique Badji,1702155,270584,injured doubtful,Doubtful
-2023-09-16 Philadelphia Union-FC Cincinnati,FC Cincinnati,Luciano Acosta,1702155,142312,suspended,Out
-2023-09-16 Philadelphia Union-FC Cincinnati,FC Cincinnati,Stiven Jimenez,1702155,462801,injured,Out
+2023-09-16 Philadelphia Union-FC Cincinnati,Cincinnati,Dominique Badji,1702155,270584,injured doubtful,Doubtful
+2023-09-16 Philadelphia Union-FC Cincinnati,Cincinnati,Luciano Acosta,1702155,142312,suspended,Out
+2023-09-16 Philadelphia Union-FC Cincinnati,Cincinnati,Stiven Jimenez,1702155,462801,injured,Out
 2023-09-16 Philadelphia Union-FC Cincinnati,Philadelphia Union,Alejandro Bedoya,1702155,73132,suspended,Out
 2023-09-16 Philadelphia Union-FC Cincinnati,Philadelphia Union,Jesús Bueno,1702155,425483,injured doubtful,Doubtful
 2023-09-16 Philadelphia Union-FC Cincinnati,Philadelphia Union,Leon Flach,1702155,401252,injured,Out
@@ -2179,7 +2179,7 @@ game,team,player,game_id,player_id,reason,status
 2023-09-17 Los Angeles FC-LA Galaxy,LA Galaxy,Gastón Brugman,1702171,101938,injured,Out
 2023-09-17 Los Angeles FC-LA Galaxy,LA Galaxy,Jalen Neal,1702171,433616,injured doubtful,Doubtful
 2023-09-17 Los Angeles FC-LA Galaxy,LA Galaxy,Martín Cáceres,1702171,30635,injured,Out
-2023-09-17 Los Angeles FC-LA Galaxy,Los Angeles FC,Diego Rosales,1702171,481483,injured,Out
+2023-09-17 Los Angeles FC-LA Galaxy,LAFC,Diego Rosales,1702171,481483,injured,Out
 2023-09-17 Minnesota United-Sporting Kansas City,Minnesota United,Kervin Arriaga,1702168,433488,injured,Out
 2023-09-17 Minnesota United-Sporting Kansas City,Minnesota United,Robin Lod,1702168,137533,injured,Out
 2023-09-17 Minnesota United-Sporting Kansas City,Minnesota United,Ryen Jiba,1702168,471103,injured,Out
@@ -2208,11 +2208,11 @@ game,team,player,game_id,player_id,reason,status
 2023-09-18 Austin FC-Portland Timbers,Portland Timbers,Jaroslaw Niezgoda,1702175,275005,injured,Out
 2023-09-20 CF Montreal-FC Cincinnati,CF Montreal,Aaron Herrera,1702133,356151,injured,Out
 2023-09-20 CF Montreal-FC Cincinnati,CF Montreal,Róbert Thorkelsson,1702133,406061,injured,Out
-2023-09-20 CF Montreal-FC Cincinnati,FC Cincinnati,Arquímides Ordóñez,1702133,418753,injured doubtful,Doubtful
-2023-09-20 CF Montreal-FC Cincinnati,FC Cincinnati,Stiven Jimenez,1702133,462801,injured,Out
-2023-09-20 CF Montreal-FC Cincinnati,FC Cincinnati,Yerson Mosquera,1702133,425060,suspended,Out
-2023-09-20 Charlotte FC-Philadelphia Union,Charlotte FC,Hamady Diop,1702169,473871,injured,Out
-2023-09-20 Charlotte FC-Philadelphia Union,Charlotte FC,Vinicius Mello,1702169,417866,injured,Out
+2023-09-20 CF Montreal-FC Cincinnati,Cincinnati,Arquímides Ordóñez,1702133,418753,injured doubtful,Doubtful
+2023-09-20 CF Montreal-FC Cincinnati,Cincinnati,Stiven Jimenez,1702133,462801,injured,Out
+2023-09-20 CF Montreal-FC Cincinnati,Cincinnati,Yerson Mosquera,1702133,425060,suspended,Out
+2023-09-20 Charlotte FC-Philadelphia Union,Charlotte,Hamady Diop,1702169,473871,injured,Out
+2023-09-20 Charlotte FC-Philadelphia Union,Charlotte,Vinicius Mello,1702169,417866,injured,Out
 2023-09-20 Charlotte FC-Philadelphia Union,Philadelphia Union,Jack Elliott,1702169,334728,suspended,Out
 2023-09-20 Charlotte FC-Philadelphia Union,Philadelphia Union,Leon Flach,1702169,401252,injured,Out
 2023-09-20 Charlotte FC-Philadelphia Union,Philadelphia Union,Mikael Uhre,1702169,425355,injured doubtful,Doubtful
@@ -2231,14 +2231,14 @@ game,team,player,game_id,player_id,reason,status
 2023-09-20 DC United-Atlanta United,DC United,Ruan,1702076,371290,injured doubtful,Doubtful
 2023-09-20 DC United-Atlanta United,DC United,Steven Birnbaum,1702076,143470,injured doubtful,Doubtful
 2023-09-20 DC United-Atlanta United,DC United,Tyler Miller,1702076,313038,injured,Out
-2023-09-20 Inter Miami CF-Toronto FC,Inter Miami CF,Corentin Jean,1702146,118351,injured,Out
-2023-09-20 Inter Miami CF-Toronto FC,Inter Miami CF,Diego Gómez,1702146,446133,injured doubtful,Doubtful
-2023-09-20 Inter Miami CF-Toronto FC,Inter Miami CF,Franco Negri,1702146,323654,injured,Out
-2023-09-20 Inter Miami CF-Toronto FC,Inter Miami CF,Gregore,1702146,355710,injured,Out
-2023-09-20 Inter Miami CF-Toronto FC,Inter Miami CF,Ian Fray,1702146,445274,injured,Out
-2023-09-20 Inter Miami CF-Toronto FC,Inter Miami CF,Jean Mota,1702146,110601,injured doubtful,Doubtful
-2023-09-20 Inter Miami CF-Toronto FC,Inter Miami CF,Jordi Alba,1702146,44288,injured doubtful,Doubtful
-2023-09-20 Inter Miami CF-Toronto FC,Inter Miami CF,Lionel Messi,1702146,11119,injured doubtful,Doubtful
+2023-09-20 Inter Miami CF-Toronto FC,Inter Miami,Corentin Jean,1702146,118351,injured,Out
+2023-09-20 Inter Miami CF-Toronto FC,Inter Miami,Diego Gómez,1702146,446133,injured doubtful,Doubtful
+2023-09-20 Inter Miami CF-Toronto FC,Inter Miami,Franco Negri,1702146,323654,injured,Out
+2023-09-20 Inter Miami CF-Toronto FC,Inter Miami,Gregore,1702146,355710,injured,Out
+2023-09-20 Inter Miami CF-Toronto FC,Inter Miami,Ian Fray,1702146,445274,injured,Out
+2023-09-20 Inter Miami CF-Toronto FC,Inter Miami,Jean Mota,1702146,110601,injured doubtful,Doubtful
+2023-09-20 Inter Miami CF-Toronto FC,Inter Miami,Jordi Alba,1702146,44288,injured doubtful,Doubtful
+2023-09-20 Inter Miami CF-Toronto FC,Inter Miami,Lionel Messi,1702146,11119,injured doubtful,Doubtful
 2023-09-20 Inter Miami CF-Toronto FC,Toronto FC,Cassius Mailula,1702146,476884,injured doubtful,Doubtful
 2023-09-20 Inter Miami CF-Toronto FC,Toronto FC,Cristián Gutiérrez,1702146,393110,injured doubtful,Doubtful
 2023-09-20 Inter Miami CF-Toronto FC,Toronto FC,Greg Ranjitsingh,1702146,371019,injured doubtful,Doubtful
@@ -2305,8 +2305,8 @@ game,team,player,game_id,player_id,reason,status
 2023-09-21 Sporting Kansas City-Nashville SC,Sporting Kansas City,Graham Zusi,1702073,72626,injured doubtful,Doubtful
 2023-09-21 Sporting Kansas City-Nashville SC,Sporting Kansas City,Kayden Pierre,1702073,419819,injured,Out
 2023-09-21 Sporting Kansas City-Nashville SC,Sporting Kansas City,Kortne Ford,1702073,333995,injured,Out
-2023-09-21 St. Louis City-Los Angeles FC,Los Angeles FC,Diego Palacios,1702072,361789,suspended,Out
-2023-09-21 St. Louis City-Los Angeles FC,Los Angeles FC,Diego Rosales,1702072,481483,injured,Out
+2023-09-21 St. Louis City-Los Angeles FC,LAFC,Diego Palacios,1702072,361789,suspended,Out
+2023-09-21 St. Louis City-Los Angeles FC,LAFC,Diego Rosales,1702072,481483,injured,Out
 2023-09-21 St. Louis City-Los Angeles FC,St. Louis City,Rasmus Alm,1702072,469664,injured doubtful,Doubtful
 2023-09-23 Atlanta United-CF Montreal,Atlanta United,Osvaldo Alonso,1702124,72567,injured,Out
 2023-09-23 Atlanta United-CF Montreal,CF Montreal,Aaron Herrera,1702124,356151,injured,Out
@@ -2323,11 +2323,11 @@ game,team,player,game_id,player_id,reason,status
 2023-09-23 DC United-New York Red Bulls,New York Red Bulls,Lewis Morgan,1702077,364232,injured,Out
 2023-09-23 DC United-New York Red Bulls,New York Red Bulls,Serge Ngoma,1702077,433519,injured doubtful,Doubtful
 2023-09-23 DC United-New York Red Bulls,New York Red Bulls,Steven Sserwadda,1702077,440156,injured doubtful,Doubtful
-2023-09-23 FC Cincinnati-Charlotte FC,Charlotte FC,Ben Bender,1702067,433529,injured doubtful,Doubtful
-2023-09-23 FC Cincinnati-Charlotte FC,Charlotte FC,Hamady Diop,1702067,473871,injured,Out
-2023-09-23 FC Cincinnati-Charlotte FC,Charlotte FC,Vinicius Mello,1702067,417866,injured,Out
-2023-09-23 FC Cincinnati-Charlotte FC,FC Cincinnati,Matt Miazga,1702067,131999,suspended,Out
-2023-09-23 FC Cincinnati-Charlotte FC,FC Cincinnati,Stiven Jimenez,1702067,462801,injured,Out
+2023-09-23 FC Cincinnati-Charlotte FC,Charlotte,Ben Bender,1702067,433529,injured doubtful,Doubtful
+2023-09-23 FC Cincinnati-Charlotte FC,Charlotte,Hamady Diop,1702067,473871,injured,Out
+2023-09-23 FC Cincinnati-Charlotte FC,Charlotte,Vinicius Mello,1702067,417866,injured,Out
+2023-09-23 FC Cincinnati-Charlotte FC,Cincinnati,Matt Miazga,1702067,131999,suspended,Out
+2023-09-23 FC Cincinnati-Charlotte FC,Cincinnati,Stiven Jimenez,1702067,462801,injured,Out
 2023-09-23 Philadelphia Union-Los Angeles FC,Philadelphia Union,José Martínez,1702078,393097,injured doubtful,Doubtful
 2023-09-23 Philadelphia Union-Los Angeles FC,Philadelphia Union,Leon Flach,1702078,401252,injured,Out
 2023-09-24 Chicago Fire FC-New England Revolution,Chicago Fire FC,Arnaud Souquet,1702088,80465,suspended,Out
@@ -2366,14 +2366,14 @@ game,team,player,game_id,player_id,reason,status
 2023-09-24 New York City FC-Toronto FC,Toronto FC,Prince Osei Owusu,1702122,361428,injured doubtful,Doubtful
 2023-09-24 New York City FC-Toronto FC,Toronto FC,Sean Johnson,1702122,84988,injured,Out
 2023-09-24 New York City FC-Toronto FC,Toronto FC,Víctor Vázquez,1702122,35667,injured doubtful,Doubtful
-2023-09-24 Orlando City-Inter Miami CF,Inter Miami CF,Corentin Jean,1702094,118351,injured,Out
-2023-09-24 Orlando City-Inter Miami CF,Inter Miami CF,Diego Gómez,1702094,446133,injured doubtful,Doubtful
-2023-09-24 Orlando City-Inter Miami CF,Inter Miami CF,Franco Negri,1702094,323654,injured,Out
-2023-09-24 Orlando City-Inter Miami CF,Inter Miami CF,Gregore,1702094,355710,injured,Out
-2023-09-24 Orlando City-Inter Miami CF,Inter Miami CF,Ian Fray,1702094,445274,injured,Out
-2023-09-24 Orlando City-Inter Miami CF,Inter Miami CF,Jean Mota,1702094,110601,injured doubtful,Doubtful
-2023-09-24 Orlando City-Inter Miami CF,Inter Miami CF,Jordi Alba,1702094,44288,injured,Out
-2023-09-24 Orlando City-Inter Miami CF,Inter Miami CF,Lionel Messi,1702094,11119,injured,Out
+2023-09-24 Orlando City-Inter Miami CF,Inter Miami,Corentin Jean,1702094,118351,injured,Out
+2023-09-24 Orlando City-Inter Miami CF,Inter Miami,Diego Gómez,1702094,446133,injured doubtful,Doubtful
+2023-09-24 Orlando City-Inter Miami CF,Inter Miami,Franco Negri,1702094,323654,injured,Out
+2023-09-24 Orlando City-Inter Miami CF,Inter Miami,Gregore,1702094,355710,injured,Out
+2023-09-24 Orlando City-Inter Miami CF,Inter Miami,Ian Fray,1702094,445274,injured,Out
+2023-09-24 Orlando City-Inter Miami CF,Inter Miami,Jean Mota,1702094,110601,injured doubtful,Doubtful
+2023-09-24 Orlando City-Inter Miami CF,Inter Miami,Jordi Alba,1702094,44288,injured,Out
+2023-09-24 Orlando City-Inter Miami CF,Inter Miami,Lionel Messi,1702094,11119,injured,Out
 2023-09-24 Orlando City-Inter Miami CF,Orlando City,Antônio Carlos,1702094,114164,injured doubtful,Doubtful
 2023-09-24 Orlando City-Inter Miami CF,Orlando City,Favian Loyola,1702094,467694,injured,Out
 2023-09-24 Portland Timbers-Colorado Rapids,Colorado Rapids,Aboubacar Keita,1702092,377604,injured,Out
@@ -2431,9 +2431,9 @@ game,team,player,game_id,player_id,reason,status
 2023-09-30 Columbus Crew-Philadelphia Union,Philadelphia Union,José Martínez,1702096,393097,injured doubtful,Doubtful
 2023-09-30 Columbus Crew-Philadelphia Union,Philadelphia Union,Julián Carranza,1702096,347863,injured doubtful,Doubtful
 2023-09-30 Columbus Crew-Philadelphia Union,Philadelphia Union,Leon Flach,1702096,401252,injured,Out
-2023-09-30 New England Revolution-Charlotte FC,Charlotte FC,Ben Bender,1702098,433529,injured doubtful,Doubtful
-2023-09-30 New England Revolution-Charlotte FC,Charlotte FC,Hamady Diop,1702098,473871,injured,Out
-2023-09-30 New England Revolution-Charlotte FC,Charlotte FC,Vinicius Mello,1702098,417866,injured,Out
+2023-09-30 New England Revolution-Charlotte FC,Charlotte,Ben Bender,1702098,433529,injured doubtful,Doubtful
+2023-09-30 New England Revolution-Charlotte FC,Charlotte,Hamady Diop,1702098,473871,injured,Out
+2023-09-30 New England Revolution-Charlotte FC,Charlotte,Vinicius Mello,1702098,417866,injured,Out
 2023-09-30 New England Revolution-Charlotte FC,New England Revolution,Brandon Bye,1702098,354028,injured,Out
 2023-09-30 New England Revolution-Charlotte FC,New England Revolution,Damián Rivera,1702098,393091,injured,Out
 2023-09-30 New England Revolution-Charlotte FC,New England Revolution,Dylan Borrero,1702098,402907,injured,Out
@@ -2459,8 +2459,8 @@ game,team,player,game_id,player_id,reason,status
 2023-09-30 Orlando City-CF Montreal,CF Montreal,Sean Rea,1702117,448613,injured doubtful,Doubtful
 2023-09-30 Orlando City-CF Montreal,Orlando City,Antônio Carlos,1702117,114164,injured doubtful,Doubtful
 2023-09-30 Orlando City-CF Montreal,Orlando City,Favian Loyola,1702117,467694,injured,Out
-2023-09-30 Toronto FC-FC Cincinnati,FC Cincinnati,Arquímides Ordóñez,1702115,418753,injured doubtful,Doubtful
-2023-09-30 Toronto FC-FC Cincinnati,FC Cincinnati,Stiven Jimenez,1702115,462801,injured,Out
+2023-09-30 Toronto FC-FC Cincinnati,Cincinnati,Arquímides Ordóñez,1702115,418753,injured doubtful,Doubtful
+2023-09-30 Toronto FC-FC Cincinnati,Cincinnati,Stiven Jimenez,1702115,462801,injured,Out
 2023-09-30 Toronto FC-FC Cincinnati,Toronto FC,Brandon Servania,1702115,371296,injured,Out
 2023-09-30 Toronto FC-FC Cincinnati,Toronto FC,Cassius Mailula,1702115,476884,injured doubtful,Doubtful
 2023-09-30 Toronto FC-FC Cincinnati,Toronto FC,Cristián Gutiérrez,1702115,393110,injured doubtful,Doubtful
@@ -2487,14 +2487,14 @@ game,team,player,game_id,player_id,reason,status
 2023-10-01 Houston Dynamo FC-FC Dallas,Houston Dynamo FC,Ifunanyachi Achara,1702087,393390,injured,Out
 2023-10-01 Houston Dynamo FC-FC Dallas,Houston Dynamo FC,Luís Caicedo,1702087,354904,suspended,Out
 2023-10-01 Houston Dynamo FC-FC Dallas,Houston Dynamo FC,Tate Schmitt,1702087,371299,injured,Out
-2023-10-01 Inter Miami CF-New York City FC,Inter Miami CF,Corentin Jean,1702097,118351,injured,Out
-2023-10-01 Inter Miami CF-New York City FC,Inter Miami CF,DeAndre Yedlin,1702097,126958,suspended,Out
-2023-10-01 Inter Miami CF-New York City FC,Inter Miami CF,Franco Negri,1702097,323654,injured,Out
-2023-10-01 Inter Miami CF-New York City FC,Inter Miami CF,Gregore,1702097,355710,injured,Out
-2023-10-01 Inter Miami CF-New York City FC,Inter Miami CF,Ian Fray,1702097,445274,injured,Out
-2023-10-01 Inter Miami CF-New York City FC,Inter Miami CF,Jean Mota,1702097,110601,injured doubtful,Doubtful
-2023-10-01 Inter Miami CF-New York City FC,Inter Miami CF,Jordi Alba,1702097,44288,injured doubtful,Doubtful
-2023-10-01 Inter Miami CF-New York City FC,Inter Miami CF,Lionel Messi,1702097,11119,injured doubtful,Doubtful
+2023-10-01 Inter Miami CF-New York City FC,Inter Miami,Corentin Jean,1702097,118351,injured,Out
+2023-10-01 Inter Miami CF-New York City FC,Inter Miami,DeAndre Yedlin,1702097,126958,suspended,Out
+2023-10-01 Inter Miami CF-New York City FC,Inter Miami,Franco Negri,1702097,323654,injured,Out
+2023-10-01 Inter Miami CF-New York City FC,Inter Miami,Gregore,1702097,355710,injured,Out
+2023-10-01 Inter Miami CF-New York City FC,Inter Miami,Ian Fray,1702097,445274,injured,Out
+2023-10-01 Inter Miami CF-New York City FC,Inter Miami,Jean Mota,1702097,110601,injured doubtful,Doubtful
+2023-10-01 Inter Miami CF-New York City FC,Inter Miami,Jordi Alba,1702097,44288,injured doubtful,Doubtful
+2023-10-01 Inter Miami CF-New York City FC,Inter Miami,Lionel Messi,1702097,11119,injured doubtful,Doubtful
 2023-10-01 Inter Miami CF-New York City FC,New York City FC,Keaton Parks,1702097,349220,injured doubtful,Doubtful
 2023-10-01 Inter Miami CF-New York City FC,New York City FC,Maximiliano Moralez,1702097,20596,injured,Out
 2023-10-01 Inter Miami CF-New York City FC,New York City FC,Richard Ledezma,1702097,386631,injured doubtful,Doubtful
@@ -2549,9 +2549,9 @@ game,team,player,game_id,player_id,reason,status
 2023-10-04 CF Montreal-Houston Dynamo FC,Houston Dynamo FC,Héctor Herrera,1702128,103476,suspended,Out
 2023-10-04 CF Montreal-Houston Dynamo FC,Houston Dynamo FC,Ifunanyachi Achara,1702128,393390,injured,Out
 2023-10-04 CF Montreal-Houston Dynamo FC,Houston Dynamo FC,Tate Schmitt,1702128,371299,injured,Out
-2023-10-04 Charlotte FC-Toronto FC,Charlotte FC,Ben Bender,1702126,433529,injured doubtful,Doubtful
-2023-10-04 Charlotte FC-Toronto FC,Charlotte FC,Hamady Diop,1702126,473871,injured,Out
-2023-10-04 Charlotte FC-Toronto FC,Charlotte FC,Vinicius Mello,1702126,417866,injured,Out
+2023-10-04 Charlotte FC-Toronto FC,Charlotte,Ben Bender,1702126,433529,injured doubtful,Doubtful
+2023-10-04 Charlotte FC-Toronto FC,Charlotte,Hamady Diop,1702126,473871,injured,Out
+2023-10-04 Charlotte FC-Toronto FC,Charlotte,Vinicius Mello,1702126,417866,injured,Out
 2023-10-04 Charlotte FC-Toronto FC,Toronto FC,Brandon Servania,1702126,371296,injured,Out
 2023-10-04 Charlotte FC-Toronto FC,Toronto FC,Deandre Kerr,1702126,433505,injured,Out
 2023-10-04 Charlotte FC-Toronto FC,Toronto FC,Greg Ranjitsingh,1702126,371019,injured,Out
@@ -2559,8 +2559,8 @@ game,team,player,game_id,player_id,reason,status
 2023-10-04 Charlotte FC-Toronto FC,Toronto FC,Lorenzo Insigne,1702126,83390,injured doubtful,Doubtful
 2023-10-04 Charlotte FC-Toronto FC,Toronto FC,Raoul Petretta,1702126,333364,injured doubtful,Doubtful
 2023-10-04 Charlotte FC-Toronto FC,Toronto FC,Sean Johnson,1702126,84988,injured,Out
-2023-10-04 FC Cincinnati-New York Red Bulls,FC Cincinnati,Arquímides Ordóñez,1702080,418753,injured doubtful,Doubtful
-2023-10-04 FC Cincinnati-New York Red Bulls,FC Cincinnati,Stiven Jimenez,1702080,462801,injured,Out
+2023-10-04 FC Cincinnati-New York Red Bulls,Cincinnati,Arquímides Ordóñez,1702080,418753,injured doubtful,Doubtful
+2023-10-04 FC Cincinnati-New York Red Bulls,Cincinnati,Stiven Jimenez,1702080,462801,injured,Out
 2023-10-04 FC Cincinnati-New York Red Bulls,New York Red Bulls,Dante Vanzeir,1702080,299690,injured,Out
 2023-10-04 FC Cincinnati-New York Red Bulls,New York Red Bulls,Hassan Ndam,1702080,333943,suspended,Out
 2023-10-04 FC Cincinnati-New York Red Bulls,New York Red Bulls,Lewis Morgan,1702080,364232,injured,Out
@@ -2590,13 +2590,13 @@ game,team,player,game_id,player_id,reason,status
 2023-10-05 Chicago Fire FC-Inter Miami CF,Chicago Fire FC,Javier Casas,1702114,396246,injured,Out
 2023-10-05 Chicago Fire FC-Inter Miami CF,Chicago Fire FC,Mauricio Pineda,1702114,393139,injured,Out
 2023-10-05 Chicago Fire FC-Inter Miami CF,Chicago Fire FC,Victor Bezerra,1702114,434642,injured,Out
-2023-10-05 Chicago Fire FC-Inter Miami CF,Inter Miami CF,Corentin Jean,1702114,118351,injured,Out
-2023-10-05 Chicago Fire FC-Inter Miami CF,Inter Miami CF,Franco Negri,1702114,323654,injured,Out
-2023-10-05 Chicago Fire FC-Inter Miami CF,Inter Miami CF,Gregore,1702114,355710,injured,Out
-2023-10-05 Chicago Fire FC-Inter Miami CF,Inter Miami CF,Ian Fray,1702114,445274,injured,Out
-2023-10-05 Chicago Fire FC-Inter Miami CF,Inter Miami CF,Jordi Alba,1702114,44288,injured doubtful,Doubtful
-2023-10-05 Chicago Fire FC-Inter Miami CF,Inter Miami CF,Lionel Messi,1702114,11119,injured doubtful,Doubtful
-2023-10-05 Los Angeles FC-Minnesota United,Los Angeles FC,Kellyn Acosta,1702085,126909,injured doubtful,Doubtful
+2023-10-05 Chicago Fire FC-Inter Miami CF,Inter Miami,Corentin Jean,1702114,118351,injured,Out
+2023-10-05 Chicago Fire FC-Inter Miami CF,Inter Miami,Franco Negri,1702114,323654,injured,Out
+2023-10-05 Chicago Fire FC-Inter Miami CF,Inter Miami,Gregore,1702114,355710,injured,Out
+2023-10-05 Chicago Fire FC-Inter Miami CF,Inter Miami,Ian Fray,1702114,445274,injured,Out
+2023-10-05 Chicago Fire FC-Inter Miami CF,Inter Miami,Jordi Alba,1702114,44288,injured doubtful,Doubtful
+2023-10-05 Chicago Fire FC-Inter Miami CF,Inter Miami,Lionel Messi,1702114,11119,injured doubtful,Doubtful
+2023-10-05 Los Angeles FC-Minnesota United,LAFC,Kellyn Acosta,1702085,126909,injured doubtful,Doubtful
 2023-10-05 Los Angeles FC-Minnesota United,Minnesota United,Joseph Rosales,1702085,425097,injured,Out
 2023-10-05 Los Angeles FC-Minnesota United,Minnesota United,Robin Lod,1702085,137533,injured,Out
 2023-10-05 Los Angeles FC-Minnesota United,Minnesota United,Ryen Jiba,1702085,471103,injured,Out
@@ -2643,16 +2643,16 @@ game,team,player,game_id,player_id,reason,status
 2023-10-07 DC United-New York City FC,New York City FC,Cody Mizell,1702121,334505,injured,Out
 2023-10-07 DC United-New York City FC,New York City FC,Maximiliano Moralez,1702121,20596,injured,Out
 2023-10-07 DC United-New York City FC,New York City FC,Talles Magno,1702121,375861,injured doubtful,Doubtful
-2023-10-07 Inter Miami CF-FC Cincinnati,FC Cincinnati,Alvas Powell,1702118,133486,suspended,Out
-2023-10-07 Inter Miami CF-FC Cincinnati,FC Cincinnati,Arquímides Ordóñez,1702118,418753,injured doubtful,Doubtful
-2023-10-07 Inter Miami CF-FC Cincinnati,FC Cincinnati,Stiven Jimenez,1702118,462801,injured,Out
-2023-10-07 Inter Miami CF-FC Cincinnati,Inter Miami CF,Corentin Jean,1702118,118351,injured,Out
-2023-10-07 Inter Miami CF-FC Cincinnati,Inter Miami CF,Franco Negri,1702118,323654,injured,Out
-2023-10-07 Inter Miami CF-FC Cincinnati,Inter Miami CF,Gregore,1702118,355710,injured,Out
-2023-10-07 Inter Miami CF-FC Cincinnati,Inter Miami CF,Ian Fray,1702118,445274,injured,Out
-2023-10-07 Inter Miami CF-FC Cincinnati,Inter Miami CF,Jordi Alba,1702118,44288,injured doubtful,Doubtful
-2023-10-07 Inter Miami CF-FC Cincinnati,Inter Miami CF,Leonardo Campana,1702118,392650,injured doubtful,Doubtful
-2023-10-07 Inter Miami CF-FC Cincinnati,Inter Miami CF,Lionel Messi,1702118,11119,injured doubtful,Doubtful
+2023-10-07 Inter Miami CF-FC Cincinnati,Cincinnati,Alvas Powell,1702118,133486,suspended,Out
+2023-10-07 Inter Miami CF-FC Cincinnati,Cincinnati,Arquímides Ordóñez,1702118,418753,injured doubtful,Doubtful
+2023-10-07 Inter Miami CF-FC Cincinnati,Cincinnati,Stiven Jimenez,1702118,462801,injured,Out
+2023-10-07 Inter Miami CF-FC Cincinnati,Inter Miami,Corentin Jean,1702118,118351,injured,Out
+2023-10-07 Inter Miami CF-FC Cincinnati,Inter Miami,Franco Negri,1702118,323654,injured,Out
+2023-10-07 Inter Miami CF-FC Cincinnati,Inter Miami,Gregore,1702118,355710,injured,Out
+2023-10-07 Inter Miami CF-FC Cincinnati,Inter Miami,Ian Fray,1702118,445274,injured,Out
+2023-10-07 Inter Miami CF-FC Cincinnati,Inter Miami,Jordi Alba,1702118,44288,injured doubtful,Doubtful
+2023-10-07 Inter Miami CF-FC Cincinnati,Inter Miami,Leonardo Campana,1702118,392650,injured doubtful,Doubtful
+2023-10-07 Inter Miami CF-FC Cincinnati,Inter Miami,Lionel Messi,1702118,11119,injured doubtful,Doubtful
 2023-10-07 New York Red Bulls-Toronto FC,New York Red Bulls,Andrés Reyes,1702125,393387,suspended,Out
 2023-10-07 New York Red Bulls-Toronto FC,New York Red Bulls,Dante Vanzeir,1702125,299690,injured,Out
 2023-10-07 New York Red Bulls-Toronto FC,New York Red Bulls,Lewis Morgan,1702125,364232,injured,Out
@@ -2682,9 +2682,9 @@ game,team,player,game_id,player_id,reason,status
 2023-10-07 Philadelphia Union-Nashville SC,Philadelphia Union,Mikael Uhre,1702113,425355,injured doubtful,Doubtful
 2023-10-08 Austin FC-Los Angeles FC,Austin FC,Leo Väisänen,1702110,371961,injured doubtful,Doubtful
 2023-10-08 Austin FC-Los Angeles FC,Austin FC,Zan Kolmanic,1702110,412162,injured,Out
-2023-10-08 Austin FC-Los Angeles FC,Los Angeles FC,Kellyn Acosta,1702110,126909,injured doubtful,Doubtful
-2023-10-08 Chicago Fire FC-Charlotte FC,Charlotte FC,Ben Bender,1702109,433529,injured doubtful,Doubtful
-2023-10-08 Chicago Fire FC-Charlotte FC,Charlotte FC,Vinicius Mello,1702109,417866,injured,Out
+2023-10-08 Austin FC-Los Angeles FC,LAFC,Kellyn Acosta,1702110,126909,injured doubtful,Doubtful
+2023-10-08 Chicago Fire FC-Charlotte FC,Charlotte,Ben Bender,1702109,433529,injured doubtful,Doubtful
+2023-10-08 Chicago Fire FC-Charlotte FC,Charlotte,Vinicius Mello,1702109,417866,injured,Out
 2023-10-08 Chicago Fire FC-Charlotte FC,Chicago Fire FC,Chris Mueller,1702109,354031,injured,Out
 2023-10-08 Chicago Fire FC-Charlotte FC,Chicago Fire FC,Federico Navarro,1702109,365995,injured,Out
 2023-10-08 Chicago Fire FC-Charlotte FC,Chicago Fire FC,Jairo Torres,1702109,438459,injured doubtful,Doubtful
@@ -2767,40 +2767,40 @@ game,team,player,game_id,player_id,reason,status
 2023-10-15 Nashville SC-New England Revolution,New England Revolution,Ian Harkes,1702053,334511,injured doubtful,Doubtful
 2023-10-15 Nashville SC-New England Revolution,New England Revolution,Maciel,1702053,414560,injured,Out
 2023-10-15 Nashville SC-New England Revolution,New England Revolution,Noel Buck,1702053,436493,international duty,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Charlotte FC,Ben Bender,1702023,433529,injured doubtful,Doubtful
-2023-10-19 Inter Miami CF-Charlotte FC,Charlotte FC,Bill Tuiloma,1702023,141264,international duty,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Charlotte FC,Derrick Jones,1702023,334571,suspended,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Charlotte FC,Jere Uronen,1702023,101113,international duty,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Charlotte FC,Vinicius Mello,1702023,417866,injured,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami CF,Benjamin Cremaschi,1702023,469660,international duty,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami CF,Corentin Jean,1702023,118351,injured,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami CF,David Ruíz,1702023,477528,international duty,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami CF,Edison Azcona,1702023,413765,international duty,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami CF,Facundo Farías,1702023,387155,international duty,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami CF,Franco Negri,1702023,323654,injured,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami CF,Gregore,1702023,355710,injured,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami CF,Ian Fray,1702023,445274,injured,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami CF,Jordi Alba,1702023,44288,injured doubtful,Doubtful
-2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami CF,Josef Martínez,1702023,93932,international duty,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami CF,Leonardo Campana,1702023,392650,injured doubtful,Doubtful
-2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami CF,Lionel Messi,1702023,11119,international duty,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami CF,Robert Taylor,1702023,130254,international duty,Out
-2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami CF,Sergii Kryvtsov,1702023,69893,international duty,Out
-2023-10-21 Charlotte FC-Inter Miami CF,Charlotte FC,Ben Bender,1702147,433529,injured,Out
-2023-10-21 Charlotte FC-Inter Miami CF,Charlotte FC,Vinicius Mello,1702147,417866,injured,Out
-2023-10-21 Charlotte FC-Inter Miami CF,Inter Miami CF,Corentin Jean,1702147,118351,injured,Out
-2023-10-21 Charlotte FC-Inter Miami CF,Inter Miami CF,Franco Negri,1702147,323654,injured,Out
-2023-10-21 Charlotte FC-Inter Miami CF,Inter Miami CF,Ian Fray,1702147,445274,injured,Out
-2023-10-21 Charlotte FC-Inter Miami CF,Inter Miami CF,Lionel Messi,1702147,11119,other,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Charlotte,Ben Bender,1702023,433529,injured doubtful,Doubtful
+2023-10-19 Inter Miami CF-Charlotte FC,Charlotte,Bill Tuiloma,1702023,141264,international duty,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Charlotte,Derrick Jones,1702023,334571,suspended,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Charlotte,Jere Uronen,1702023,101113,international duty,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Charlotte,Vinicius Mello,1702023,417866,injured,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami,Benjamin Cremaschi,1702023,469660,international duty,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami,Corentin Jean,1702023,118351,injured,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami,David Ruíz,1702023,477528,international duty,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami,Edison Azcona,1702023,413765,international duty,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami,Facundo Farías,1702023,387155,international duty,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami,Franco Negri,1702023,323654,injured,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami,Gregore,1702023,355710,injured,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami,Ian Fray,1702023,445274,injured,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami,Jordi Alba,1702023,44288,injured doubtful,Doubtful
+2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami,Josef Martínez,1702023,93932,international duty,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami,Leonardo Campana,1702023,392650,injured doubtful,Doubtful
+2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami,Lionel Messi,1702023,11119,international duty,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami,Robert Taylor,1702023,130254,international duty,Out
+2023-10-19 Inter Miami CF-Charlotte FC,Inter Miami,Sergii Kryvtsov,1702023,69893,international duty,Out
+2023-10-21 Charlotte FC-Inter Miami CF,Charlotte,Ben Bender,1702147,433529,injured,Out
+2023-10-21 Charlotte FC-Inter Miami CF,Charlotte,Vinicius Mello,1702147,417866,injured,Out
+2023-10-21 Charlotte FC-Inter Miami CF,Inter Miami,Corentin Jean,1702147,118351,injured,Out
+2023-10-21 Charlotte FC-Inter Miami CF,Inter Miami,Franco Negri,1702147,323654,injured,Out
+2023-10-21 Charlotte FC-Inter Miami CF,Inter Miami,Ian Fray,1702147,445274,injured,Out
+2023-10-21 Charlotte FC-Inter Miami CF,Inter Miami,Lionel Messi,1702147,11119,other,Out
 2023-10-21 Columbus Crew-CF Montreal,CF Montreal,Róbert Thorkelsson,1702129,406061,injured,Out
 2023-10-21 Columbus Crew-CF Montreal,Columbus Crew,Will Sands,1702129,433495,injured,Out
 2023-10-21 FC Cincinnati-Atlanta United,Atlanta United,Jamal Thiare,1702134,123191,injured doubtful,Doubtful
 2023-10-21 FC Cincinnati-Atlanta United,Atlanta United,Machop Chol,1702134,413707,injured,Out
 2023-10-21 FC Cincinnati-Atlanta United,Atlanta United,Osvaldo Alonso,1702134,72567,injured,Out
 2023-10-21 FC Cincinnati-Atlanta United,Atlanta United,Tyler Wolff,1702134,396297,injured doubtful,Doubtful
-2023-10-21 FC Cincinnati-Atlanta United,FC Cincinnati,Arquímides Ordóñez,1702134,418753,injured doubtful,Doubtful
-2023-10-21 FC Cincinnati-Atlanta United,FC Cincinnati,Santiago Arias,1702134,88112,injured doubtful,Doubtful
-2023-10-21 FC Cincinnati-Atlanta United,FC Cincinnati,Stiven Jimenez,1702134,462801,injured,Out
+2023-10-21 FC Cincinnati-Atlanta United,Cincinnati,Arquímides Ordóñez,1702134,418753,injured doubtful,Doubtful
+2023-10-21 FC Cincinnati-Atlanta United,Cincinnati,Santiago Arias,1702134,88112,injured doubtful,Doubtful
+2023-10-21 FC Cincinnati-Atlanta United,Cincinnati,Stiven Jimenez,1702134,462801,injured,Out
 2023-10-21 Nashville SC-New York Red Bulls,Nashville SC,Jacob Shaffelburg,1702138,377467,injured,Out
 2023-10-21 Nashville SC-New York Red Bulls,Nashville SC,Lukas MacNaughton,1702138,433506,injured doubtful,Doubtful
 2023-10-21 Nashville SC-New York Red Bulls,Nashville SC,Nick DePuy,1702138,334518,injured,Out
@@ -2873,11 +2873,11 @@ game,team,player,game_id,player_id,reason,status
 2023-10-22 St. Louis City-Seattle Sounders FC,Seattle Sounders FC,Sota Kitahara,1702143,462097,injured,Out
 2023-10-22 St. Louis City-Seattle Sounders FC,St. Louis City,Lucas Bartlett,1702143,437742,injured,Out
 2023-10-22 St. Louis City-Seattle Sounders FC,St. Louis City,Miguel Perez,1702143,475301,injured,Out
-2023-10-22 Vancouver Whitecaps-Los Angeles FC,Los Angeles FC,Kellyn Acosta,1702148,126909,injured doubtful,Doubtful
+2023-10-22 Vancouver Whitecaps-Los Angeles FC,LAFC,Kellyn Acosta,1702148,126909,injured doubtful,Doubtful
 2023-10-22 Vancouver Whitecaps-Los Angeles FC,Vancouver Whitecaps,Andrés Cubas,1702148,303656,injured doubtful,Doubtful
-2023-10-25 New York Red Bulls-Charlotte FC,Charlotte FC,Ben Bender,1784555,433529,injured,Out
-2023-10-25 New York Red Bulls-Charlotte FC,Charlotte FC,Karol Swiderski,1784555,377187,injured doubtful,Doubtful
-2023-10-25 New York Red Bulls-Charlotte FC,Charlotte FC,Vinicius Mello,1784555,417866,injured,Out
+2023-10-25 New York Red Bulls-Charlotte FC,Charlotte,Ben Bender,1784555,433529,injured,Out
+2023-10-25 New York Red Bulls-Charlotte FC,Charlotte,Karol Swiderski,1784555,377187,injured doubtful,Doubtful
+2023-10-25 New York Red Bulls-Charlotte FC,Charlotte,Vinicius Mello,1784555,417866,injured,Out
 2023-10-25 New York Red Bulls-Charlotte FC,New York Red Bulls,Dante Vanzeir,1784555,299690,injured,Out
 2023-10-25 New York Red Bulls-Charlotte FC,New York Red Bulls,Lewis Morgan,1784555,364232,injured,Out
 2023-10-25 New York Red Bulls-Charlotte FC,New York Red Bulls,Serge Ngoma,1784555,433519,injured,Out
@@ -2901,9 +2901,9 @@ game,team,player,game_id,player_id,reason,status
 2023-10-29 Houston Dynamo FC-Real Salt Lake,Real Salt Lake,Marcelo Silva,1784686,51017,other,Out
 2023-10-29 Houston Dynamo FC-Real Salt Lake,Real Salt Lake,Pablo Ruiz,1784686,354546,injured,Out
 2023-10-29 Los Angeles FC-Vancouver Whitecaps,Vancouver Whitecaps,Thomas Hasal,1784691,396290,injured,Out
-2023-10-30 FC Cincinnati-New York Red Bulls,FC Cincinnati,Arquímides Ordóñez,1784909,418753,injured,Out
-2023-10-30 FC Cincinnati-New York Red Bulls,FC Cincinnati,Santiago Arias,1784909,88112,injured doubtful,Doubtful
-2023-10-30 FC Cincinnati-New York Red Bulls,FC Cincinnati,Stiven Jimenez,1784909,462801,injured,Out
+2023-10-30 FC Cincinnati-New York Red Bulls,Cincinnati,Arquímides Ordóñez,1784909,418753,injured,Out
+2023-10-30 FC Cincinnati-New York Red Bulls,Cincinnati,Santiago Arias,1784909,88112,injured doubtful,Doubtful
+2023-10-30 FC Cincinnati-New York Red Bulls,Cincinnati,Stiven Jimenez,1784909,462801,injured,Out
 2023-10-30 FC Cincinnati-New York Red Bulls,New York Red Bulls,Daniel Edelman,1784909,433520,injured doubtful,Doubtful
 2023-10-30 FC Cincinnati-New York Red Bulls,New York Red Bulls,Dante Vanzeir,1784909,299690,injured,Out
 2023-10-30 FC Cincinnati-New York Red Bulls,New York Red Bulls,Lewis Morgan,1784909,364232,injured,Out
@@ -2930,12 +2930,12 @@ game,team,player,game_id,player_id,reason,status
 2023-11-01 Columbus Crew-Atlanta United,Atlanta United,Tyler Wolff,1784688,396297,injured doubtful,Doubtful
 2023-11-01 Columbus Crew-Atlanta United,Columbus Crew,Diego Rossi,1784688,354089,injured doubtful,Doubtful
 2023-11-01 Columbus Crew-Atlanta United,Columbus Crew,Will Sands,1784688,433495,injured,Out
-2023-11-04 New York Red Bulls-FC Cincinnati,FC Cincinnati,Alvas Powell,1784910,133486,injured doubtful,Doubtful
-2023-11-04 New York Red Bulls-FC Cincinnati,FC Cincinnati,Arquímides Ordóñez,1784910,418753,injured,Out
-2023-11-04 New York Red Bulls-FC Cincinnati,FC Cincinnati,Dominique Badji,1784910,270584,injured doubtful,Doubtful
-2023-11-04 New York Red Bulls-FC Cincinnati,FC Cincinnati,Nick Hagglund,1784910,143777,injured,Out
-2023-11-04 New York Red Bulls-FC Cincinnati,FC Cincinnati,Santiago Arias,1784910,88112,injured doubtful,Doubtful
-2023-11-04 New York Red Bulls-FC Cincinnati,FC Cincinnati,Stiven Jimenez,1784910,462801,injured,Out
+2023-11-04 New York Red Bulls-FC Cincinnati,Cincinnati,Alvas Powell,1784910,133486,injured doubtful,Doubtful
+2023-11-04 New York Red Bulls-FC Cincinnati,Cincinnati,Arquímides Ordóñez,1784910,418753,injured,Out
+2023-11-04 New York Red Bulls-FC Cincinnati,Cincinnati,Dominique Badji,1784910,270584,injured doubtful,Doubtful
+2023-11-04 New York Red Bulls-FC Cincinnati,Cincinnati,Nick Hagglund,1784910,143777,injured,Out
+2023-11-04 New York Red Bulls-FC Cincinnati,Cincinnati,Santiago Arias,1784910,88112,injured doubtful,Doubtful
+2023-11-04 New York Red Bulls-FC Cincinnati,Cincinnati,Stiven Jimenez,1784910,462801,injured,Out
 2023-11-04 New York Red Bulls-FC Cincinnati,New York Red Bulls,Dante Vanzeir,1784910,299690,injured,Out
 2023-11-04 New York Red Bulls-FC Cincinnati,New York Red Bulls,Lewis Morgan,1784910,364232,injured,Out
 2023-11-04 New York Red Bulls-FC Cincinnati,New York Red Bulls,Sean Nealis,1784910,371023,injured doubtful,Doubtful
@@ -2993,14 +2993,14 @@ game,team,player,game_id,player_id,reason,status
 2023-11-25 Orlando City-Columbus Crew,Columbus Crew,Will Sands,1786104,433495,injured,Out
 2023-11-25 Orlando City-Columbus Crew,Orlando City,Favian Loyola,1786104,467694,injured,Out
 2023-11-25 Orlando City-Columbus Crew,Orlando City,Jack Lynn,1786104,434256,injured,Out
-2023-11-26 FC Cincinnati-Philadelphia Union,FC Cincinnati,Alvas Powell,1785460,133486,injured doubtful,Doubtful
-2023-11-26 FC Cincinnati-Philadelphia Union,FC Cincinnati,Arquímides Ordóñez,1785460,418753,injured,Out
-2023-11-26 FC Cincinnati-Philadelphia Union,FC Cincinnati,Dominique Badji,1785460,270584,injured doubtful,Doubtful
-2023-11-26 FC Cincinnati-Philadelphia Union,FC Cincinnati,Matt Miazga,1785460,131999,suspended,Out
-2023-11-26 FC Cincinnati-Philadelphia Union,FC Cincinnati,Nick Hagglund,1785460,143777,injured,Out
-2023-11-26 FC Cincinnati-Philadelphia Union,FC Cincinnati,Obinna Nwobodo,1785460,403881,injured doubtful,Doubtful
-2023-11-26 FC Cincinnati-Philadelphia Union,FC Cincinnati,Santiago Arias,1785460,88112,injured doubtful,Doubtful
-2023-11-26 FC Cincinnati-Philadelphia Union,FC Cincinnati,Stiven Jimenez,1785460,462801,injured,Out
+2023-11-26 FC Cincinnati-Philadelphia Union,Cincinnati,Alvas Powell,1785460,133486,injured doubtful,Doubtful
+2023-11-26 FC Cincinnati-Philadelphia Union,Cincinnati,Arquímides Ordóñez,1785460,418753,injured,Out
+2023-11-26 FC Cincinnati-Philadelphia Union,Cincinnati,Dominique Badji,1785460,270584,injured doubtful,Doubtful
+2023-11-26 FC Cincinnati-Philadelphia Union,Cincinnati,Matt Miazga,1785460,131999,suspended,Out
+2023-11-26 FC Cincinnati-Philadelphia Union,Cincinnati,Nick Hagglund,1785460,143777,injured,Out
+2023-11-26 FC Cincinnati-Philadelphia Union,Cincinnati,Obinna Nwobodo,1785460,403881,injured doubtful,Doubtful
+2023-11-26 FC Cincinnati-Philadelphia Union,Cincinnati,Santiago Arias,1785460,88112,injured doubtful,Doubtful
+2023-11-26 FC Cincinnati-Philadelphia Union,Cincinnati,Stiven Jimenez,1785460,462801,injured,Out
 2023-11-26 FC Cincinnati-Philadelphia Union,Philadelphia Union,Jakob Glesnes,1785460,320980,injured,Out
 2023-11-26 FC Cincinnati-Philadelphia Union,Philadelphia Union,Kai Wagner,1785460,371010,suspended,Out
 2023-11-26 FC Cincinnati-Philadelphia Union,Philadelphia Union,Leon Flach,1785460,401252,injured,Out
@@ -3013,11 +3013,11 @@ game,team,player,game_id,player_id,reason,status
 2023-11-27 Seattle Sounders FC-Los Angeles FC,Seattle Sounders FC,Reed Baker-Whiting,1785604,415661,injured doubtful,Doubtful
 2023-11-27 Seattle Sounders FC-Los Angeles FC,Seattle Sounders FC,Sota Kitahara,1785604,462097,injured,Out
 2023-12-02 FC Cincinnati-Columbus Crew,Columbus Crew,Will Sands,1786744,433495,injured,Out
-2023-12-02 FC Cincinnati-Columbus Crew,FC Cincinnati,Arquímides Ordóñez,1786744,418753,injured,Out
-2023-12-02 FC Cincinnati-Columbus Crew,FC Cincinnati,Matt Miazga,1786744,131999,suspended,Out
-2023-12-02 FC Cincinnati-Columbus Crew,FC Cincinnati,Nick Hagglund,1786744,143777,injured,Out
-2023-12-02 FC Cincinnati-Columbus Crew,FC Cincinnati,Obinna Nwobodo,1786744,403881,injured doubtful,Doubtful
-2023-12-02 FC Cincinnati-Columbus Crew,FC Cincinnati,Stiven Jimenez,1786744,462801,injured,Out
+2023-12-02 FC Cincinnati-Columbus Crew,Cincinnati,Arquímides Ordóñez,1786744,418753,injured,Out
+2023-12-02 FC Cincinnati-Columbus Crew,Cincinnati,Matt Miazga,1786744,131999,suspended,Out
+2023-12-02 FC Cincinnati-Columbus Crew,Cincinnati,Nick Hagglund,1786744,143777,injured,Out
+2023-12-02 FC Cincinnati-Columbus Crew,Cincinnati,Obinna Nwobodo,1786744,403881,injured doubtful,Doubtful
+2023-12-02 FC Cincinnati-Columbus Crew,Cincinnati,Stiven Jimenez,1786744,462801,injured,Out
 2023-12-03 Los Angeles FC-Houston Dynamo FC,Houston Dynamo FC,Ifunanyachi Achara,1786760,393390,injured,Out
 2023-12-03 Los Angeles FC-Houston Dynamo FC,Houston Dynamo FC,Tate Schmitt,1786760,371299,injured,Out
 2023-12-09 Columbus Crew-Los Angeles FC,Columbus Crew,Will Sands,1787340,433495,injured,Out

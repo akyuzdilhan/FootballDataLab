@@ -6,21 +6,21 @@ Alonso,Aceves,Chicago Fire,D,330000.0,368900.0
 Ifunanyachi,Achara,Houston Dynamo,F,85444.0,85444.0
 Kellyn,Acosta,LAFC,D-M,1250000.0,1365000.0
 Bryan,Acosta,Portland Timbers,M,675000.0,731667.0
-Luciano,Acosta,FC Cincinnati,M-F,1943500.0,2222854.0
+Luciano,Acosta,Cincinnati,M-F,1943500.0,2222854.0
 Sam,Adekugbe,Vancouver Whitecaps,D,729516.0,817516.0
 Samuel,Adeniran,St. Louis City SC,F,85444.0,85444.0
-Harrison,Afful,Charlotte FC,D,85444.0,85444.0
+Harrison,Afful,Charlotte,D,85444.0,85444.0
 Stephen,Afrifa,Sporting Kansas City,F,67360.0,67360.0
 Willy,Agada,Sporting Kansas City,F,225000.0,271875.0
-London,Aghedo,FC Cincinnati,D,67360.0,67360.0
+London,Aghedo,Cincinnati,D,67360.0,67360.0
 Oskar,Agren,San Jose Earthquakes,D,85444.0,85444.0
 Daniel,Aguirre,LA Galaxy,M,85444.0,85444.0
-Patrick,Agyemang,Charlotte FC,F,67360.0,67360.0
+Patrick,Agyemang,Charlotte,F,67360.0,67360.0
 Ali,Ahmed,Vancouver Whitecaps,M,85444.0,94819.0
 Carlos,Akapo,San Jose Earthquakes,D,525000.0,570111.0
 Matai,Akinmboni,DC United,D,67360.0,76860.0
 Ayo,Akinola,San Jose Earthquakes,F,700000.0,771875.0
-Joey,Akpunonu,FC Cincinnati,D,67360.0,69860.0
+Joey,Akpunonu,Cincinnati,D,67360.0,69860.0
 Jordi,Alba,Inter Miami,D,1000000.0,1250000.0
 Caio,Alexandre Souza e Silva,Vancouver Whitecaps,M,500000.0,562500.0
 Tony,Alfaro,LA Galaxy,D,120000.0,120000.0
@@ -40,7 +40,7 @@ Malte,Amundsen,Columbus Crew,D,300000.0,338700.0
 Max,Anchor,Vancouver Whitecaps,GK,67360.0,74802.0
 Sebastian,Anderson,Colorado Rapids,D,120000.0,121667.0
 Iván,Angulo,Orlando City SC,M,348000.0,380660.0
-Marco,Angulo,FC Cincinnati,D-M,275000.0,323000.0
+Marco,Angulo,Cincinnati,D-M,275000.0,323000.0
 Eugene,Ansah,FC Dallas,M,200000.0,302833.0
 Themi,Antonoglou,Toronto FC,D,68775.0,72880.0
 Tah,Anunga,Nashville SC,M,250000.0,270000.0
@@ -48,9 +48,9 @@ César,Araújo,Orlando City SC,D-M,255000.0,294000.0
 Héber,Araújo dos Santos,Seattle Sounders FC,F,930000.0,1019000.0
 Cristian,Arango,Real Salt Lake,F,1899996.0,2088746.0
 Miguel,Araujo,Portland Timbers,D,525000.0,680313.0
-Scott,Arfield,Charlotte FC,M,400000.0,437500.0
+Scott,Arfield,Charlotte,M,400000.0,437500.0
 Max,Arfsten,Columbus Crew,M,67360.0,69205.0
-Santiago,Arias,FC Cincinnati,D,550000.0,611354.0
+Santiago,Arias,Cincinnati,D,550000.0,611354.0
 Adam,Armour,Major League Soccer,D,85444.0,85444.0
 Xavier,Arreaga,Seattle Sounders FC,D,750000.0,750000.0
 Kervin,Arriaga,Minnesota United,D-M,170000.0,189667.0
@@ -70,7 +70,7 @@ David,Ayala,Portland Timbers,D-M,375000.0,496000.0
 Edison,Azcona,Inter Miami,M,85444.0,85444.0
 Roman,Bürki,St. Louis City SC,GK,1500000.0,1632469.0
 Talles Magno,Bacelar Martins,New York City FC,M,950000.0,1198000.0
-Dominique,Badji,FC Cincinnati,F,550000.0,605000.0
+Dominique,Badji,Cincinnati,F,550000.0,605000.0
 Drew,Baiera,New York City FC,D,67360.0,73296.0
 Corey,Baird,Houston Dynamo,F,550000.0,581031.0
 Esmir,Bajraktarevic,New England Revolution,M,85444.0,91367.0
@@ -82,7 +82,7 @@ Esequiel,Barco,Atlanta United,M,2200000.0,2200000.0
 Tai,Baribo,Philadelphia Union,F,600000.0,710000.0
 Tom,Barlow,New York Red Bulls,F,195000.0,206625.0
 Luis,Barraza,New York City FC,GK,145000.0,152688.0
-Álvaro,Barreal,FC Cincinnati,M,300000.0,519297.0
+Álvaro,Barreal,Cincinnati,M,300000.0,519297.0
 Michael,Barrios,LA Galaxy,M,650000.0,680000.0
 Lucas,Bartlett,St. Louis City SC,D,85444.0,85444.0
 Ethan,Bartlow,Houston Dynamo,D,125000.0,135000.0
@@ -96,11 +96,11 @@ Alejandro,Bedoya,Philadelphia Union,M,780000.0,1060000.0
 Steven,Beitashour,Colorado Rapids,D,150000.0,172500.0
 Jon,Bell,St. Louis City SC,D,88200.0,88200.0
 Nico,Benalcázar,New York City FC,D,68775.0,68775.0
-Ben,Bender,Charlotte FC,M,85444.0,105444.0
+Ben,Bender,Charlotte,M,85444.0,105444.0
 Joe,Bendik,Philadelphia Union,GK,175000.0,192500.0
 Julio,Benitez,Real Salt Lake,D-M,85444.0,95069.0
 Christian,Benteke,DC United,F,4250000.0,4432778.0
-Nimfasha,Berchimas,Charlotte FC,M,67360.0,82294.0
+Nimfasha,Berchimas,Charlotte,M,67360.0,82294.0
 Sebastian,Berhalter,Vancouver Whitecaps,M,150000.0,160250.0
 Federico,Bernardeschi,Toronto FC,M,3125000.0,6295381.0
 Miguel,Berry,Atlanta United,F,135000.0,135000.0
@@ -128,7 +128,7 @@ Dylan,Borrero,New England Revolution,M,575000.0,638962.0
 Gustavo,Bou,New England Revolution,F,2500000.0,2675000.0
 Denis,Bouanga,LAFC,M,2083333.0,2472222.0
 Ousseni,Bouda,San Jose Earthquakes,M,100000.0,112500.0
-Aaron,Boupendza,FC Cincinnati,F,720000.0,1127600.0
+Aaron,Boupendza,Cincinnati,F,720000.0,1127600.0
 Michael,Boxall,Minnesota United,D,650000.0,703097.0
 Tyler,Boyd,LA Galaxy,M,275000.0,350000.0
 Michael,Bradley,Toronto FC,M,614286.0,614286.0
@@ -137,7 +137,7 @@ Zachary,Brault-Guillard,CF Montreal,D,275000.0,319375.0
 Claudio,Bravo,Portland Timbers,D,315000.0,371654.0
 Ethan,Bristow,Minnesota United,D,85444.0,136630.0
 Andrew,Brody,Real Salt Lake,D,250000.0,275678.0
-Brandt,Bronico,Charlotte FC,M,310000.0,348375.0
+Brandt,Bronico,Charlotte,M,310000.0,348375.0
 Javain,Brown,Vancouver Whitecaps,D,140000.0,153688.0
 Gastón,Brugman,LA Galaxy,D-M,1200000.0,1409000.0
 Will,Bruin,Austin FC,F,200000.0,200000.0
@@ -150,7 +150,7 @@ Kendall,Burks,Chicago Fire,D,88200.0,88200.0
 Evan,Bush,Columbus Crew,GK,88200.0,88200.0
 Sergio,Busquets,Inter Miami,D-M,1500000.0,1775000.0
 Brandon,Bye,New England Revolution,D,350000.0,368813.0
-Nathan,Byrne,Charlotte FC,D,560000.0,607833.0
+Nathan,Byrne,Charlotte,D,560000.0,607833.0
 Martín,Cáceres,LA Galaxy,D,500004.0,556671.0
 Jorge,Cabezas,New York Red Bulls,F,85444.0,85444.0
 Kévin,Cabral,Colorado Rapids,M,1800000.0,1800000.0
@@ -161,7 +161,7 @@ Lucas Felipe,Calegari,LA Galaxy,D,550000.0,611564.0
 Noel,Caliskan,Portland Timbers,M,67360.0,67360.0
 Drake,Callender,Inter Miami,GK,300000.0,355917.0
 Rudy,Camacho,Columbus Crew,D,500000.0,554000.0
-Brandon,Cambridge,Charlotte FC,M,67360.0,75386.0
+Brandon,Cambridge,Charlotte,M,67360.0,75386.0
 Matteo,Campagna,Vancouver Whitecaps,D,85444.0,94456.0
 Leonardo,Campana,Inter Miami,F,549996.0,672329.0
 George,Campbell,CF Montreal,D,325000.0,365625.0
@@ -176,7 +176,7 @@ Javier,Casas,Chicago Fire,M,85444.0,87344.0
 Julio,Cascante,Austin FC,D,620000.0,693750.0
 Robert,Castellanos,Sporting Kansas City,D,85444.0,85444.0
 Jacob,Castro,Seattle Sounders FC,GK,67360.0,67360.0
-Roman,Celentano,FC Cincinnati,GK,100000.0,149000.0
+Roman,Celentano,Cincinnati,GK,100000.0,149000.0
 Erik,Centeno,Atlanta United,D,67360.0,79136.0
 Edwin,Cerrillo,LA Galaxy,D-M,149500.0,164500.0
 Daniel,Chacón,Colorado Rapids,D,67360.0,75110.0
@@ -196,11 +196,11 @@ Stefan,Cleveland,Seattle Sounders FC,GK,200000.0,217500.0
 Noah,Cobb,Atlanta United,D,67360.0,67360.0
 Alonso,Coello,Toronto FC,D-M,67360.0,71693.0
 Jackson,Conway,Atlanta United,F,89716.0,89716.0
-Enzo,Copetti,Charlotte FC,F,1000000.0,1142250.0
+Enzo,Copetti,Charlotte,F,1000000.0,1142250.0
 Gabriele,Corbo,CF Montreal,D,216350.0,216350.0
 Gabriel,Cordeiro Pirani,DC United,M,530000.0,596700.0
 Carlos,Coronel,New York Red Bulls,GK,490000.0,539649.0
-Guzmán,Corujo,Charlotte FC,D,625000.0,658500.0
+Guzmán,Corujo,Charlotte,D,625000.0,658500.0
 Douglas,Costa,LA Galaxy,M,3000000.0,4508333.0
 Séga,Coulibaly,Major League Soccer,D,480000.0,517000.0
 Cade,Cowell,San Jose Earthquakes,M,600000.0,689909.0
@@ -228,13 +228,13 @@ José Artur,de Lima Júnior,Houston Dynamo,D-M,600000.0,651633.0
 Gregore,de Magalhães da Silva,Inter Miami,D-M,725000.0,961250.0
 Daniel,de Sousa Britto,San Jose Earthquakes,GK,400000.0,400000.0
 Jonathan,Dean,Chicago Fire,D,85444.0,93611.0
-Brecht,Dejaegere,Charlotte FC,M,820000.0,999375.0
+Brecht,Dejaegere,Charlotte,M,820000.0,999375.0
 Mark,Delgado,LA Galaxy,M,750000.0,826250.0
 Nick,DePuy,Nashville SC,D,252000.0,252000.0
 Bakaye,Dibassy,Minnesota United,D,600000.0,661250.0
 Eric,Dick,Minnesota United,GK,85444.0,85444.0
 Adama,Diomande,Toronto FC,F,525000.0,585000.0
-Hamady,Diop,Charlotte FC,D,67360.0,74860.0
+Hamady,Diop,Charlotte,D,67360.0,74860.0
 Clément,Diop,Atlanta United,GK,85444.0,85444.0
 Sofiane,Djeffal,Austin FC,M,75325.0,75325.0
 Moussa,Djitté,Austin FC,F,600000.0,600000.0
@@ -291,7 +291,7 @@ CJ,Fodrey,Austin FC,M,67360.0,69360.0
 Andreu,Fontàs,Sporting Kansas City,D,450000.0,450000.0
 Kortne,Ford,Sporting Kansas City,D,165000.0,170000.0
 Ajani,Fortune,Atlanta United,M,67360.0,67360.0
-Isaiah,Foster,FC Cincinnati,D,85444.0,89823.0
+Isaiah,Foster,Cincinnati,D,85444.0,89823.0
 Franco,Fragapane,Minnesota United,M,260000.0,267500.0
 Iván,Franco,Houston Dynamo,M,335000.0,384250.0
 Kobe,Franklin,Toronto FC,D,67360.0,78162.0
@@ -305,8 +305,8 @@ Diego,Gómez,Inter Miami,M,500000.0,504167.0
 Tomás,Gómez,Real Salt Lake,GK,85444.0,85444.0
 Carlos Andrés,Gómez,Real Salt Lake,M,220000.0,252000.0
 Yeimar,Gómez Andrade,Seattle Sounders FC,D,672732.0,741820.0
-Raymon,Gaddis,FC Cincinnati,D,300000.0,300000.0
-McKinze,Gaines,Charlotte FC,M,100000.0,102750.0
+Raymon,Gaddis,Cincinnati,D,300000.0,300000.0
+McKinze,Gaines,Charlotte,M,100000.0,102750.0
 Julian,Gaines,LAFC,D,104004.0,107337.0
 Jeff,Gal,Chicago Fire,GK,85444.0,85444.0
 Jon,Gallagher,Austin FC,D,300000.0,300000.0
@@ -352,11 +352,11 @@ Justin,Haak,New York City FC,M,150000.0,165000.0
 Luke,Haakenson,Nashville SC,M,88200.0,88200.0
 Kamron,Habibullah,Vancouver Whitecaps,M,85444.0,95044.0
 Teenage,Hadebe,Houston Dynamo,D,1122900.0,1288077.0
-Nick,Hagglund,FC Cincinnati,D,175000.0,188521.0
+Nick,Hagglund,Cincinnati,D,175000.0,188521.0
 Maren,Haile-Selassie,Chicago Fire,M,264000.0,279800.0
 Julian,Hall,New York Red Bulls,M,85444.0,167685.0
 Michael,Halliday,Orlando City SC,D,110000.0,116300.0
-Bret,Halsey,FC Cincinnati,D,85444.0,94194.0
+Bret,Halsey,Cincinnati,D,85444.0,94194.0
 Ahmed,Hamdi,CF Montreal,M-F,500000.0,597500.0
 Ian,Harkes,New England Revolution,M,240000.0,251583.0
 Cameron,Harper,New York Red Bulls,M,250000.0,301250.0
@@ -365,7 +365,7 @@ Calvin,Harris,Colorado Rapids,M,100000.0,113000.0
 Thomas,Hasal,Vancouver Whitecaps,GK,203000.0,222412.0
 Stuart,Hawkins,Seattle Sounders FC,D,67360.0,79381.0
 Matt,Hedges,Austin FC,D,776250.0,908859.0
-Chris,Hegardt,Charlotte FC,D-M,85444.0,92956.0
+Chris,Hegardt,Charlotte,D-M,85444.0,92956.0
 Fabian,Herbers,Chicago Fire,M,310000.0,331250.0
 Cucho,Hernández,Columbus Crew,F,2600000.0,2886000.0
 Ronald,Hernández,Atlanta United,D,375000.0,375000.0
@@ -396,7 +396,7 @@ Lorenzo,Insigne,Toronto FC,M,7500000.0,15400000.0
 Clint,Irwin,Minnesota United,GK,190000.0,203533.0
 Aljaz,Ivacic,Portland Timbers,GK,375000.0,460000.0
 Emmanuel,Iwe,Minnesota United,M,67360.0,67360.0
-Kamil,Józwiak,Charlotte FC,M,1100000.0,1217000.0
+Kamil,Józwiak,Charlotte,M,1100000.0,1217000.0
 Ousman,Jabang,CF Montreal,D-M,67360.0,67360.0
 Jacob,Jackson,New England Revolution,GK,68775.0,68775.0
 Aziel,Jackson,St. Louis City SC,M-F,85444.0,89341.0
@@ -413,20 +413,20 @@ Ryen,Jiba,Minnesota United,D,67360.0,67360.0
 Jesús,Jiménez,FC Dallas,F,1100000.0,1219927.0
 Héctor,Jiménez,Austin FC,D,85444.0,85444.0
 Jonathan,Jiménez,New York City FC,M,68775.0,68775.0
-Stiven,Jimenez,FC Cincinnati,D-M,67360.0,67360.0
+Stiven,Jimenez,Cincinnati,D-M,67360.0,67360.0
 Sean,Johnson,Toronto FC,GK,405751.0,683013.0
 Levonte,Johnson,Vancouver Whitecaps,M,67360.0,67360.0
-Derrick,Jones,Charlotte FC,M,325000.0,347969.0
+Derrick,Jones,Charlotte,M,325000.0,347969.0
 DeJuan,Jones,New England Revolution,D,375000.0,395000.0
 Dejan,Joveljic,LA Galaxy,F,651250.0,651250.0
 Preston,Judd,LA Galaxy,F,67360.0,67360.0
 Anderson,Julio,Real Salt Lake,M,750000.0,820000.0
 Sam,Junqua,FC Dallas,D,85444.0,93777.0
-Kristijan,Kahlina,Charlotte FC,GK,500000.0,526875.0
+Kristijan,Kahlina,Charlotte,GK,500000.0,526875.0
 Brent,Kallman,Minnesota United,D,160000.0,168000.0
 Kei,Kamara,Chicago Fire,F,200000.0,210000.0
 Bernard,Kamungo,FC Dallas,M,85444.0,85444.0
-Alec,Kann,FC Cincinnati,GK,200000.0,220833.0
+Alec,Kann,Cincinnati,GK,200000.0,220833.0
 Mark-Anthony,Kaye,New England Revolution,M,750000.0,750000.0
 Axel,Kei,Real Salt Lake,F,85444.0,101444.0
 Aboubacar,Keita,Colorado Rapids,D,215000.0,245313.0
@@ -448,7 +448,7 @@ Filip,Krastev,LAFC,M,500000.0,557000.0
 Damir,Kreilach,Real Salt Lake,M,1650000.0,1650000.0
 Sergiy,Kryvtsov,Inter Miami,D,555500.0,614500.0
 Theodore,Ku-DiPietro,DC United,M-F,85444.0,85444.0
-Yuya,Kubo,FC Cincinnati,M-F,1091000.0,1206750.0
+Yuya,Kubo,Cincinnati,M-F,1091000.0,1206750.0
 Jojea,Kwizera,CF Montreal,M,68775.0,68775.0
 Jasper,Löffelsend,Real Salt Lake,M,96600.0,96600.0
 Eduard,Löwen,St. Louis City SC,M,1200000.0,1344250.0
@@ -470,7 +470,7 @@ Jonathan,Lewis,Colorado Rapids,M,410000.0,435000.0
 Danny,Leyva,Colorado Rapids,D-M,200000.0,224900.0
 Nick,Lima,Austin FC,D,375000.0,375000.0
 Lucas,Lima Linhares,New York Red Bulls,M-F,1155000.0,1206042.0
-Jaylin,Lindsey,Charlotte FC,D,250000.0,286250.0
+Jaylin,Lindsey,Charlotte,D,250000.0,286250.0
 Sebastian,Lletget,FC Dallas,M,700000.0,791250.0
 Saba,Lobjanidze,Atlanta United,M,2052000.0,2150750.0
 Robin,Lod,Minnesota United,M,900000.0,1039375.0
@@ -478,7 +478,7 @@ Nicolás,Lodeiro,Seattle Sounders FC,M-F,2640000.0,3256667.0
 Aaron,Long,LAFC,D,1199772.0,1243056.0
 Ahmed,Longmire,Nashville SC,D,67360.0,67360.0
 Marvin,Loría,Portland Timbers,M,200000.0,239375.0
-Evan,Louro,FC Cincinnati,GK,88200.0,88200.0
+Evan,Louro,Cincinnati,GK,88200.0,88200.0
 Daniel,Lovitz,Nashville SC,D,551250.0,568750.0
 Damion,Lowe,Philadelphia Union,D,275000.0,318333.0
 Favian,Loyola,Orlando City SC,M-F,67360.0,69495.0
@@ -495,14 +495,14 @@ Jack,Maher,Nashville SC,D,260004.0,355471.0
 Cassius,Mailula,Toronto FC,M,275000.0,291003.0
 Olwethu,Makhanya,Philadelphia Union,D,150000.0,188875.0
 Christian,Makoun,New England Revolution,D,225000.0,225000.0
-Adilson,Malanda,Charlotte FC,D,275000.0,303083.0
+Adilson,Malanda,Charlotte,D,275000.0,303083.0
 Denil,Maldonado,LAFC,D,355000.0,386167.0
 Elias,Manoel Alves de Paula,New York Red Bulls,F,420000.0,497250.0
 JT,Marcinkowski,San Jose Earthquakes,GK,350000.0,350000.0
 AJ,Marcucci,New York Red Bulls,GK,85444.0,85444.0
 Paul,Marie,San Jose Earthquakes,D,180000.0,191375.0
 Anthony,Markanich,St. Louis City SC,D,68775.0,68775.0
-George,Marks,Charlotte FC,GK,68775.0,68775.0
+George,Marks,Charlotte,GK,68775.0,68775.0
 Mikael,Marqués,Minnesota United,D,100000.0,116250.0
 Jahkeele,Marshall-Rutty,Toronto FC,D,152500.0,159313.0
 Nick,Marsman,Major League Soccer,GK,474996.0,587184.0
@@ -535,9 +535,9 @@ Cruz,Medina,San Jose Earthquakes,M-F,85444.0,103838.0
 Jimmy,Medranda,Columbus Crew,D,300000.0,331250.0
 Tim,Melia,Sporting Kansas City,GK,625000.0,637500.0
 Jonathan,Mensah,San Jose Earthquakes,D,1025000.0,1165667.0
-Justin,Meram,Charlotte FC,M,450000.0,493750.0
+Justin,Meram,Charlotte,M,450000.0,493750.0
 Lionel,Messi,Inter Miami,M,12000000.0,20446667.0
-Matt,Miazga,FC Cincinnati,D,1500000.0,1500000.0
+Matt,Miazga,Cincinnati,D,1500000.0,1500000.0
 Novak,Micovic,LA Galaxy,GK,67360.0,67360.0
 Matko,Miljevic,CF Montreal,M,545455.0,593364.0
 Kamal,Miller,Inter Miami,D,375000.0,420000.0
@@ -559,13 +559,13 @@ Alfredo,Morales,New York City FC,M,600000.0,662250.0
 Maxi,Moralez,New York City FC,M-F,480000.0,500000.0
 Steven,Moreira,Columbus Crew,D,700000.0,782708.0
 Santiago,Moreno,Portland Timbers,M,340000.0,384993.0
-Júnior,Moreno,FC Cincinnati,D-M,349992.0,398741.0
+Júnior,Moreno,Cincinnati,D-M,349992.0,398741.0
 Lewis,Morgan,New York Red Bulls,M,1200000.0,1375000.0
 Aidan,Morris,Columbus Crew,M,500000.0,562500.0
 Jake,Morris,Columbus Crew,D,85444.0,85444.0
 Jordan,Morris,Seattle Sounders FC,M,1550000.0,1560000.0
 Juan David,Mosquera,Portland Timbers,D,184000.0,209667.0
-Yerson,Mosquera,FC Cincinnati,D,600000.0,650000.0
+Yerson,Mosquera,Cincinnati,D,600000.0,650000.0
 Edwin,Mosquera,Atlanta United,M,375000.0,412000.0
 Chris,Mueller,Chicago Fire,M,600000.0,662320.0
 Hany,Mukhtar,Nashville SC,M-F,2900000.0,3188750.0
@@ -573,7 +573,7 @@ José,Mulato,FC Dallas,F,85444.0,123627.0
 Daniel,Munie,San Jose Earthquakes,D,67360.0,67360.0
 Mujeeb,Murana,Houston Dynamo,D,67360.0,67360.0
 Jesús,Murillo,LAFC,D,450000.0,509500.0
-Ian,Murphy,FC Cincinnati,D,72050.0,74300.0
+Ian,Murphy,Cincinnati,D,72050.0,74300.0
 Danny,Musovski,Real Salt Lake,F,98687.0,98687.0
 Alex,Muyl,Nashville SC,M,500000.0,500000.0
 Tristan,Muyumba,Atlanta United,D-M,450000.0,491600.0
@@ -587,7 +587,7 @@ Logan,Ndenbe,Sporting Kansas City,D,350000.0,396125.0
 Jalen,Neal,LA Galaxy,D,125000.0,138625.0
 Dylan,Nealis,New York Red Bulls,D,225000.0,246250.0
 Sean,Nealis,New York Red Bulls,D,400000.0,476250.0
-Jack,Neeley,Charlotte FC,D,67360.0,69360.0
+Jack,Neeley,Charlotte,D,67360.0,69360.0
 Franco,Negri,Inter Miami,D,225000.0,317500.0
 Michael,Nelson,Houston Dynamo,GK,135000.0,149500.0
 John,Nelson,St. Louis City SC,D,160000.0,168000.0
@@ -601,7 +601,7 @@ Joakim,Nilsson,St. Louis City SC,D,1102450.0,1170950.0
 Matthew,Nocita,New York Red Bulls,D,88200.0,88200.0
 Nolan,Norris,FC Dallas,D,67360.0,86002.0
 Tsiki,Ntsabeleng,FC Dallas,M-F,85444.0,85444.0
-Obinna,Nwobodo,FC Cincinnati,D-M,1155000.0,1289400.0
+Obinna,Nwobodo,Cincinnati,D-M,1155000.0,1289400.0
 Moses,Nyeman,Real Salt Lake,D-M,115000.0,133822.0
 Owen,O'Malley,St. Louis City SC,D,67360.0,72360.0
 Shane,O'Neill,Toronto FC,D,350000.0,388000.0
@@ -620,7 +620,7 @@ Cristian,Olivera,LAFC,M,650000.0,650000.0
 Tani,Oluwaseyi,Minnesota United,F,68775.0,68775.0
 Wyatt,Omsberg,Chicago Fire,D,170000.0,187000.0
 Kwadwo,Opoku,CF Montreal,M,310344.0,512100.0
-Arquímides,Ordóñez,FC Cincinnati,F,85444.0,88981.0
+Arquímides,Ordóñez,Cincinnati,F,85444.0,88981.0
 Nathan,Ordaz,LAFC,F,85444.0,87944.0
 Sergio,Oregel,Chicago Fire,M,67360.0,67360.0
 Jaziel,Orozco,Real Salt Lake,D,85444.0,85444.0
@@ -663,14 +663,14 @@ Kayden,Pierre,Sporting Kansas City,D,85444.0,91819.0
 Samuel,Piette,CF Montreal,D-M,397375.0,469563.0
 Mauricio,Pineda,Chicago Fire,D,255000.0,286220.0
 Donovan,Pines,DC United,D,200000.0,202000.0
-Malik,Pinto,FC Cincinnati,D-M,67360.0,67360.0
+Malik,Pinto,Cincinnati,D-M,67360.0,67360.0
 Matt,Polster,New England Revolution,D-M,500000.0,541667.0
 Célio Antonio,Pompeu,St. Louis City SC,M,68775.0,68775.0
 Paxton,Pomykal,FC Dallas,M-F,800000.0,908000.0
-Alvas,Powell,FC Cincinnati,D,190000.0,207000.0
+Alvas,Powell,Cincinnati,D,190000.0,207000.0
 Jack,Price,Colorado Rapids,M,762500.0,825000.0
 Ralph,Priso-Mbongue,Colorado Rapids,D-M,89716.0,89716.0
-Andrew,Privett,Charlotte FC,D,67360.0,67360.0
+Andrew,Privett,Charlotte,D,67360.0,67360.0
 Kacper,Przybylko,Chicago Fire,F,1100004.0,1212504.0
 Riqui,Puig,LA Galaxy,M,1650000.0,1732500.0
 Teemu,Pukki,Minnesota United,F,3200000.0,3550000.0
@@ -711,7 +711,7 @@ Damián,Rivera,New England Revolution,M,88200.0,88200.0
 Nigel,Robertha,DC United,F,550000.0,646542.0
 Robbie,Robinson,Inter Miami,M,200000.0,231000.0
 Miles,Robinson,Atlanta United,D,1400000.0,1437500.0
-Harrison,Robledo,FC Cincinnati,D-M,85444.0,106336.0
+Harrison,Robledo,Cincinnati,D-M,85444.0,106336.0
 Emerson,Rodríguez,Inter Miami,M,330000.0,365700.0
 Missael,Rodríguez,Chicago Fire,F,67360.0,67360.0
 Martín,Rodríguez,DC United,M,1000000.0,1266200.0
@@ -723,7 +723,7 @@ Abraham,Rodriguez,Colorado Rapids,GK,88200.0,88200.0
 Cristian,Roldán,Seattle Sounders FC,M,1320000.0,1441000.0
 Álex,Roldán,Seattle Sounders FC,D,300000.0,332500.0
 Jhohan,Romaña,Austin FC,D,460000.0,460000.0
-Brian,Romero,Charlotte FC,M,67360.0,78193.0
+Brian,Romero,Charlotte,M,67360.0,78193.0
 Tomás,Romero,Toronto FC,GK,120000.0,125000.0
 Abraham,Romero,LAFC,GK,85444.0,85444.0
 Dave,Romney,New England Revolution,D,625000.0,671667.0
@@ -755,11 +755,11 @@ Gaoussou,Samaké,DC United,D,85444.0,85444.0
 Will,Sands,Columbus Crew,D,85444.0,91694.0
 James,Sands,New York City FC,D,1000000.0,1058333.0
 Pedro,Santos,DC United,M,350000.0,390000.0
-Sergio,Santos,FC Cincinnati,F,700000.0,814375.0
+Sergio,Santos,Cincinnati,F,700000.0,814375.0
 C.J.,Sapong,Toronto FC,F,600000.0,616667.0
 Hayden,Sargis,DC United,D,85444.0,85444.0
 Jefferson,Savarino,Real Salt Lake,M,1525000.0,1749292.0
-Nick,Scardina,Charlotte FC,M,67360.0,67360.0
+Nick,Scardina,Charlotte,M,67360.0,67360.0
 Alessandro,Schöpf,Vancouver Whitecaps,M-F,900000.0,992500.0
 Rodrigo,Schlegel,Orlando City SC,D,300000.0,349250.0
 Tate,Schmitt,Houston Dynamo,D,85444.0,85444.0
@@ -780,16 +780,16 @@ Jonathan,Shore,New York City FC,M,67360.0,79860.0
 Marcelo,Silva,Real Salt Lake,D,600000.0,600000.0
 Xande,Silva,Atlanta United,M,480000.0,524250.0
 Judson,Silva Tavares,San Jose Earthquakes,D-M,250000.0,250000.0
-Vinicius,Silveira de Mello,Charlotte FC,F,315000.0,349900.0
+Vinicius,Silveira de Mello,Charlotte,F,315000.0,349900.0
 Luke,Singh,Toronto FC,D,85444.0,93410.0
 Jonathan,Sirois,CF Montreal,GK,85444.0,89780.0
-Pablo,Sisniega,Charlotte FC,GK,190000.0,210667.0
+Pablo,Sisniega,Charlotte,GK,190000.0,210667.0
 Jack,Skahan,San Jose Earthquakes,M,88200.0,88200.0
 Joey,Skinner,Nashville SC,D,67360.0,72360.0
 Kyle,Smith,Orlando City SC,D,250000.0,265900.0
 Collin,Smith,FC Dallas,D,130000.0,135000.0
 Brad,Smith,Houston Dynamo,D,375000.0,416875.0
-Jan,Sobocinski,Charlotte FC,D,325000.0,351250.0
+Jan,Sobocinski,Charlotte,D,325000.0,351250.0
 Anton,Sorenson,Philadelphia Union,D,95000.0,98000.0
 Santiago,Sosa,Atlanta United,D-M,575000.0,693100.0
 Arnaud,Souquet,Chicago Fire,D,600000.0,679667.0
@@ -809,7 +809,7 @@ Lawson,Sunderland,Inter Miami,M,67360.0,67360.0
 Sam,Surridge,Nashville SC,F,2500000.0,2907639.0
 Erik,Sviatchenko,Houston Dynamo,D,410532.0,460532.0
 Ben,Sweat,New England Revolution,D,250000.0,250000.0
-Karol,Swiderski,Charlotte FC,F,2200000.0,2258000.0
+Karol,Swiderski,Charlotte,F,2200000.0,2258000.0
 Ismael,Tajouri-Shradi,Minnesota United,M,85444.0,98777.0
 Yohei,Takaoka,Vancouver Whitecaps,GK,179520.0,297233.0
 Miguel,Tapias,Minnesota United,D,500012.0,586887.0
@@ -844,14 +844,14 @@ Miguel,Trauco,San Jose Earthquakes,D,500000.0,550000.0
 Jackson,Travis,Colorado Rapids,D,67360.0,69860.0
 Holden,Trent,Philadelphia Union,GK,67360.0,67360.0
 Niko,Tsakiris,San Jose Earthquakes,M,85444.0,89611.0
-Bill,Tuiloma,Charlotte FC,D,435000.0,459938.0
+Bill,Tuiloma,Charlotte,D,435000.0,459938.0
 Stephen,Turnbull,New York City FC,D,85444.0,85444.0
 Ema,Twumasi,FC Dallas,D,320000.0,339300.0
 Marinos,Tzionis,Sporting Kansas City,M,625000.0,625000.0
 Mikael,Uhre,Philadelphia Union,F,1700000.0,1940000.0
 Nathan,Uiliam Fogaça,Portland Timbers,F,68775.0,68775.0
 Víctor,Ulloa,Inter Miami,D-M,250000.0,250000.0
-Jere,Uronen,Charlotte FC,D,450000.0,497813.0
+Jere,Uronen,Charlotte,D,450000.0,497813.0
 Maximiliano,Urruti,Austin FC,F,700000.0,736250.0
 Víctor,Vázquez,Toronto FC,M-F,268000.0,301500.0
 Leo,Väisänen,Austin FC,D,600000.0,654500.0
@@ -860,13 +860,13 @@ Xavier,Valdez,Houston Dynamo,GK,85444.0,95155.0
 Felipe,Valencia,Inter Miami,M,85444.0,85444.0
 Jhojan,Valencia,Austin FC,D-M,400000.0,445125.0
 Zarek,Valentin,Minnesota United,D,85444.0,85444.0
-Gerardo,Valenzuela,FC Cincinnati,M-F,67360.0,84902.0
+Gerardo,Valenzuela,Cincinnati,M-F,67360.0,84902.0
 Gustavo,Vallecilla,Columbus Crew,D,336000.0,368880.0
 Dante,Vanzeir,New York Red Bulls,F,1320000.0,1459767.0
-Kerwin,Vargas,Charlotte FC,F,375000.0,412125.0
+Kerwin,Vargas,Charlotte,F,375000.0,412125.0
 Obed,Vargas,Seattle Sounders FC,M,67360.0,76392.0
 Indiana,Vassilev,St. Louis City SC,M-F,250000.0,281250.0
-Brandon,Vazquez,FC Cincinnati,F,900000.0,1041000.0
+Brandon,Vazquez,Cincinnati,F,900000.0,1041000.0
 Carlos,Vela,LAFC,M,3000000.0,4383900.0
 Alan,Velasco,FC Dallas,M,1200000.0,1401000.0
 Brayan,Vera,Real Salt Lake,D,450000.0,507000.0
@@ -882,7 +882,7 @@ Giacomo,Vrioni,New England Revolution,F,1600000.0,1847500.0
 Kai,Wagner,Philadelphia Union,D,630000.0,701000.0
 Casey,Walls,San Jose Earthquakes,D,150000.0,153000.0
 Rémi,Walter,Sporting Kansas City,M,850000.0,850000.0
-Paul,Walters,FC Cincinnati,GK,67360.0,75327.0
+Paul,Walters,Cincinnati,GK,67360.0,75327.0
 Victor,Wanyama,CF Montreal,D-M,1440000.0,1800000.0
 Collen,Warner,Major League Soccer,M,85444.0,85444.0
 Taylor,Washington,Nashville SC,D,98688.0,112269.0
@@ -891,7 +891,7 @@ Akil,Watts,St. Louis City SC,D-M,67360.0,67360.0
 Patrick,Weah,Minnesota United,M,85444.0,98736.0
 Jude,Wellings,Real Salt Lake,M,85444.0,105444.0
 Quentin,Westberg,Atlanta United,GK,200000.0,200000.0
-Ashley,Westwood,Charlotte FC,D-M,750000.0,850000.0
+Ashley,Westwood,Charlotte,D-M,750000.0,850000.0
 Brian,White,Vancouver Whitecaps,F,511000.0,511000.0
 Caleb,Wiley,Atlanta United,D,85444.0,87044.0
 Thomas,Williams,Orlando City SC,D,85444.0,91974.0
@@ -917,7 +917,7 @@ Luis,Zamudio,DC United,GK,85444.0,85444.0
 Gyasi,Zardes,Austin FC,F,800000.0,800000.0
 Eriq,Zavaleta,LA Galaxy,D,85444.0,85444.0
 Sean,Zawadzki,Columbus Crew,M,88200.0,93200.0
-Adrián,Zendejas,Charlotte FC,GK,85444.0,93430.0
+Adrián,Zendejas,Charlotte,GK,85444.0,93430.0
 Walker,Zimmerman,Nashville SC,D,1800000.0,2056979.0
 Rida,Zouhir,CF Montreal,M,85444.0,92340.0
 Ethan,Zubak,Nashville SC,F,195000.0,209000.0
