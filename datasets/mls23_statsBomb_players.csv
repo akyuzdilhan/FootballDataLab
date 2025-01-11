@@ -1,206 +1,212 @@
-player_url,fifa_version,short_name,long_name,club_name,league_name,nationality_name
-datasets/playersImage/158023Messi.png,24.0,L. Messi,Lionel Andrés Messi Cuccittini,Inter Miami,Major League Soccer,Argentina
-datasets/playersImage/189332Alba Ramos.png,24.0,Jordi Alba,Jordi Alba Ramos,Inter Miami,Major League Soccer,Spain
-datasets/playersImage/189511Busquets Burgos.png,24.0,Sergio Busquets,Sergio Busquets i Burgos,Inter Miami,Major League Soccer,Spain
-datasets/playersImage/198219Insigne.png,24.0,L. Insigne,Lorenzo Insigne,Toronto FC,Major League Soccer,Italy
-datasets/playersImage/210021Mukhtar.png,24.0,H. Mukhtar,Hany Mukhtar,Nashville SC,Major League Soccer,Germany
-datasets/playersImage/212404Bernardeschi.png,24.0,F. Bernardeschi,Federico Bernardeschi,Toronto FC,Major League Soccer,Italy
-datasets/playersImage/178224Hernández.png,24.0,J. Hernández,Javier Hernández Balcázar,LA Galaxy,Major League Soccer,Mexico
-datasets/playersImage/221634Acosta.png,24.0,L. Acosta,Luciano Federico Acosta,Cincinnati,Major League Soccer,Argentina
-datasets/playersImage/212591Zimmerman.png,24.0,W. Zimmerman,Walker Dwain Zimmerman,Nashville SC,Major League Soccer,United States
-datasets/playersImage/239910Boupendza.png,24.0,A. Boupendza,Aaron Salem Boupendza Pozzi,Cincinnati,Major League Soccer,Gabon
-datasets/playersImage/256287Farías.png,24.0,F. Farías,Facundo Hernán Farías,Inter Miami,Major League Soccer,Argentina
-datasets/playersImage/242816Puig Martí.png,24.0,Riqui Puig,Ricard Puig Martí,LA Galaxy,Major League Soccer,Spain
-datasets/playersImage/201043Dejaegere.png,24.0,B. Dejaegere,Brecht Dejaegere,Charlotte,Major League Soccer,Belgium
-datasets/playersImage/204259Arias.png,24.0,S. Arias,Santiago Arias Naranjo,Cincinnati,Major League Soccer,Colombia
-datasets/playersImage/207877Martínez.png,24.0,J. Martínez,Josef Alexander Martínez Mencia,Inter Miami,Major League Soccer,Venezuela
-datasets/playersImage/224301Świderski.png,24.0,K. Świderski,Karol Świderski,Charlotte,Major League Soccer,Poland
-datasets/playersImage/221908Morgan.png,24.0,L. Morgan,Lewis Morgan,New York Red Bulls,Major League Soccer,Scotland
-datasets/playersImage/236885Vazquez.png,24.0,B. Vazquez,Brandon Vázquez Toledo,Cincinnati,Major League Soccer,United States
-datasets/playersImage/234905Vanzeir.png,24.0,D. Vanzeir,Dante Vanzeir,New York Red Bulls,Major League Soccer,Belgium
-datasets/playersImage/215565Miazga.png,24.0,M. Miazga,Matthew Miazga,Cincinnati,Major League Soccer,United States
-datasets/playersImage/191648Yoshida.png,24.0,M. Yoshida,吉田 麻也,LA Galaxy,Major League Soccer,Japan
-datasets/playersImage/205726Brugman.png,24.0,G. Brugman,Gastón Brugman Duarte,LA Galaxy,Major League Soccer,Uruguay
-datasets/playersImage/213439Osorio.png,24.0,J. Osorio,Jonathan Osorio,Toronto FC,Major League Soccer,Canada
-datasets/playersImage/238332Copetti.png,24.0,E. Copetti,Enzo Nahuel Copetti,Charlotte,Major League Soccer,Argentina
-datasets/playersImage/251410de Magalhães da S..png,24.0,Gregore,Gregore de Magalhães da S.,Inter Miami,Major League Soccer,Brazil
-datasets/playersImage/242084Coronel.png,24.0,Carlos Coronel,Carlos Miguel Coronel,New York Red Bulls,Major League Soccer,Brazil
-datasets/playersImage/232120Moore.png,24.0,S. Moore,Shaquell Moore,Nashville SC,Major League Soccer,United States
-datasets/playersImage/258881Nwobodo.png,24.0,O. Nwobodo,Obinna Nwobodo,Cincinnati,Major League Soccer,Nigeria
-datasets/playersImage/244186Lima Linhares.png,24.0,Luquinhas,Lucas Lima Linhares,New York Red Bulls,Major League Soccer,Brazil
-datasets/playersImage/189280Westwood.png,24.0,A. Westwood,Ashley Westwood,Charlotte,Major League Soccer,England
-datasets/playersImage/206414Kryvtsov.png,24.0,S. Kryvtsov,Sergiy Kryvtsov,Inter Miami,Major League Soccer,Ukraine
-datasets/playersImage/209238Oliveira de Sousa.png,24.0,Jean Mota,Jean Mota Oliveira de Sousa,Inter Miami,Major League Soccer,Brazil
-datasets/playersImage/226273Davis.png,24.0,S. Davis,Sean Davis,Nashville SC,Major League Soccer,United States
-datasets/playersImage/236281Negri.png,24.0,F. Negri,Franco Negri,Inter Miami,Major League Soccer,Argentina
-datasets/playersImage/251834Tolkin.png,24.0,J. Tolkin,John Tolkin,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/251105Joveljić.png,24.0,D. Joveljić,Dejan Joveljić,LA Galaxy,Major League Soccer,Serbia
-datasets/playersImage/234249Surridge.png,24.0,S. Surridge,Sam Surridge,Nashville SC,Major League Soccer,England
-datasets/playersImage/247648Miller.png,24.0,K. Miller,Kamal Anthony Miller,Inter Miami,Major League Soccer,Canada
-datasets/playersImage/182495Cáceres.png,24.0,M. Cáceres,José Martín Cáceres Silva,LA Galaxy,Major League Soccer,Uruguay
-datasets/playersImage/202215Willis.png,24.0,J. Willis,Joe Willis,Nashville SC,Major League Soccer,United States
-datasets/playersImage/207593Uronen.png,24.0,J. Uronen,Jere Juhani Uronen,Charlotte,Major League Soccer,Finland
-datasets/playersImage/217047Godoy.png,24.0,A. Godoy,Aníbal Cesis Godoy Lemus,Nashville SC,Major League Soccer,Panama
-datasets/playersImage/240982Moreno.png,24.0,J. Moreno,Júnior Leonardo Moreno Borrero,Cincinnati,Major League Soccer,Venezuela
-datasets/playersImage/245691Barreal.png,24.0,Á. Barreal,Álvaro Martín Barreal,Cincinnati,Major League Soccer,Argentina
-datasets/playersImage/253568Campana.png,24.0,L. Campana,Leonardo Campana Romero,Inter Miami,Major League Soccer,Ecuador
-datasets/playersImage/247459Nealis.png,24.0,S. Nealis,Sean Nealis,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/253289Corujo.png,24.0,G. Corujo,Guzmán Corujo Bríccola,Charlotte,Major League Soccer,Uruguay
-datasets/playersImage/163050Sharp.png,24.0,B. Sharp,Billy Sharp,LA Galaxy,Major League Soccer,England
-datasets/playersImage/176071McCarty.png,24.0,D. McCarty,Dax McCarty,Nashville SC,Major League Soccer,United States
-datasets/playersImage/190780Johnson.png,24.0,S. Johnson,Sean Everet Johnson,Toronto FC,Major League Soccer,United States
-datasets/playersImage/201895Fagundez.png,24.0,D. Fagundez,Diego Santiago Fagúndez Pepe,LA Galaxy,Major League Soccer,Uruguay
-datasets/playersImage/208592Delgado.png,24.0,M. Delgado,Marky Delgado,LA Galaxy,Major League Soccer,United States
-datasets/playersImage/211672Boyd.png,24.0,T. Boyd,Tyler Dominic Boyd,LA Galaxy,Major League Soccer,United States
-datasets/playersImage/212722Yedlin.png,24.0,D. Yedlin,DeAndre Roselle Yedlin,Inter Miami,Major League Soccer,United States
-datasets/playersImage/221306Barrios.png,24.0,M. Barrios,Michael David Barrios Puerta,LA Galaxy,Major League Soccer,Colombia
-datasets/playersImage/221713Lovitz.png,24.0,D. Lovitz,Daniel Lovitz,Nashville SC,Major League Soccer,United States
-datasets/playersImage/237153Blessing.png,24.0,L. Blessing,Latif Blessing,Toronto FC,Major League Soccer,Ghana
-datasets/playersImage/246048Reyes.png,24.0,A. Reyes,Andrés Felipe Reyes Ambuila,New York Red Bulls,Major League Soccer,Colombia
-datasets/playersImage/233222Jóźwiak.png,24.0,K. Jóźwiak,Kamil Jóźwiak,Charlotte,Major League Soccer,Poland
-datasets/playersImage/227911Leal.png,24.0,R. Leal,Randall Enrique Leal Arley,Nashville SC,Major League Soccer,Costa Rica
-datasets/playersImage/178287Arfield.png,24.0,S. Arfield,Scott Harry Nathaniel Arfield,Charlotte,Major League Soccer,Canada
-datasets/playersImage/211239Jean.png,24.0,C. Jean,Corentin Jean,Inter Miami,Major League Soccer,France
-datasets/playersImage/230991Picault.png,24.0,Fafà Picault,Fabrice-Jean Picault,Nashville SC,Major League Soccer,Haiti
-datasets/playersImage/239944Taylor.png,24.0,R. Taylor,Robert Thomas Taylor,Inter Miami,Major League Soccer,Finland
-datasets/playersImage/254234Arroyo.png,24.0,D. Arroyo,Dixon Jair Arroyo Espinoza,Inter Miami,Major League Soccer,Ecuador
-datasets/playersImage/262998Calegari.png,24.0,Calegari,Lucas Felipe Calegari,LA Galaxy,Major League Soccer,Brazil
-datasets/playersImage/274569Avilés.png,24.0,T. Avilés,Tomás Agustín Avilés,Inter Miami,Major League Soccer,Argentina
-datasets/playersImage/247582Amaya.png,24.0,F. Amaya,Frankie Amaya,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/256666Mosquera.png,24.0,Y. Mosquera,Yerson Mosquera Valdelamar,Cincinnati,Major League Soccer,Colombia
-datasets/playersImage/266382Celentano.png,24.0,R. Celentano,Roman Celentano,Cincinnati,Major League Soccer,United States
-datasets/playersImage/254962Callender.png,24.0,D. Callender,Drake Callender,Inter Miami,Major League Soccer,United States
-datasets/playersImage/236038Duncan.png,24.0,K. Duncan,Kyle Duncan,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/237642Petretta.png,24.0,R. Petretta,Raoul Petretta,Toronto FC,Major League Soccer,Italy
-datasets/playersImage/155887Bradley.png,24.0,M. Bradley,Michael Bradley,Toronto FC,Major League Soccer,United States
-datasets/playersImage/202223Meram.png,24.0,J. Meram,Justin Meram,Charlotte,Major League Soccer,Iraq
-datasets/playersImage/221680Hagglund.png,24.0,N. Hagglund,Nick Hagglund,Cincinnati,Major League Soccer,United States
-datasets/playersImage/224330Stefanelli.png,24.0,N. Stefanelli,Nicolás Marcelo Stefanelli,Inter Miami,Major League Soccer,Argentina
-datasets/playersImage/226495Santos Gomes.png,24.0,Sergio Santos,Sergio Henrique Santos Gomes,Cincinnati,Major League Soccer,Brazil
-datasets/playersImage/258095Aude.png,24.0,J. Aude,Julián Ezequiel Aude Bernardi,LA Galaxy,Major League Soccer,Argentina
-datasets/playersImage/271779Mailula.png,24.0,C. Mailula,Cassius Mailula,Toronto FC,Major League Soccer,South Africa
-datasets/playersImage/247509Cerrillo.png,24.0,E. Cerrillo,Edwin Cerrillo,LA Galaxy,Major League Soccer,United States
-datasets/playersImage/197928Bond.png,24.0,J. Bond,Jonathan Bond,LA Galaxy,Major League Soccer,England
-datasets/playersImage/244250Owusu.png,24.0,P. Owusu,Prince Osei Owusu,Toronto FC,Major League Soccer,Germany
-datasets/playersImage/202814Byrne.png,24.0,N. Byrne,Nathan Byrne,Charlotte,Major League Soccer,England
-datasets/playersImage/217242Kubo.png,24.0,Y. Kubo,久保 裕也,Cincinnati,Major League Soccer,Japan
-datasets/playersImage/220886Tuiloma.png,24.0,B. Tuiloma,Bill Tuiloma,Charlotte,Major League Soccer,New Zealand
-datasets/playersImage/234927Edwards.png,24.0,R. Edwards,Raheem Edwards,LA Galaxy,Major League Soccer,Canada
-datasets/playersImage/241984Burke.png,24.0,C. Burke,Cory Burke,New York Red Bulls,Major League Soccer,Jamaica
-datasets/playersImage/269617Mina.png,24.0,J. Mina,Juan José Mina González,New York Red Bulls,Major League Soccer,Colombia
-datasets/playersImage/242334Lindsey.png,24.0,J. Lindsey,Jaylin Lindsey,Charlotte,Major League Soccer,United States
-datasets/playersImage/269278Gómez.png,24.0,D. Gómez,Diego Alexander Gómez Amarilla,Inter Miami,Major League Soccer,Paraguay
-datasets/playersImage/259292Maher.png,24.0,J. Maher,Jack Maher,Nashville SC,Major League Soccer,United States
-datasets/playersImage/240611Yearwood.png,24.0,D. Yearwood,Dru Yearwood,New York Red Bulls,Major League Soccer,England
-datasets/playersImage/235425Jones.png,24.0,D. Jones,Derrick Jones Amaniampong,Charlotte,Major League Soccer,United States
-datasets/playersImage/251352Shaffelburg.png,24.0,J. Shaffelburg,Jacob Shaffelburg,Nashville SC,Major League Soccer,Canada
-datasets/playersImage/189508Vázquez Solsona.png,24.0,Víctor Vázquez,Víctor Vázquez Solsona,Toronto FC,Major League Soccer,Spain
-datasets/playersImage/202220Sapong.png,24.0,C. Sapong,Charles Kwabena Sapong,Toronto FC,Major League Soccer,United States
-datasets/playersImage/207783Gaddis.png,24.0,R. Gaddis,Raymon Gaddis,Cincinnati,Major League Soccer,United States
-datasets/playersImage/216346Powell.png,24.0,A. Powell,Alvas Elvis Powell,Cincinnati,Major League Soccer,Jamaica
-datasets/playersImage/227998Badji.png,24.0,D. Badji,Dominique Badji,Cincinnati,Major League Soccer,Senegal
-datasets/playersImage/231886Muyl.png,24.0,A. Muyl,Alex Muyl,Nashville SC,Major League Soccer,United States
-datasets/playersImage/262597Malanda.png,24.0,A. Malanda,Adilson Malanda,Charlotte,Major League Soccer,France
-datasets/playersImage/266716Angulo.png,24.0,M. Angulo,Marco Antonio Angulo Solórzano,Cincinnati,Major League Soccer,Ecuador
-datasets/playersImage/256426Harper.png,24.0,C. Harper,Cameron Harper,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/237920Bronico.png,24.0,B. Bronico,Brandt Bronico,Charlotte,Major League Soccer,United States
-datasets/playersImage/189514Afful.png,24.0,H. Afful,Harrison Afful,Charlotte,Major League Soccer,Ghana
-datasets/playersImage/193278Mavinga.png,24.0,C. Mavinga,Chris Mavinga,LA Galaxy,Major League Soccer,Congo DR
-datasets/playersImage/193561Leerdam.png,24.0,K. Leerdam,Kelvin Walther Gianini Leerdam,LA Galaxy,Major League Soccer,Suriname
-datasets/playersImage/197716Bunbury.png,24.0,T. Bunbury,Teal Alexander Bunbury,Nashville SC,Major League Soccer,United States
-datasets/playersImage/204677Rosell Argerich.png,24.0,Oriol Rosell,Oriol Rosell Argerich,LA Galaxy,Major League Soccer,Spain
-datasets/playersImage/213719Kann.png,24.0,A. Kann,Alec Kann,Cincinnati,Major League Soccer,United States
-datasets/playersImage/227362Rosted.png,24.0,S. Rosted,Sigurd Rosted,Toronto FC,Major League Soccer,Norway
-datasets/playersImage/266282Kahlina.png,24.0,K. Kahlina,Kristijan Kahlina,Charlotte,Major League Soccer,Croatia
-datasets/playersImage/272687Cremaschi.png,24.0,B. Cremaschi,Benjamin Cremaschi,Inter Miami,Major League Soccer,United States
-datasets/playersImage/269913Vargas.png,24.0,K. Vargas,Kerwin Calderón Vargas,Charlotte,Major League Soccer,Colombia
-datasets/playersImage/266373Bender.png,24.0,B. Bender,Benjamin Bender,Charlotte,Major League Soccer,United States
-datasets/playersImage/242302Servania.png,24.0,B. Servania,Brandon Iván Servania,Toronto FC,Major League Soccer,United States
-datasets/playersImage/247084Fernandez.png,24.0,O. Fernandez,Omir Guadalupe Fernandez Mosso,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/239742Klinsmann.png,24.0,J. Klinsmann,Jonathan Klinsmann,LA Galaxy,Major League Soccer,United States
-datasets/playersImage/242199McVey.png,24.0,C. McVey,Christopher McVey,Inter Miami,Major League Soccer,Sweden
-datasets/playersImage/229650Gutiérrez.png,24.0,C. Gutiérrez,Cristián Daniel Gutiérrez Zúñiga,Toronto FC,Major League Soccer,Canada
-datasets/playersImage/235590Sisniega.png,24.0,P. Sisniega,Pablo Eduardo Sisniega Fink,Charlotte,Major League Soccer,Mexico
-datasets/playersImage/237215DePuy.png,24.0,N. DePuy,Nick DePuy,Nashville SC,Major League Soccer,United States
-datasets/playersImage/207610Meara.png,24.0,R. Meara,Ryan Meara,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/231987Washington.png,24.0,T. Washington,Taylor Washington,Nashville SC,Major League Soccer,United States
-datasets/playersImage/232017Alfaro Vázquez.png,24.0,Tony Alfaro,José Antonio Alfaro Vázquez,LA Galaxy,Major League Soccer,Mexico
-datasets/playersImage/260635Neal.png,24.0,J. Neal,Jalen Neal,LA Galaxy,Major League Soccer,United States
-datasets/playersImage/272770Cabezas.png,24.0,J. Cabezas,Jorge Leguín Cabezas Hurtado,New York Red Bulls,Major League Soccer,Colombia
-datasets/playersImage/266033Edelman.png,24.0,D. Edelman,Daniel Edelman,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/260772Carmona.png,24.0,W. Carmona,Wikelman José Carmona Torres,New York Red Bulls,Major League Soccer,Venezuela
-datasets/playersImage/254695Ibarra.png,24.0,F. Ibarra,Franco Gabriel Ibarra,Toronto FC,Major League Soccer,Argentina
-datasets/playersImage/268433Franklin.png,24.0,K. Franklin,Kobe Franklin,Toronto FC,Major League Soccer,Canada
-datasets/playersImage/237550Ndam.png,24.0,H. Ndam,Hassan Ndam,New York Red Bulls,Major League Soccer,Cameroon
-datasets/playersImage/250849Sobociński.png,24.0,J. Sobociński,Jan Sobociński,Charlotte,Major League Soccer,Poland
-datasets/playersImage/255031Robinson.png,24.0,R. Robinson,Robbie Robinson Belmar,Inter Miami,Major League Soccer,United States
-datasets/playersImage/260679Mabika.png,24.0,A. Mabika,Aimé Mabika,Toronto FC,Major League Soccer,Zambia
-datasets/playersImage/239826Gaines.png,24.0,O. Gaines,Orrin McKinze Gaines II,Charlotte,Major League Soccer,United States
-datasets/playersImage/255033Nealis.png,24.0,D. Nealis,Dylan Nealis,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/188107Diomande.png,24.0,A. Diomande,Adama Valentin Diomande,Toronto FC,Major League Soccer,Norway
-datasets/playersImage/211581O'Neill.png,24.0,S. O'Neill,Shane Edward O'Neill,Toronto FC,Major League Soccer,United States
-datasets/playersImage/271195Manoel.png,24.0,Elias Manoel,Elias Manoel Alves de Paula,New York Red Bulls,Major League Soccer,Brazil
-datasets/playersImage/255177Anunga.png,24.0,B. Anunga,Brian Anunga,Nashville SC,Major League Soccer,Cameroon
-datasets/playersImage/266717MacNaughton.png,24.0,L. MacNaughton,Lukas MacNaughton,Nashville SC,Major League Soccer,Canada
-datasets/playersImage/200671Ulloa.png,24.0,V. Ulloa,Victor Ulloa,Inter Miami,Major League Soccer,Mexico
-datasets/playersImage/202073Zavaleta.png,24.0,E. Zavaleta,Eriq Anthony Zavaleta Vanney,LA Galaxy,Major League Soccer,El Salvador
-datasets/playersImage/243459Barlow.png,24.0,T. Barlow,Tom Barlow,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/268130Murphy.png,24.0,I. Murphy,Ian Murphy,Cincinnati,Major League Soccer,United States
-datasets/playersImage/240388Perry.png,24.0,N. Perry,Nebiyou Perry,Nashville SC,Major League Soccer,United States
-datasets/playersImage/255335Marshall-Rutty.png,24.0,J. Marshall-Rutty,Jahkeele Marshall-Rutty,Toronto FC,Major League Soccer,Canada
-datasets/playersImage/274664Diop.png,24.0,H. Diop,Hamady Diop,Charlotte,Major League Soccer,Senegal
-datasets/playersImage/265988Silveira de Mello.png,24.0,Vinicius Mello,Vinicius Silveira de Mello,Charlotte,Major League Soccer,Brazil
-datasets/playersImage/260918Romero.png,24.0,T. Romero,Tomas Lían Romero Keubler,Toronto FC,Major League Soccer,El Salvador
-datasets/playersImage/266615Kerr.png,24.0,D. Kerr,Deandre Kerr,Toronto FC,Major League Soccer,Canada
-datasets/playersImage/263240Aguirre.png,24.0,D. Aguirre,Daniel Aguirre,LA Galaxy,Major League Soccer,United States
-datasets/playersImage/237399Louro.png,24.0,E. Louro,Evan Michael Louro,Cincinnati,Major League Soccer,United States
-datasets/playersImage/247448Ranjitsingh.png,24.0,G. Ranjitsingh,Gregory Ranjitsingh,Toronto FC,Major League Soccer,Trinidad and Tobago
-datasets/playersImage/267874Marks.png,24.0,G. Marks,George Marks,Charlotte,Major League Soccer,United States
-datasets/playersImage/267801Sailor.png,24.0,R. Sailor,Ryan Sailor,Inter Miami,Major League Soccer,United States
-datasets/playersImage/268483Judd.png,24.0,P. Judd,Preston Judd,LA Galaxy,Major League Soccer,United States
-datasets/playersImage/261874Bauer.png,24.0,J. Bauer,Josh Bauer,Nashville SC,Major League Soccer,United States
-datasets/playersImage/247753Zubak.png,24.0,E. Zubak,Ethan Zubak,Nashville SC,Major League Soccer,United States
-datasets/playersImage/256111Panicco.png,24.0,E. Panicco,Elliot Panicco,Nashville SC,Major League Soccer,United States
-datasets/playersImage/267796Ngoma.png,24.0,S. Ngoma,Serge Ngoma,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/275253Ruiz.png,24.0,D. Ruiz,David Ruiz,Inter Miami,Major League Soccer,Honduras
-datasets/playersImage/260616Saldaña.png,24.0,A. Saldaña,Adam Esparza Saldaña,LA Galaxy,Major League Soccer,United States
-datasets/playersImage/260732Fray.png,24.0,I. Fray,Ian Fray,Inter Miami,Major League Soccer,United States
-datasets/playersImage/272813Reid.png,24.0,J. Reid,Jayden Reid,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/267872Allen.png,24.0,N. Allen,Noah Allen,Inter Miami,Major League Soccer,United States
-datasets/playersImage/275032Mićović.png,24.0,N. Mićović,Novak Mićović,LA Galaxy,Major League Soccer,Serbia
-datasets/playersImage/270963Nocita.png,24.0,M. Nocita,Matthew Nocita,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/263679Ordoñez.png,24.0,A. Ordoñez,Arquimides Ordoñez,Cincinnati,Major League Soccer,Guatemala
-datasets/playersImage/273548Stroud.png,24.0,P. Stroud,Peter Stroud,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/275251Cuevas.png,24.0,M. Cuevas,Mauricio Cuevas,LA Galaxy,Major League Soccer,United States
-datasets/playersImage/274976Coello.png,24.0,A. Coello,Alonso Coello Camarero,Toronto FC,Major League Soccer,Spain
-datasets/playersImage/256106Haakenson.png,24.0,L. Haakenson,Luke Haakenson,Nashville SC,Major League Soccer,United States
-datasets/playersImage/257205Neville.png,24.0,H. Neville,Harvey Neville,Inter Miami,Major League Soccer,Republic of Ireland
-datasets/playersImage/275212Vivi.png,24.0,G. Vivi,Gino Vivi Quesada,LA Galaxy,Major League Soccer,Costa Rica
-datasets/playersImage/261022Estrela.png,24.0,B. Estrela,Bento Estrela,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/261639Ofori.png,24.0,C. Ofori,Curtis Ofori,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/260724Ferkranus.png,24.0,M. Ferkranus,Marcus Ferkranus,LA Galaxy,Major League Soccer,United States
-datasets/playersImage/272667Mbongue.png,24.0,H. Mbongue,Hugo Mbongue,Toronto FC,Major League Soccer,Canada
-datasets/playersImage/271109Longmire.png,24.0,A. Longmire,Ahmed Longmire,Nashville SC,Major League Soccer,United States
-datasets/playersImage/267636dos Santos.png,24.0,C. dos Santos,CJ dos Santos,Inter Miami,Major League Soccer,United States
-datasets/playersImage/274685Agyemang.png,24.0,P. Agyemang,Patrick Agyemang,Charlotte,Major League Soccer,Ghana
-datasets/playersImage/269091Antonoglou.png,24.0,T. Antonoglou,Themi Antonoglou,Toronto FC,Major League Soccer,Canada
-datasets/playersImage/277916Gavran.png,24.0,L. Gavran,Luka Gavran,Toronto FC,Major League Soccer,Canada
-datasets/playersImage/275469Faria.png,24.0,J. Faria,Jordan Faria,Toronto FC,Major League Soccer,Canada
-datasets/playersImage/256274Wyke.png,24.0,L. Wyke,Laurence Wyke,Nashville SC,Major League Soccer,England
-datasets/playersImage/270066Sserwadda.png,24.0,S. Sserwadda,Steven Sserwadda,New York Red Bulls,Major League Soccer,Uganda
-datasets/playersImage/261232Halsey.png,24.0,B. Halsey,Bret Halsey,Cincinnati,Major League Soccer,United States
-datasets/playersImage/267787Marcucci.png,24.0,A. Marcucci,Anthony Marcucci,New York Red Bulls,Major League Soccer,United States
-datasets/playersImage/276497Stefanović.png,24.0,L. Stefanović,Lazar Stefanović,Toronto FC,Major League Soccer,Canada
-datasets/playersImage/266281Hegardt.png,24.0,C. Hegardt,Christopher Hegardt,Charlotte,Major League Soccer,United States
-datasets/playersImage/277622Skinner.png,24.0,J. Skinner,Joey Skinner,Nashville SC,Major League Soccer,United States
-datasets/playersImage/272817Cambridge.png,24.0,B. Cambridge,Brandon Cambridge,Charlotte,Major League Soccer,United States
-datasets/playersImage/274541Foster.png,24.0,I. Foster,Isaiah Foster,Cincinnati,Major League Soccer,United States
-datasets/playersImage/274534Privett.png,24.0,A. Privett,Andrew Privett,Charlotte,Major League Soccer,United States
-datasets/playersImage/274539Akpunonu.png,24.0,J. Akpunonu,Joey Akpunonu,Cincinnati,Major League Soccer,United States
-datasets/playersImage/275115Martino.png,24.0,B. Martino,Benjamin Martino,Nashville SC,Major League Soccer,United States
-https://sofifa.com/player/275365/cole-jensen/240002,24.0,C. Jensen,Cole Jensen,Inter Miami,Major League Soccer,United States
-datasets/playersImage/274269Walters.png,24.0,P. Walters,Paul Walters,Cincinnati,Major League Soccer,United States
-datasets/playersImage/275602Valenzuela.png,24.0,G. Valenzuela,Gerardo Valenzuela,Cincinnati,Major League Soccer,United States
-datasets/playersImage/274543Pinto.png,24.0,M. Pinto,Malik Pinto,Cincinnati,Major League Soccer,United States
-datasets/playersImage/276245Aghedo.png,24.0,L. Aghedo,London Aghedo,Cincinnati,Major League Soccer,United States
-datasets/playersImage/271151Romero.png,24.0,B. Romero,Brian Romero,Charlotte,Major League Soccer,United States
+player_url,fifa_version,short_name,long_name,Team,league_name,nationality_name,alpha_3_code,picture_url,local_image_path
+https://sofifa.com/player/158023/lionel-messi/240002,24.0,L. Messi,Lionel Andrés Messi Cuccittini,Inter Miami,Major League Soccer,Argentina,ARG,https://cdn.sofifa.net/players/158/023/24_360.png,plotly-dash/assets/playersImage/Lionel_Messi_Inter_Miami_C.F..png
+https://sofifa.com/player/189332/jordi-alba-ramos/240002,24.0,Jordi Alba,Jordi Alba Ramos,Inter Miami,Major League Soccer,Spain,ESP,https://cdn.sofifa.net/players/189/332/24_360.png,plotly-dash/assets/playersImage/Jordi_Alba_Inter_Miami_C.F..png
+https://sofifa.com/player/189511/sergio-busquets-burgos/240002,24.0,Sergio Busquets,Sergio Busquets i Burgos,Inter Miami,Major League Soccer,Spain,ESP,https://cdn.sofifa.net/players/189/511/24_360.png,plotly-dash/assets/playersImage/Sergio_Busquets_Inter_Miami_C.F..png
+https://sofifa.com/player/198219/lorenzo-insigne/240002,24.0,L. Insigne,Lorenzo Insigne,Toronto FC,Major League Soccer,Italy,ITA,https://cdn.sofifa.net/players/198/219/24_360.png,plotly-dash/assets/playersImage/Lorenzo_Insigne_Toronto_FC.png
+https://sofifa.com/player/138956/giorgio-chiellini/240002,24.0,G. Chiellini,Giorgio Chiellini,LAFC,Major League Soccer,Italy,ITA,https://cdn.sofifa.net/players/138/956/24_360.png,plotly-dash/assets/playersImage/Giorgio_Chiellini_LAFC.png
+https://sofifa.com/player/169416/carlos-vela/240002,24.0,C. Vela,Carlos Alberto Vela Garrido,LAFC,Major League Soccer,Mexico,MEX,https://cdn.sofifa.net/players/169/416/24_360.png,plotly-dash/assets/playersImage/Carlos_Vela_LAFC.png
+https://sofifa.com/player/210021/hany-mukhtar/240002,24.0,H. Mukhtar,Hany Mukhtar,Nashville SC,Major League Soccer,Germany,GER,https://cdn.sofifa.net/players/210/021/24_360.png,plotly-dash/assets/playersImage/Hany_Mukhtar_Nashville_SC.png
+https://sofifa.com/player/212404/federico-bernardeschi/240002,24.0,F. Bernardeschi,Federico Bernardeschi,Toronto FC,Major League Soccer,Italy,ITA,https://cdn.sofifa.net/players/212/404/24_360.png,plotly-dash/assets/playersImage/Federico_Bernardeschi_Toronto_FC.png
+https://sofifa.com/player/225951/denis-bouanga/240002,24.0,D. Bouanga,Denis Athanase Bouanga,LAFC,Major League Soccer,Gabon,GAB,https://cdn.sofifa.net/players/225/951/24_360.png,plotly-dash/assets/playersImage/Denis_Bouanga_LAFC.png
+https://sofifa.com/player/221634/luciano-acosta/240002,24.0,L. Acosta,Luciano Federico Acosta,Cincinnati,Major League Soccer,Argentina,ARG,https://cdn.sofifa.net/players/221/634/24_360.png,plotly-dash/assets/playersImage/Luciano_Acosta_FC_Cincinnati.png
+https://sofifa.com/player/212591/walker-zimmerman/240002,24.0,W. Zimmerman,Walker Dwain Zimmerman,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/212/591/24_360.png,plotly-dash/assets/playersImage/Walker_Zimmerman_Nashville_SC.png
+https://sofifa.com/player/239910/aaron-boupendza/240002,24.0,A. Boupendza,Aaron Salem Boupendza Pozzi,Cincinnati,Major League Soccer,Gabon,GAB,https://cdn.sofifa.net/players/239/910/24_360.png,plotly-dash/assets/playersImage/Aaron_Boupendza_FC_Cincinnati.png
+https://sofifa.com/player/256287/facundo-farias/240002,24.0,F. Farías,Facundo Hernán Farías,Inter Miami,Major League Soccer,Argentina,ARG,https://cdn.sofifa.net/players/256/287/24_360.png,plotly-dash/assets/playersImage/Facundo_Farías_Inter_Miami_C.F..png
+https://sofifa.com/player/201043/brecht-dejaegere/240002,24.0,B. Dejaegere,Brecht Dejaegere,Charlotte,Major League Soccer,Belgium,BEL,https://cdn.sofifa.net/players/201/043/24_360.png,plotly-dash/assets/playersImage/Brecht_Dejaegere_Charlotte_FC.png
+https://sofifa.com/player/204259/santiago-arias/240002,24.0,S. Arias,Santiago Arias Naranjo,Cincinnati,Major League Soccer,Colombia,COL,https://cdn.sofifa.net/players/204/259/24_360.png,plotly-dash/assets/playersImage/Santiago_Arias_FC_Cincinnati.png
+https://sofifa.com/player/207877/josef-martinez/240002,24.0,J. Martínez,Josef Alexander Martínez Mencia,Inter Miami,Major League Soccer,Venezuela,VEN,https://cdn.sofifa.net/players/207/877/24_360.png,plotly-dash/assets/playersImage/Josef_Martínez_Inter_Miami_C.F..png
+https://sofifa.com/player/224301/karol-swiderski/240002,24.0,K. Świderski,Karol Świderski,Charlotte,Major League Soccer,Poland,POL,https://cdn.sofifa.net/players/224/301/24_360.png,plotly-dash/assets/playersImage/Karol_Świderski_Charlotte_FC.png
+https://sofifa.com/player/221908/lewis-morgan/240002,24.0,L. Morgan,Lewis Morgan,New York Red Bulls,Major League Soccer,Scotland,SCO,https://cdn.sofifa.net/players/221/908/24_360.png,plotly-dash/assets/playersImage/Lewis_Morgan_New_York_Red_Bulls.png
+https://sofifa.com/player/235970/mario-gonzalez-gutierrez/240002,24.0,Mario González,Mario González Gutiérrez,LAFC,Major League Soccer,Spain,ESP,https://cdn.sofifa.net/players/235/970/24_360.png,plotly-dash/assets/playersImage/Mario_González_LAFC.png
+https://sofifa.com/player/236885/brandon-vazquez/240002,24.0,B. Vazquez,Brandon Vázquez Toledo,Cincinnati,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/236/885/24_360.png,plotly-dash/assets/playersImage/Brandon_Vazquez_FC_Cincinnati.png
+https://sofifa.com/player/234905/dante-vanzeir/240002,24.0,D. Vanzeir,Dante Vanzeir,New York Red Bulls,Major League Soccer,Belgium,BEL,https://cdn.sofifa.net/players/234/905/24_360.png,plotly-dash/assets/playersImage/Dante_Vanzeir_New_York_Red_Bulls.png
+https://sofifa.com/player/213536/maxime-crepeau/240002,24.0,M. Crépeau,Maxime Crépeau,LAFC,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/213/536/24_360.png,plotly-dash/assets/playersImage/Maxime_Crépeau_LAFC.png
+https://sofifa.com/player/215565/matt-miazga/240002,24.0,M. Miazga,Matthew Miazga,Cincinnati,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/215/565/24_360.png,plotly-dash/assets/playersImage/Matt_Miazga_FC_Cincinnati.png
+https://sofifa.com/player/199562/ilie-sanchez-farres/240002,24.0,Ilie Sánchez,Ilie Sánchez Farrés,LAFC,Major League Soccer,Spain,ESP,https://cdn.sofifa.net/players/199/562/24_360.png,plotly-dash/assets/playersImage/Ilie_Sánchez_LAFC.png
+https://sofifa.com/player/213439/jonathan-osorio/240002,24.0,J. Osorio,Jonathan Osorio,Toronto FC,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/213/439/24_360.png,plotly-dash/assets/playersImage/Jonathan_Osorio_Toronto_FC.png
+https://sofifa.com/player/238332/enzo-copetti/240002,24.0,E. Copetti,Enzo Nahuel Copetti,Charlotte,Major League Soccer,Argentina,ARG,https://cdn.sofifa.net/players/238/332/24_360.png,plotly-dash/assets/playersImage/Enzo_Copetti_Charlotte_FC.png
+https://sofifa.com/player/251410/gregore-de-magalhaes-da-s/240002,24.0,Gregore,Gregore de Magalhães da S.,Inter Miami,Major League Soccer,Brazil,BRA,https://cdn.sofifa.net/players/251/410/24_360.png,plotly-dash/assets/playersImage/Gregore_Inter_Miami_C.F..png
+https://sofifa.com/player/245065/diego-palacios/240002,24.0,D. Palacios,Juan Diego Palacios Ricardo,LAFC,Major League Soccer,Ecuador,ECU,https://cdn.sofifa.net/players/245/065/24_360.png,plotly-dash/assets/playersImage/Diego_Palacios_LAFC.png
+https://sofifa.com/player/242084/carlos-miguel-coronel/240002,24.0,Carlos Coronel,Carlos Miguel Coronel,New York Red Bulls,Major League Soccer,Brazil,BRA,https://cdn.sofifa.net/players/242/084/24_360.png,plotly-dash/assets/playersImage/Carlos_Coronel_New_York_Red_Bulls.png
+https://sofifa.com/player/232120/shaquell-moore/240002,24.0,S. Moore,Shaquell Moore,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/232/120/24_360.png,plotly-dash/assets/playersImage/Shaquell_Moore_Nashville_SC.png
+https://sofifa.com/player/258881/obinna-nwobodo/240002,24.0,O. Nwobodo,Obinna Nwobodo,Cincinnati,Major League Soccer,Nigeria,NGA,https://cdn.sofifa.net/players/258/881/24_360.png,plotly-dash/assets/playersImage/Obinna_Nwobodo_FC_Cincinnati.png
+https://sofifa.com/player/244186/lucas-lima-linhares/240002,24.0,Luquinhas,Lucas Lima Linhares,New York Red Bulls,Major League Soccer,Brazil,BRA,https://cdn.sofifa.net/players/244/186/24_360.png,plotly-dash/assets/playersImage/Luquinhas_New_York_Red_Bulls.png
+https://sofifa.com/player/189280/ashley-westwood/240002,24.0,A. Westwood,Ashley Westwood,Charlotte,Major League Soccer,England,ENG,https://cdn.sofifa.net/players/189/280/24_360.png,plotly-dash/assets/playersImage/Ashley_Westwood_Charlotte_FC.png
+https://sofifa.com/player/206414/sergiy-kryvtsov/240002,24.0,S. Kryvtsov,Sergiy Kryvtsov,Inter Miami,Major League Soccer,Ukraine,UKR,https://cdn.sofifa.net/players/206/414/24_360.png,plotly-dash/assets/playersImage/Serhiy_Kryvtsov_Inter_Miami_C.F..png
+https://sofifa.com/player/209238/jean-mota-oliveira-de-sousa/240002,24.0,Jean Mota,Jean Mota Oliveira de Sousa,Inter Miami,Major League Soccer,Brazil,BRA,https://cdn.sofifa.net/players/209/238/24_360.png,plotly-dash/assets/playersImage/Jean_Mota_Inter_Miami_C.F..png
+https://sofifa.com/player/213209/kellyn-acosta/240002,24.0,K. Acosta,Kellyn Kai Perry-Acosta,LAFC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/213/209/24_360.png,plotly-dash/assets/playersImage/Kellyn_Acosta_LAFC.png
+https://sofifa.com/player/226273/sean-davis/240002,24.0,S. Davis,Sean Davis,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/226/273/24_360.png,plotly-dash/assets/playersImage/Sean_Davis_Nashville_SC.png
+https://sofifa.com/player/236281/franco-negri/240002,24.0,F. Negri,Franco Negri,Inter Miami,Major League Soccer,Argentina,ARG,https://cdn.sofifa.net/players/236/281/24_360.png,plotly-dash/assets/playersImage/Franco_Negri_Inter_Miami_C.F..png
+https://sofifa.com/player/251834/john-tolkin/240002,24.0,J. Tolkin,John Tolkin,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/251/834/24_360.png,plotly-dash/assets/playersImage/John_Tolkin_New_York_Red_Bulls.png
+https://sofifa.com/player/234249/sam-surridge/240002,24.0,S. Surridge,Sam Surridge,Nashville SC,Major League Soccer,England,ENG,https://cdn.sofifa.net/players/234/249/24_360.png,plotly-dash/assets/playersImage/Sam_Surridge_Nashville_SC.png
+https://sofifa.com/player/247648/kamal-miller/240002,24.0,K. Miller,Kamal Anthony Miller,Inter Miami,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/247/648/24_360.png,plotly-dash/assets/playersImage/Kamal_Miller_Montreal_Impact.png
+https://sofifa.com/player/247648/kamal-miller/240002,24.0,K. Miller,Kamal Anthony Miller,Inter Miami,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/247/648/24_360.png,plotly-dash/assets/playersImage/Kamal_Miller_Inter_Miami_C.F..png
+https://sofifa.com/player/219546/jesus-murillo/240002,24.0,J. Murillo,Jesús David Murillo Largacha,LAFC,Major League Soccer,Colombia,COL,https://cdn.sofifa.net/players/219/546/24_360.png,plotly-dash/assets/playersImage/Jesús_David_Murillo_Largacha_LAFC.png
+https://sofifa.com/player/202215/joe-willis/240002,24.0,J. Willis,Joe Willis,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/202/215/24_360.png,plotly-dash/assets/playersImage/Joe_Willis_Nashville_SC.png
+https://sofifa.com/player/207593/jere-uronen/240002,24.0,J. Uronen,Jere Juhani Uronen,Charlotte,Major League Soccer,Finland,FIN,https://cdn.sofifa.net/players/207/593/24_360.png,plotly-dash/assets/playersImage/Jere_Uronen_Charlotte_FC.png
+https://sofifa.com/player/217047/anibal-godoy/240002,24.0,A. Godoy,Aníbal Cesis Godoy Lemus,Nashville SC,Major League Soccer,Panama,PAN,https://cdn.sofifa.net/players/217/047/24_360.png,plotly-dash/assets/playersImage/Aníbal_Godoy_Nashville_SC.png
+https://sofifa.com/player/221488/ryan-hollingshead/240002,24.0,R. Hollingshead,Ryan Hollingshead,LAFC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/221/488/24_360.png,plotly-dash/assets/playersImage/Ryan_Hollingshead_LAFC.png
+https://sofifa.com/player/222123/aaron-long/240002,24.0,A. Long,Aaron Long,LAFC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/222/123/24_360.png,plotly-dash/assets/playersImage/Aaron_Long_LAFC.png
+https://sofifa.com/player/240982/junior-moreno/240002,24.0,J. Moreno,Júnior Leonardo Moreno Borrero,Cincinnati,Major League Soccer,Venezuela,VEN,https://cdn.sofifa.net/players/240/982/24_360.png,plotly-dash/assets/playersImage/Junior_Moreno_FC_Cincinnati.png
+https://sofifa.com/player/262585/stipe-biuk/240002,24.0,S. Biuk,Stipe Biuk,LAFC,Major League Soccer,Croatia,CRO,https://cdn.sofifa.net/players/262/585/24_360.png,plotly-dash/assets/playersImage/Stipe_Biuk_LAFC.png
+https://sofifa.com/player/245691/alvaro-barreal/240002,24.0,Á. Barreal,Álvaro Martín Barreal,Cincinnati,Major League Soccer,Argentina,ARG,https://cdn.sofifa.net/players/245/691/24_360.png,plotly-dash/assets/playersImage/Álvaro_Barreal_FC_Cincinnati.png
+https://sofifa.com/player/253568/leonardo-campana/240002,24.0,L. Campana,Leonardo Campana Romero,Inter Miami,Major League Soccer,Ecuador,ECU,https://cdn.sofifa.net/players/253/568/24_360.png,plotly-dash/assets/playersImage/Leonardo_Campana_Inter_Miami_C.F..png
+https://sofifa.com/player/247459/sean-nealis/240002,24.0,S. Nealis,Sean Nealis,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/247/459/24_360.png,plotly-dash/assets/playersImage/Sean_Nealis_New_York_Red_Bulls.png
+https://sofifa.com/player/228321/sergi-palencia-hurtado/240002,24.0,Sergi Palencia,Sergi Palencia Hurtado,LAFC,Major League Soccer,Spain,ESP,https://cdn.sofifa.net/players/228/321/24_360.png,plotly-dash/assets/playersImage/Sergi_Palencia_LAFC.png
+https://sofifa.com/player/253289/guzman-corujo/240002,24.0,G. Corujo,Guzmán Corujo Bríccola,Charlotte,Major League Soccer,Uruguay,URU,https://cdn.sofifa.net/players/253/289/24_360.png,plotly-dash/assets/playersImage/Guzmán_Corujo_Charlotte_FC.png
+https://sofifa.com/player/176071/dax-mccarty/240002,24.0,D. McCarty,Dax McCarty,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/176/071/24_360.png,plotly-dash/assets/playersImage/Dax_McCarty_Nashville_SC.png
+https://sofifa.com/player/190780/sean-johnson/240002,24.0,S. Johnson,Sean Everet Johnson,Toronto FC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/190/780/24_360.png,plotly-dash/assets/playersImage/Sean_Johnson_Toronto_FC.png
+https://sofifa.com/player/212722/deandre-yedlin/240002,24.0,D. Yedlin,DeAndre Roselle Yedlin,Inter Miami,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/212/722/24_360.png,plotly-dash/assets/playersImage/DeAndre_Yedlin_Inter_Miami_C.F..png
+https://sofifa.com/player/221713/daniel-lovitz/240002,24.0,D. Lovitz,Daniel Lovitz,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/221/713/24_360.png,plotly-dash/assets/playersImage/Daniel_Lovitz_Nashville_SC.png
+https://sofifa.com/player/237153/latif-blessing/240002,24.0,L. Blessing,Latif Blessing,Toronto FC,Major League Soccer,Ghana,GHA,https://cdn.sofifa.net/players/237/153/24_360.png,plotly-dash/assets/playersImage/Latif_Blessing_New_England_Revolution.png
+https://sofifa.com/player/237153/latif-blessing/240002,24.0,L. Blessing,Latif Blessing,Toronto FC,Major League Soccer,Ghana,GHA,https://cdn.sofifa.net/players/237/153/24_360.png,plotly-dash/assets/playersImage/Latif_Blessing_Toronto_FC.png
+https://sofifa.com/player/246048/andres-reyes/240002,24.0,A. Reyes,Andrés Felipe Reyes Ambuila,New York Red Bulls,Major League Soccer,Colombia,COL,https://cdn.sofifa.net/players/246/048/24_360.png,plotly-dash/assets/playersImage/Andrés_Reyes_New_York_Red_Bulls.png
+https://sofifa.com/player/255316/denil-maldonado/240002,24.0,D. Maldonado,Denil Omar Maldonado Munguía,LAFC,Major League Soccer,Honduras,HON,https://cdn.sofifa.net/players/255/316/24_360.png,plotly-dash/assets/playersImage/Denil_Maldonado_LAFC.png
+https://sofifa.com/player/237245/eddie-segura/240002,24.0,E. Segura,Eddie Livington Segura Martínez,LAFC,Major League Soccer,Colombia,COL,https://cdn.sofifa.net/players/237/245/24_360.png,plotly-dash/assets/playersImage/E._Segura_LAFC.png
+https://sofifa.com/player/233222/kamil-jozwiak/240002,24.0,K. Jóźwiak,Kamil Jóźwiak,Charlotte,Major League Soccer,Poland,POL,https://cdn.sofifa.net/players/233/222/24_360.png,plotly-dash/assets/playersImage/Kamil_Jóźwiak_Charlotte_FC.png
+https://sofifa.com/player/227911/randall-leal/240002,24.0,R. Leal,Randall Enrique Leal Arley,Nashville SC,Major League Soccer,Costa Rica,CRC,https://cdn.sofifa.net/players/227/911/24_360.png,plotly-dash/assets/playersImage/Randall_Leal_Nashville_SC.png
+https://sofifa.com/player/178287/scott-arfield/240002,24.0,S. Arfield,Scott Harry Nathaniel Arfield,Charlotte,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/178/287/24_360.png,plotly-dash/assets/playersImage/Scott_Arfield_Charlotte_FC.png
+https://sofifa.com/player/211239/corentin-jean/240002,24.0,C. Jean,Corentin Jean,Inter Miami,Major League Soccer,France,FRA,https://cdn.sofifa.net/players/211/239/24_360.png,plotly-dash/assets/playersImage/Corentin_Jean_Inter_Miami_C.F..png
+https://sofifa.com/player/230991/fabrice-jean-picault/240002,24.0,Fafà Picault,Fabrice-Jean Picault,Nashville SC,Major League Soccer,Haiti,HAI,https://cdn.sofifa.net/players/230/991/24_360.png,plotly-dash/assets/playersImage/Fafà_Picault_Nashville_SC.png
+https://sofifa.com/player/239944/robert-taylor/240002,24.0,R. Taylor,Robert Thomas Taylor,Inter Miami,Major League Soccer,Finland,FIN,https://cdn.sofifa.net/players/239/944/24_360.png,plotly-dash/assets/playersImage/Robert_Taylor_Inter_Miami_C.F..png
+https://sofifa.com/player/254234/dixon-arroyo/240002,24.0,D. Arroyo,Dixon Jair Arroyo Espinoza,Inter Miami,Major League Soccer,Ecuador,ECU,https://cdn.sofifa.net/players/254/234/24_360.png,plotly-dash/assets/playersImage/Dixon_Arroyo_Inter_Miami_C.F..png
+https://sofifa.com/player/274569/tomas-aviles/240002,24.0,T. Avilés,Tomás Agustín Avilés,Inter Miami,Major League Soccer,Argentina,ARG,https://cdn.sofifa.net/players/274/569/24_360.png,plotly-dash/assets/playersImage/Tomás_Avilés_Inter_Miami_C.F..png
+https://sofifa.com/player/258819/cristian-olivera/240002,24.0,C. Olivera,Cristian Gonzalo Olivera Ibarra,LAFC,Major League Soccer,Uruguay,URU,https://cdn.sofifa.net/players/258/819/24_360.png,plotly-dash/assets/playersImage/Cristian_Olivera_LAFC.png
+https://sofifa.com/player/247582/frankie-amaya/240002,24.0,F. Amaya,Frankie Amaya,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/247/582/24_360.png,plotly-dash/assets/playersImage/Frankie_Amaya_New_York_Red_Bulls.png
+https://sofifa.com/player/256666/yerson-mosquera/240002,24.0,Y. Mosquera,Yerson Mosquera Valdelamar,Cincinnati,Major League Soccer,Colombia,COL,https://cdn.sofifa.net/players/256/666/24_360.png,plotly-dash/assets/playersImage/Yerson_Mosquera_FC_Cincinnati.png
+https://sofifa.com/player/266382/roman-celentano/240002,24.0,R. Celentano,Roman Celentano,Cincinnati,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/266/382/24_360.png,plotly-dash/assets/playersImage/Roman_Celentano_FC_Cincinnati.png
+https://sofifa.com/player/240319/timothy-tillman/240002,24.0,T. Tillman,Timothy Tillman,LAFC,Major League Soccer,Germany,GER,https://cdn.sofifa.net/players/240/319/24_360.png,plotly-dash/assets/playersImage/Timmy_Tillman_LAFC.png
+https://sofifa.com/player/254962/drake-callender/240002,24.0,D. Callender,Drake Callender,Inter Miami,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/254/962/24_360.png,plotly-dash/assets/playersImage/Drake_Callender_Inter_Miami_C.F..png
+https://sofifa.com/player/236038/kyle-duncan/240002,24.0,K. Duncan,Kyle Duncan,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/236/038/24_360.png,plotly-dash/assets/playersImage/Kyle_Duncan_New_York_Red_Bulls.png
+https://sofifa.com/player/237642/raoul-petretta/240002,24.0,R. Petretta,Raoul Petretta,Toronto FC,Major League Soccer,Italy,ITA,https://cdn.sofifa.net/players/237/642/24_360.png,plotly-dash/assets/playersImage/Raoul_Petretta_Toronto_FC.png
+https://sofifa.com/player/155887/michael-bradley/240002,24.0,M. Bradley,Michael Bradley,Toronto FC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/155/887/24_360.png,plotly-dash/assets/playersImage/Michael_Bradley_Toronto_FC.png
+https://sofifa.com/player/202223/justin-meram/240002,24.0,J. Meram,Justin Meram,Charlotte,Major League Soccer,Iraq,IRQ,https://cdn.sofifa.net/players/202/223/24_360.png,plotly-dash/assets/playersImage/Justin_Meram_Charlotte_FC.png
+https://sofifa.com/player/202223/justin-meram/240002,24.0,J. Meram,Justin Meram,Charlotte,Major League Soccer,Iraq,IRQ,https://cdn.sofifa.net/players/202/223/24_360.png,plotly-dash/assets/playersImage/Justin_Meram_Real_Salt_Lake.png
+https://sofifa.com/player/221680/nick-hagglund/240002,24.0,N. Hagglund,Nick Hagglund,Cincinnati,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/221/680/24_360.png,plotly-dash/assets/playersImage/Nick_Hagglund_FC_Cincinnati.png
+https://sofifa.com/player/224330/nicolas-stefanelli/240002,24.0,N. Stefanelli,Nicolás Marcelo Stefanelli,Inter Miami,Major League Soccer,Argentina,ARG,https://cdn.sofifa.net/players/224/330/24_360.png,plotly-dash/assets/playersImage/Nicolás_Stefanelli_Inter_Miami_C.F..png
+https://sofifa.com/player/226495/sergio-henrique-santos-gomes/240002,24.0,Sergio Santos,Sergio Henrique Santos Gomes,Cincinnati,Major League Soccer,Brazil,BRA,https://cdn.sofifa.net/players/226/495/24_360.png,plotly-dash/assets/playersImage/Sergio_Santos_Gomes_FC_Cincinnati.png
+https://sofifa.com/player/271779/cassius-mailula/240002,24.0,C. Mailula,Cassius Mailula,Toronto FC,Major League Soccer,South Africa,RSA,https://cdn.sofifa.net/players/271/779/24_360.png,plotly-dash/assets/playersImage/Cassius_Mailula_Toronto_FC.png
+https://sofifa.com/player/244250/prince-osei-owusu/240002,24.0,P. Owusu,Prince Osei Owusu,Toronto FC,Major League Soccer,Germany,GER,https://cdn.sofifa.net/players/244/250/24_360.png,plotly-dash/assets/playersImage/Prince_Osei_Owusu_Toronto_FC.png
+https://sofifa.com/player/202814/nathan-byrne/240002,24.0,N. Byrne,Nathan Byrne,Charlotte,Major League Soccer,England,ENG,https://cdn.sofifa.net/players/202/814/24_360.png,plotly-dash/assets/playersImage/Nathan_Byrne_Charlotte_FC.png
+https://sofifa.com/player/217242/yuya-kubo/240002,24.0,Y. Kubo,久保 裕也,Cincinnati,Major League Soccer,Japan,JPN,https://cdn.sofifa.net/players/217/242/24_360.png,plotly-dash/assets/playersImage/Yuya_Kubo_FC_Cincinnati.png
+https://sofifa.com/player/220886/bill-tuiloma/240002,24.0,B. Tuiloma,Bill Tuiloma,Charlotte,Major League Soccer,New Zealand,NZL,https://cdn.sofifa.net/players/220/886/24_360.png,plotly-dash/assets/playersImage/Bill_Tuiloma_Charlotte_FC.png
+https://sofifa.com/player/227909/john-mccarthy/240002,24.0,J. McCarthy,John McCarthy,LAFC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/227/909/24_360.png,plotly-dash/assets/playersImage/John_McCarthy_LAFC.png
+https://sofifa.com/player/241984/cory-burke/240002,24.0,C. Burke,Cory Burke,New York Red Bulls,Major League Soccer,Jamaica,JAM,https://cdn.sofifa.net/players/241/984/24_360.png,plotly-dash/assets/playersImage/Cory_Burke_New_York_Red_Bulls.png
+https://sofifa.com/player/269617/juan-jose-mina/240002,24.0,J. Mina,Juan José Mina González,New York Red Bulls,Major League Soccer,Colombia,COL,https://cdn.sofifa.net/players/269/617/24_360.png,plotly-dash/assets/playersImage/J._Mina_New_York_Red_Bulls.png
+https://sofifa.com/player/242334/jaylin-lindsey/240002,24.0,J. Lindsey,Jaylin Lindsey,Charlotte,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/242/334/24_360.png,plotly-dash/assets/playersImage/Jaylin_Lindsey_Charlotte_FC.png
+https://sofifa.com/player/269278/diego-gomez/240002,24.0,D. Gómez,Diego Alexander Gómez Amarilla,Inter Miami,Major League Soccer,Paraguay,PAR,https://cdn.sofifa.net/players/269/278/24_360.png,plotly-dash/assets/playersImage/Diego_Gómez_Inter_Miami_C.F..png
+https://sofifa.com/player/259292/jack-maher/240002,24.0,J. Maher,Jack Maher,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/259/292/24_360.png,plotly-dash/assets/playersImage/Jack_Maher_Nashville_SC.png
+https://sofifa.com/player/240611/dru-yearwood/240002,24.0,D. Yearwood,Dru Yearwood,New York Red Bulls,Major League Soccer,England,ENG,https://cdn.sofifa.net/players/240/611/24_360.png,plotly-dash/assets/playersImage/Dru_Yearwood_New_York_Red_Bulls.png
+https://sofifa.com/player/235425/derrick-jones/240002,24.0,D. Jones,Derrick Jones Amaniampong,Charlotte,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/235/425/24_360.png,plotly-dash/assets/playersImage/Derrick_Jones_Charlotte_FC.png
+https://sofifa.com/player/251352/jacob-shaffelburg/240002,24.0,J. Shaffelburg,Jacob Shaffelburg,Nashville SC,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/251/352/24_360.png,plotly-dash/assets/playersImage/Jacob_Shaffelburg_Nashville_SC.png
+https://sofifa.com/player/189508/victor-vazquez-solsona/240002,24.0,Víctor Vázquez,Víctor Vázquez Solsona,Toronto FC,Major League Soccer,Spain,ESP,https://cdn.sofifa.net/players/189/508/24_360.png,plotly-dash/assets/playersImage/Víctor_Vázquez_Toronto_FC.png
+https://sofifa.com/player/202220/cj-sapong/240002,24.0,C. Sapong,Charles Kwabena Sapong,Toronto FC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/202/220/24_360.png,plotly-dash/assets/playersImage/C.J._Sapong_Nashville_SC.png
+https://sofifa.com/player/202220/cj-sapong/240002,24.0,C. Sapong,Charles Kwabena Sapong,Toronto FC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/202/220/24_360.png,plotly-dash/assets/playersImage/C.J._Sapong_Toronto_FC.png
+https://sofifa.com/player/207783/raymon-gaddis/240002,24.0,R. Gaddis,Raymon Gaddis,Cincinnati,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/207/783/24_360.png,plotly-dash/assets/playersImage/Ray_Gaddis_FC_Cincinnati.png
+https://sofifa.com/player/216346/alvas-powell/240002,24.0,A. Powell,Alvas Elvis Powell,Cincinnati,Major League Soccer,Jamaica,JAM,https://cdn.sofifa.net/players/216/346/24_360.png,plotly-dash/assets/playersImage/Alvas_Powell_FC_Cincinnati.png
+https://sofifa.com/player/227998/dominique-badji/240002,24.0,D. Badji,Dominique Badji,Cincinnati,Major League Soccer,Senegal,SEN,https://cdn.sofifa.net/players/227/998/24_360.png,plotly-dash/assets/playersImage/Dominique_Badji_FC_Cincinnati.png
+https://sofifa.com/player/231886/alex-muyl/240002,24.0,A. Muyl,Alex Muyl,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/231/886/24_360.png,plotly-dash/assets/playersImage/Alex_Muyl_Nashville_SC.png
+https://sofifa.com/player/247351/mateusz-bogusz/240002,24.0,M. Bogusz,Mateusz Piotr Bogusz,LAFC,Major League Soccer,Poland,POL,https://cdn.sofifa.net/players/247/351/24_360.png,plotly-dash/assets/playersImage/Mateusz_Bogusz_LAFC.png
+https://sofifa.com/player/262597/adilson-malanda/240002,24.0,A. Malanda,Adilson Malanda,Charlotte,Major League Soccer,France,FRA,https://cdn.sofifa.net/players/262/597/24_360.png,plotly-dash/assets/playersImage/Adilson_Malanda_Charlotte_FC.png
+https://sofifa.com/player/266716/marco-antonio-angulo/240002,24.0,M. Angulo,Marco Antonio Angulo Solórzano,Cincinnati,Major League Soccer,Ecuador,ECU,https://cdn.sofifa.net/players/266/716/24_360.png,plotly-dash/assets/playersImage/Marco_Angulo_FC_Cincinnati.png
+https://sofifa.com/player/256426/cameron-harper/240002,24.0,C. Harper,Cameron Harper,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/256/426/24_360.png,plotly-dash/assets/playersImage/Cameron_Harper_New_York_Red_Bulls.png
+https://sofifa.com/player/237920/brandt-bronico/240002,24.0,B. Bronico,Brandt Bronico,Charlotte,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/237/920/24_360.png,plotly-dash/assets/playersImage/Brandt_Bronico_Charlotte_FC.png
+https://sofifa.com/player/189514/harrison-afful/240002,24.0,H. Afful,Harrison Afful,Charlotte,Major League Soccer,Ghana,GHA,https://cdn.sofifa.net/players/189/514/24_360.png,plotly-dash/assets/playersImage/Harrison_Afful_Charlotte_FC.png
+https://sofifa.com/player/197716/teal-bunbury/240002,24.0,T. Bunbury,Teal Alexander Bunbury,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/197/716/24_360.png,plotly-dash/assets/playersImage/Teal_Bunbury_Nashville_SC.png
+https://sofifa.com/player/213719/alec-kann/240002,24.0,A. Kann,Alec Kann,Cincinnati,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/213/719/24_360.png,plotly-dash/assets/playersImage/Alec_Kann_FC_Cincinnati.png
+https://sofifa.com/player/227362/sigurd-rosted/240002,24.0,S. Rosted,Sigurd Rosted,Toronto FC,Major League Soccer,Norway,NOR,https://cdn.sofifa.net/players/227/362/24_360.png,plotly-dash/assets/playersImage/Sigurd_Rosted_Toronto_FC.png
+https://sofifa.com/player/266282/kristijan-kahlina/240002,24.0,K. Kahlina,Kristijan Kahlina,Charlotte,Major League Soccer,Croatia,CRO,https://cdn.sofifa.net/players/266/282/24_360.png,plotly-dash/assets/playersImage/Kristijan_Kahlina_Charlotte_FC.png
+https://sofifa.com/player/272687/benjamin-cremaschi/240002,24.0,B. Cremaschi,Benjamin Cremaschi,Inter Miami,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/272/687/24_360.png,plotly-dash/assets/playersImage/Ben_Cremaschi_Inter_Miami_C.F..png
+https://sofifa.com/player/258500/filip-krastev/240002,24.0,F. Krastev,Filip Yavorov Krastev,LAFC,Major League Soccer,Bulgaria,BUL,https://cdn.sofifa.net/players/258/500/24_360.png,plotly-dash/assets/playersImage/Filip_Krastev_LAFC.png
+https://sofifa.com/player/269913/kerwin-vargas/240002,24.0,K. Vargas,Kerwin Calderón Vargas,Charlotte,Major League Soccer,Colombia,COL,https://cdn.sofifa.net/players/269/913/24_360.png,plotly-dash/assets/playersImage/Kerwin_Vargas_Charlotte_FC.png
+https://sofifa.com/player/266373/ben-bender/240002,24.0,B. Bender,Benjamin Bender,Charlotte,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/266/373/24_360.png,plotly-dash/assets/playersImage/Ben_Bender_Charlotte_FC.png
+https://sofifa.com/player/242302/brandon-servania/240002,24.0,B. Servania,Brandon Iván Servania,Toronto FC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/242/302/24_360.png,plotly-dash/assets/playersImage/Brandon_Servania_Toronto_FC.png
+https://sofifa.com/player/247084/omir-fernandez/240002,24.0,O. Fernandez,Omir Guadalupe Fernandez Mosso,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/247/084/24_360.png,plotly-dash/assets/playersImage/Omir_Fernandez_New_York_Red_Bulls.png
+https://sofifa.com/player/242199/christopher-mcvey/240002,24.0,C. McVey,Christopher McVey,Inter Miami,Major League Soccer,Sweden,SWE,https://cdn.sofifa.net/players/242/199/24_360.png,plotly-dash/assets/playersImage/Christopher_McVey_Inter_Miami_C.F..png
+https://sofifa.com/player/229650/cristian-gutierrez/240002,24.0,C. Gutiérrez,Cristián Daniel Gutiérrez Zúñiga,Toronto FC,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/229/650/24_360.png,plotly-dash/assets/playersImage/Cristián_Gutiérrez_Toronto_FC.png
+https://sofifa.com/player/235590/pablo-sisniega/240002,24.0,P. Sisniega,Pablo Eduardo Sisniega Fink,Charlotte,Major League Soccer,Mexico,MEX,https://cdn.sofifa.net/players/235/590/24_360.png,plotly-dash/assets/playersImage/Pablo_Sisniega_Charlotte_FC.png
+https://sofifa.com/player/237215/nick-depuy/240002,24.0,N. DePuy,Nick DePuy,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/237/215/24_360.png,plotly-dash/assets/playersImage/N._DePuy_Nashville_SC.png
+https://sofifa.com/player/207610/ryan-meara/240002,24.0,R. Meara,Ryan Meara,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/207/610/24_360.png,plotly-dash/assets/playersImage/R._Meara_New_York_Red_Bulls.png
+https://sofifa.com/player/231987/taylor-washington/240002,24.0,T. Washington,Taylor Washington,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/231/987/24_360.png,plotly-dash/assets/playersImage/Taylor_Washington_Nashville_SC.png
+https://sofifa.com/player/272770/jorge-cabezas/240002,24.0,J. Cabezas,Jorge Leguín Cabezas Hurtado,New York Red Bulls,Major League Soccer,Colombia,COL,https://cdn.sofifa.net/players/272/770/24_360.png,plotly-dash/assets/playersImage/Jorge_Cabezas_New_York_Red_Bulls.png
+https://sofifa.com/player/266033/daniel-edelman/240002,24.0,D. Edelman,Daniel Edelman,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/266/033/24_360.png,plotly-dash/assets/playersImage/Daniel_Edelman_New_York_Red_Bulls.png
+https://sofifa.com/player/260772/wikelman-carmona/240002,24.0,W. Carmona,Wikelman José Carmona Torres,New York Red Bulls,Major League Soccer,Venezuela,VEN,https://cdn.sofifa.net/players/260/772/24_360.png,plotly-dash/assets/playersImage/Wikelman_Carmona_New_York_Red_Bulls.png
+https://sofifa.com/player/254695/franco-ibarra/240002,24.0,F. Ibarra,Franco Gabriel Ibarra,Toronto FC,Major League Soccer,Argentina,ARG,https://cdn.sofifa.net/players/254/695/24_360.png,plotly-dash/assets/playersImage/Franco_Ibarra_Atlanta_United_FC.png
+https://sofifa.com/player/254695/franco-ibarra/240002,24.0,F. Ibarra,Franco Gabriel Ibarra,Toronto FC,Major League Soccer,Argentina,ARG,https://cdn.sofifa.net/players/254/695/24_360.png,plotly-dash/assets/playersImage/Franco_Ibarra_Toronto_FC.png
+https://sofifa.com/player/268433/kobe-franklin/240002,24.0,K. Franklin,Kobe Franklin,Toronto FC,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/268/433/24_360.png,plotly-dash/assets/playersImage/Kobe_Franklin_Toronto_FC.png
+https://sofifa.com/player/237550/hassan-ndam/240002,24.0,H. Ndam,Hassan Ndam,New York Red Bulls,Major League Soccer,Cameroon,CMR,https://cdn.sofifa.net/players/237/550/24_360.png,plotly-dash/assets/playersImage/Hassan_Ndam_New_York_Red_Bulls.png
+https://sofifa.com/player/250849/jan-sobocinski/240002,24.0,J. Sobociński,Jan Sobociński,Charlotte,Major League Soccer,Poland,POL,https://cdn.sofifa.net/players/250/849/24_360.png,plotly-dash/assets/playersImage/Jan_Sobociński_Charlotte_FC.png
+https://sofifa.com/player/255031/robbie-robinson/240002,24.0,R. Robinson,Robbie Robinson Belmar,Inter Miami,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/255/031/24_360.png,plotly-dash/assets/playersImage/Robbie_Robinson_Inter_Miami_C.F..png
+https://sofifa.com/player/260679/aime-mabika/240002,24.0,A. Mabika,Aimé Mabika,Toronto FC,Major League Soccer,Zambia,ZAM,https://cdn.sofifa.net/players/260/679/24_360.png,plotly-dash/assets/playersImage/Aimé_Mabika_Toronto_FC.png
+https://sofifa.com/player/239826/orrin-mckinze-gaines/240002,24.0,O. Gaines,Orrin McKinze Gaines II,Charlotte,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/239/826/24_360.png,plotly-dash/assets/playersImage/McKinze_Gaines_Charlotte_FC.png
+https://sofifa.com/player/255033/dylan-nealis/240002,24.0,D. Nealis,Dylan Nealis,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/255/033/24_360.png,plotly-dash/assets/playersImage/Dylan_Nealis_New_York_Red_Bulls.png
+https://sofifa.com/player/52326/eldin-jakupovic/240002,24.0,E. Jakupović,Eldin Jakupović,LAFC,Major League Soccer,Switzerland,SUI,https://cdn.sofifa.net/players/052/326/24_360.png,plotly-dash/assets/playersImage/Eldin_Jakupović_LAFC.png
+https://sofifa.com/player/188107/adama-diomande/240002,24.0,A. Diomande,Adama Valentin Diomande,Toronto FC,Major League Soccer,Norway,NOR,https://cdn.sofifa.net/players/188/107/24_360.png,plotly-dash/assets/playersImage/Adama_Diomande_Toronto_FC.png
+https://sofifa.com/player/211581/shane-oneill/240002,24.0,S. O'Neill,Shane Edward O'Neill,Toronto FC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/211/581/24_360.png,plotly-dash/assets/playersImage/Shane_O'Neill_Toronto_FC.png
+https://sofifa.com/player/271195/elias-manoel/240002,24.0,Elias Manoel,Elias Manoel Alves de Paula,New York Red Bulls,Major League Soccer,Brazil,BRA,https://cdn.sofifa.net/players/271/195/24_360.png,plotly-dash/assets/playersImage/Elias_Manoel_New_York_Red_Bulls.png
+https://sofifa.com/player/255177/brian-anunga/240002,24.0,B. Anunga,Brian Anunga,Nashville SC,Major League Soccer,Cameroon,CMR,https://cdn.sofifa.net/players/255/177/24_360.png,plotly-dash/assets/playersImage/Brian_Anunga_Nashville_SC.png
+https://sofifa.com/player/266717/lukas-macnaughton/240002,24.0,L. MacNaughton,Lukas MacNaughton,Nashville SC,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/266/717/24_360.png,plotly-dash/assets/playersImage/Lukas_MacNaughton_Nashville_SC.png
+https://sofifa.com/player/266717/lukas-macnaughton/240002,24.0,L. MacNaughton,Lukas MacNaughton,Nashville SC,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/266/717/24_360.png,plotly-dash/assets/playersImage/Lukas_MacNaughton_Toronto_FC.png
+https://sofifa.com/player/200671/victor-ulloa/240002,24.0,V. Ulloa,Victor Ulloa,Inter Miami,Major League Soccer,Mexico,MEX,https://cdn.sofifa.net/players/200/671/24_360.png,plotly-dash/assets/playersImage/Victor_Ulloa_Inter_Miami_C.F..png
+https://sofifa.com/player/243459/tom-barlow/240002,24.0,T. Barlow,Tom Barlow,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/243/459/24_360.png,plotly-dash/assets/playersImage/Tom_Barlow_New_York_Red_Bulls.png
+https://sofifa.com/player/268130/ian-murphy/240002,24.0,I. Murphy,Ian Murphy,Cincinnati,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/268/130/24_360.png,plotly-dash/assets/playersImage/Ian_Murphy_FC_Cincinnati.png
+https://sofifa.com/player/240388/nebiyou-perry/240002,24.0,N. Perry,Nebiyou Perry,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/240/388/24_360.png,plotly-dash/assets/playersImage/N._Perry_Nashville_SC.png
+https://sofifa.com/player/255335/jahkeele-marshall-rutty/240002,24.0,J. Marshall-Rutty,Jahkeele Marshall-Rutty,Toronto FC,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/255/335/24_360.png,plotly-dash/assets/playersImage/Jahkeele_Marshall-Rutty_Toronto_FC.png
+https://sofifa.com/player/274664/hamady-diop/240002,24.0,H. Diop,Hamady Diop,Charlotte,Major League Soccer,Senegal,SEN,https://cdn.sofifa.net/players/274/664/24_360.png,plotly-dash/assets/playersImage/Hamady_Diop_Charlotte_FC.png
+https://sofifa.com/player/265988/vinicius-silveira-de-mello/240002,24.0,Vinicius Mello,Vinicius Silveira de Mello,Charlotte,Major League Soccer,Brazil,BRA,https://cdn.sofifa.net/players/265/988/24_360.png,plotly-dash/assets/playersImage/Vinicius_Mello_Charlotte_FC.png
+https://sofifa.com/player/260918/tomas-romero/240002,24.0,T. Romero,Tomas Lían Romero Keubler,Toronto FC,Major League Soccer,El Salvador,SLV,https://cdn.sofifa.net/players/260/918/24_360.png,plotly-dash/assets/playersImage/Tomas_Romero_Toronto_FC.png
+https://sofifa.com/player/266615/deandre-kerr/240002,24.0,D. Kerr,Deandre Kerr,Toronto FC,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/266/615/24_360.png,plotly-dash/assets/playersImage/Deandre_Kerr_Toronto_FC.png
+https://sofifa.com/player/237399/evan-louro/240002,24.0,E. Louro,Evan Michael Louro,Cincinnati,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/237/399/24_360.png,plotly-dash/assets/playersImage/E._Louro_Cincinnati.png
+https://sofifa.com/player/247448/greg-ranjitsingh/240002,24.0,G. Ranjitsingh,Gregory Ranjitsingh,Toronto FC,Major League Soccer,Trinidad and Tobago,TRI,https://cdn.sofifa.net/players/247/448/24_360.png,plotly-dash/assets/playersImage/Greg_Ranjitsingh_Toronto_FC.png
+https://sofifa.com/player/267874/george-marks/240002,24.0,G. Marks,George Marks,Charlotte,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/267/874/24_360.png,plotly-dash/assets/playersImage/George_Marks_Charlotte_FC.png
+https://sofifa.com/player/267801/ryan-sailor/240002,24.0,R. Sailor,Ryan Sailor,Inter Miami,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/267/801/24_360.png,plotly-dash/assets/playersImage/Ryan_Sailor_Inter_Miami_C.F..png
+https://sofifa.com/player/239993/abraham-romero/240002,24.0,A. Romero,Abraham Romero,LAFC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/239/993/24_360.png,plotly-dash/assets/playersImage/A._Romero_LAFC.png
+https://sofifa.com/player/261874/josh-bauer/240002,24.0,J. Bauer,Josh Bauer,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/261/874/24_360.png,plotly-dash/assets/playersImage/Josh_Bauer_Nashville_SC.png
+https://sofifa.com/player/247753/ethan-zubak/240002,24.0,E. Zubak,Ethan Zubak,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/247/753/24_360.png,plotly-dash/assets/playersImage/Ethan_Zubak_Nashville_SC.png
+https://sofifa.com/player/256111/elliot-panicco/240002,24.0,E. Panicco,Elliot Panicco,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/256/111/24_360.png,plotly-dash/assets/playersImage/Elliot_Panicco_Nashville_SC.png
+https://sofifa.com/player/267796/serge-ngoma/240002,24.0,S. Ngoma,Serge Ngoma,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/267/796/24_360.png,plotly-dash/assets/playersImage/S._Ngoma_New_York_Red_Bulls.png
+https://sofifa.com/player/275253/david-ruiz/240002,24.0,D. Ruiz,David Ruiz,Inter Miami,Major League Soccer,Honduras,HON,https://cdn.sofifa.net/players/275/253/24_360.png,plotly-dash/assets/playersImage/David_Ruiz_Inter_Miami_C.F..png
+https://sofifa.com/player/260732/ian-fray/240002,24.0,I. Fray,Ian Fray,Inter Miami,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/260/732/24_360.png,plotly-dash/assets/playersImage/Ian_Fray_Inter_Miami_C.F..png
+https://sofifa.com/player/272813/jayden-reid/240002,24.0,J. Reid,Jayden Reid,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/272/813/24_360.png,plotly-dash/assets/playersImage/Jayden_Reid_New_York_Red_Bulls.png
+https://sofifa.com/player/262209/erik-duenas/240002,24.0,E. Dueñas,Erik Dueñas,LAFC,Major League Soccer,Mexico,MEX,https://cdn.sofifa.net/players/262/209/24_360.png,plotly-dash/assets/playersImage/Erik_Duenas_LAFC.png
+https://sofifa.com/player/267872/noah-allen/240002,24.0,N. Allen,Noah Allen,Inter Miami,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/267/872/24_360.png,plotly-dash/assets/playersImage/Noah_Allen_Inter_Miami_C.F..png
+https://sofifa.com/player/270963/matthew-nocita/240002,24.0,M. Nocita,Matthew Nocita,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/270/963/24_360.png,plotly-dash/assets/playersImage/Matt_Nocita_New_York_Red_Bulls.png
+https://sofifa.com/player/263995/daniel-crisostomo/240002,24.0,D. Crisostomo,Daniel Crisostomo,LAFC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/263/995/24_360.png,plotly-dash/assets/playersImage/Daniel_Crisostomo_LAFC.png
+https://sofifa.com/player/263679/arquimides-ordonez/240002,24.0,A. Ordoñez,Arquimides Ordoñez,Cincinnati,Major League Soccer,Guatemala,GUA,https://cdn.sofifa.net/players/263/679/24_360.png,plotly-dash/assets/playersImage/Arquimides_Ordonez_FC_Cincinnati.png
+https://sofifa.com/player/273548/peter-stroud/240002,24.0,P. Stroud,Peter Stroud,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/273/548/24_360.png,plotly-dash/assets/playersImage/Peter_Stroud_New_York_Red_Bulls.png
+https://sofifa.com/player/274976/alonso-coello/240002,24.0,A. Coello,Alonso Coello Camarero,Toronto FC,Major League Soccer,Spain,ESP,https://cdn.sofifa.net/players/274/976/24_360.png,plotly-dash/assets/playersImage/Alonso_Coello_Toronto_FC.png
+https://sofifa.com/player/256106/luke-haakenson/240002,24.0,L. Haakenson,Luke Haakenson,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/256/106/24_360.png,plotly-dash/assets/playersImage/Luke_Haakenson_Nashville_SC.png
+https://sofifa.com/player/257205/harvey-neville/240002,24.0,H. Neville,Harvey Neville,Inter Miami,Major League Soccer,Republic of Ireland,IRL,https://cdn.sofifa.net/players/257/205/24_360.png,plotly-dash/assets/playersImage/Harvey_Neville_Inter_Miami_C.F..png
+https://sofifa.com/player/261022/bento-estrela/240002,24.0,B. Estrela,Bento Estrela,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/261/022/24_360.png,plotly-dash/assets/playersImage/B._Estrela_New_York_Red_Bulls.png
+https://sofifa.com/player/261639/curtis-ofori/240002,24.0,C. Ofori,Curtis Ofori,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/261/639/24_360.png,plotly-dash/assets/playersImage/C._Ofori_New_York_Red_Bulls.png
+https://sofifa.com/player/259291/christian-torres/240002,24.0,C. Torres,Christian Dominick Torres,LAFC,Major League Soccer,Mexico,MEX,https://cdn.sofifa.net/players/259/291/24_360.png,plotly-dash/assets/playersImage/C._Torres_LAFC.png
+https://sofifa.com/player/272667/hugo-mbongue/240002,24.0,H. Mbongue,Hugo Mbongue,Toronto FC,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/272/667/24_360.png,plotly-dash/assets/playersImage/Hugo-Hilaire_Mbongue_Mbongue_Toronto_FC.png
+https://sofifa.com/player/271109/ahmed-longmire/240002,24.0,A. Longmire,Ahmed Longmire,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/271/109/24_360.png,plotly-dash/assets/playersImage/A._Longmire_Nashville_SC.png
+https://sofifa.com/player/267636/cj-dos-santos/240002,24.0,C. dos Santos,CJ dos Santos,Inter Miami,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/267/636/24_360.png,plotly-dash/assets/playersImage/C.J._dos_Santos_Inter_Miami_C.F..png
+https://sofifa.com/player/274685/patrick-agyemang/240002,24.0,P. Agyemang,Patrick Agyemang,Charlotte,Major League Soccer,Ghana,GHA,https://cdn.sofifa.net/players/274/685/24_360.png,plotly-dash/assets/playersImage/Patrick_Agyemang_Charlotte_FC.png
+https://sofifa.com/player/269091/themi-antonoglou/240002,24.0,T. Antonoglou,Themi Antonoglou,Toronto FC,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/269/091/24_360.png,plotly-dash/assets/playersImage/Themi_Antonoglou_Toronto_FC.png
+https://sofifa.com/player/277916/luka-gavran/240002,24.0,L. Gavran,Luka Gavran,Toronto FC,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/277/916/24_360.png,plotly-dash/assets/playersImage/Luka_Gavran_Toronto_FC.png
+https://sofifa.com/player/275469/jordan-faria/240002,24.0,J. Faria,Jordan Faria,Toronto FC,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/275/469/24_360.png,plotly-dash/assets/playersImage/Jordan_Faria_Toronto_FC.png
+https://sofifa.com/player/256274/laurence-wyke/240002,24.0,L. Wyke,Laurence Wyke,Nashville SC,Major League Soccer,England,ENG,https://cdn.sofifa.net/players/256/274/24_360.png,plotly-dash/assets/playersImage/L._Wyke_Nashville_SC.png
+https://sofifa.com/player/262210/antonio-leone/240002,24.0,A. Leone,Antonio Jeremiah Leone,LAFC,Major League Soccer,Mexico,MEX,https://cdn.sofifa.net/players/262/210/24_360.png,plotly-dash/assets/playersImage/A._Leone_LAFC.png
+https://sofifa.com/player/264366/julian-gaines/240002,24.0,J. Gaines,Julian Gaines,LAFC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/264/366/24_360.png,plotly-dash/assets/playersImage/Julian_Gaines_LAFC.png
+https://sofifa.com/player/270066/steven-sserwadda/240002,24.0,S. Sserwadda,Steven Sserwadda,New York Red Bulls,Major League Soccer,Uganda,UGA,https://cdn.sofifa.net/players/270/066/24_360.png,plotly-dash/assets/playersImage/S._Sserwadda_New_York_Red_Bulls.png
+https://sofifa.com/player/261232/bret-halsey/240002,24.0,B. Halsey,Bret Halsey,Cincinnati,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/261/232/24_360.png,plotly-dash/assets/playersImage/Bret_Halsey_FC_Cincinnati.png
+https://sofifa.com/player/267787/anthony-marcucci/240002,24.0,A. Marcucci,Anthony Marcucci,New York Red Bulls,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/267/787/24_360.png,plotly-dash/assets/playersImage/A._Marcucci_New_York_Red_Bulls.png
+https://sofifa.com/player/276497/lazar-stefanovic/240002,24.0,L. Stefanović,Lazar Stefanović,Toronto FC,Major League Soccer,Canada,CAN,https://cdn.sofifa.net/players/276/497/24_360.png,plotly-dash/assets/playersImage/Lazar_Stefanovic_Toronto_FC.png
+https://sofifa.com/player/266281/chris-hegardt/240002,24.0,C. Hegardt,Christopher Hegardt,Charlotte,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/266/281/24_360.png,plotly-dash/assets/playersImage/Chris_Hegardt_Charlotte_FC.png
+https://sofifa.com/player/277622/joey-skinner/240002,24.0,J. Skinner,Joey Skinner,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/277/622/24_360.png,plotly-dash/assets/playersImage/J._Skinner_Nashville_SC.png
+https://sofifa.com/player/275977/yekeson-subah/240002,24.0,Y. Subah,Yekeson Subah,LAFC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/275/977/24_360.png,plotly-dash/assets/playersImage/Yekeson_Subah_LAFC.png
+https://sofifa.com/player/272817/brandon-cambridge/240002,24.0,B. Cambridge,Brandon Cambridge,Charlotte,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/272/817/24_360.png,plotly-dash/assets/playersImage/Brandon_Cambridge_Charlotte_FC.png
+https://sofifa.com/player/274541/isaiah-foster/240002,24.0,I. Foster,Isaiah Foster,Cincinnati,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/274/541/24_360.png,plotly-dash/assets/playersImage/I._Foster_Cincinnati.png
+https://sofifa.com/player/274534/andrew-privett/240002,24.0,A. Privett,Andrew Privett,Charlotte,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/274/534/24_360.png,plotly-dash/assets/playersImage/Andrew_Privett_Charlotte_FC.png
+https://sofifa.com/player/274539/joey-akpunonu/240002,24.0,J. Akpunonu,Joey Akpunonu,Cincinnati,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/274/539/24_360.png,plotly-dash/assets/playersImage/Joey_Akpunonu_FC_Cincinnati.png
+https://sofifa.com/player/275115/benjamin-martino/240002,24.0,B. Martino,Benjamin Martino,Nashville SC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/275/115/24_360.png,plotly-dash/assets/playersImage/B._Martino_Nashville_SC.png
+https://sofifa.com/player/275365/cole-jensen/240002,24.0,C. Jensen,Cole Jensen,Inter Miami,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/275/365/24_360.png,plotly-dash/assets/footballer.png
+https://sofifa.com/player/276215/diego-rosales/240002,24.0,D. Rosales,Diego Rosales,LAFC,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/276/215/24_360.png,plotly-dash/assets/playersImage/D._Rosales_LAFC.png
+https://sofifa.com/player/274269/paul-walters/240002,24.0,P. Walters,Paul Walters,Cincinnati,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/274/269/24_360.png,plotly-dash/assets/playersImage/P._Walters_Cincinnati.png
+https://sofifa.com/player/275974/nathan-ordaz/240002,24.0,N. Ordaz,Nathan Ordaz,LAFC,Major League Soccer,Mexico,MEX,https://cdn.sofifa.net/players/275/974/24_360.png,plotly-dash/assets/playersImage/Nathan_Ordaz_LAFC.png
+https://sofifa.com/player/275602/gerardo-valenzuela/240002,24.0,G. Valenzuela,Gerardo Valenzuela,Cincinnati,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/275/602/24_360.png,plotly-dash/assets/playersImage/Gerardo_Valenzuela_FC_Cincinnati.png
+https://sofifa.com/player/274543/malik-pinto/240002,24.0,M. Pinto,Malik Pinto,Cincinnati,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/274/543/24_360.png,plotly-dash/assets/playersImage/Malik_Pinto_FC_Cincinnati.png
+https://sofifa.com/player/276245/london-aghedo/240002,24.0,L. Aghedo,London Aghedo,Cincinnati,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/276/245/24_360.png,plotly-dash/assets/playersImage/L._Aghedo_Cincinnati.png
+https://sofifa.com/player/271151/brian-romero/240002,24.0,B. Romero,Brian Romero,Charlotte,Major League Soccer,United States,USA,https://cdn.sofifa.net/players/271/151/24_360.png,plotly-dash/assets/playersImage/B._Romero_Charlotte.png
