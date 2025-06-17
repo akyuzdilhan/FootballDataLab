@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 from common.utils import encode_image
 
@@ -28,3 +29,13 @@ def load_player_stats():
     if df_player_stats is None:
         df_player_stats = load_and_process_player_stats()
     return df_player_stats
+
+def load_match_events(match_id: int) -> pd.DataFrame:
+    path = os.path.join('assets', f'match_{match_id}', 'events.csv')
+    df = pd.read_csv(path)
+    return df
+
+
+def load_match_players(match_id: int) -> list:
+    df = load_match_events(match_id)
+    return sorted(df['player_name'].dropna().unique().tolist())

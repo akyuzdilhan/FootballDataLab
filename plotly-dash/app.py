@@ -8,6 +8,7 @@ from layouts.team_rankings import create_layout as create_team_rankings_layout
 from layouts.player_rankings import create_layout as create_player_rankings_layout
 from callbacks.team_analysis_callbacks import register_callbacks
 from callbacks.rankings_callbacks import register_rankings_callbacks
+from callbacks.match_analysis_callbacks import register_match_analysis_callbacks
 from common.utils import metrics, player_metrics
 
 app = dash.Dash(__name__, suppress_callback_exceptions=True, title='Football DataLab', external_stylesheets=[dbc.themes.BOOTSTRAP])
@@ -36,7 +37,7 @@ app.layout = html.Div([
                     dbc.DropdownMenuItem("Team Rankings", href='/team-rankings'),
                     dbc.DropdownMenuItem("Player Analysis", href='/player-analysis'),
                     dbc.DropdownMenuItem("Player Rankings", href='/player-rankings'),
-                    #dbc.DropdownMenuItem("Match Analysis", href='/match-analysis'),
+                    dbc.DropdownMenuItem("Match Analysis", href='/match-analysis'),
                 ],
                 label=html.Img(src='assets/menu.png', alt='Open menu', className='menu-icon'),
                 direction="down",
@@ -59,6 +60,7 @@ app.layout = html.Div([
                 html.A('Team Rankings', href='/team-rankings', className='page'),
                 html.A('Player Analysis', href='/player-analysis', className='page'),
                 html.A('Player Rankings', href='/player-rankings', className='page'),
+                html.A('Match Analysis', href='/match-analysis', className='page'),
             ],
             className='nav-links',
             id='nav-links'
@@ -91,6 +93,7 @@ app.layout = html.Div([
 
 register_callbacks(app, df_team_stats)
 register_rankings_callbacks(app, df_team_stats, df_player_stats, metrics, player_metrics)
+register_match_analysis_callbacks(app)
 
 import callbacks.home_callbacks
 
@@ -109,10 +112,10 @@ def display_page(pathname):
         return player_analysis.layout
     elif pathname == '/player-rankings':
         return create_player_rankings_layout()
-    #elif pathname == '/match-analysis':
-        #return match_analysis.layout
+    elif pathname == '/match-analysis':
+        return match_analysis.layout
     else:
         return home.layout
 
 if __name__ == '__main__':
-    app.run_server(debug=True) # app.run_server(host='0.0.0.0', port=8050, debug=False)
+    app.run(debug=True) # app.run_server(host='0.0.0.0', port=8050, debug=False)

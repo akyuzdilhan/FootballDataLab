@@ -1,0 +1,23 @@
+jersey_number,match_id,id,player_id,player_name,position_id,position_name,event_tactics_id,short_name,image_path,tactics_formation,team_name
+1,3877115,a1004642-1b04-42c6-93ce-362b3f9dcc7f,42373,Drake Callender,1,Goalkeeper,1,D. Callender,plotly-dash/assets/playersImage/Drake_Callender_Inter_Miami_C.F..png,352,Inter Miami
+6,3877115,a1004642-1b04-42c6-93ce-362b3f9dcc7f,366752,Tomás Agustín Avilés Mancilla,3,Right Center Back,2,T. Avilés,plotly-dash/assets/playersImage/Tomás_Avilés_Inter_Miami_C.F..png,352,Inter Miami
+27,3877115,a1004642-1b04-42c6-93ce-362b3f9dcc7f,18618,Serhiy Kryvtsov,4,Center Back,3,S. Kryvtsov,plotly-dash/assets/playersImage/Serhiy_Kryvtsov_Inter_Miami_C.F..png,352,Inter Miami
+31,3877115,a1004642-1b04-42c6-93ce-362b3f9dcc7f,23828,Kamal Miller,5,Left Center Back,4,K. Miller,plotly-dash/assets/playersImage/Kamal_Miller_Montreal_Impact.png,352,Inter Miami
+2,3877115,a1004642-1b04-42c6-93ce-362b3f9dcc7f,3658,DeAndre Yedlin,7,Right Wing Back,5,D. Yedlin,plotly-dash/assets/playersImage/DeAndre_Yedlin_Inter_Miami_C.F..png,352,Inter Miami
+18,3877115,a1004642-1b04-42c6-93ce-362b3f9dcc7f,5211,Jordi Alba Ramos,8,Left Wing Back,6,Jordi Alba,plotly-dash/assets/playersImage/Jordi_Alba_Inter_Miami_C.F..png,352,Inter Miami
+5,3877115,a1004642-1b04-42c6-93ce-362b3f9dcc7f,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,7,Sergio Busquets,plotly-dash/assets/playersImage/Sergio_Busquets_Inter_Miami_C.F..png,352,Inter Miami
+41,3877115,a1004642-1b04-42c6-93ce-362b3f9dcc7f,225210,David Ruiz,13,Right Center Midfield,8,D. Ruiz,plotly-dash/assets/playersImage/David_Ruiz_Inter_Miami_C.F..png,352,Inter Miami
+11,3877115,a1004642-1b04-42c6-93ce-362b3f9dcc7f,32878,Facundo Farías,15,Left Center Midfield,9,F. Farías,plotly-dash/assets/playersImage/Facundo_Farías_Inter_Miami_C.F..png,352,Inter Miami
+10,3877115,a1004642-1b04-42c6-93ce-362b3f9dcc7f,5503,Lionel Andrés Messi Cuccittini,22,Right Center Forward,10,L. Messi,plotly-dash/assets/playersImage/Lionel_Messi_Inter_Miami_C.F..png,352,Inter Miami
+17,3877115,a1004642-1b04-42c6-93ce-362b3f9dcc7f,12619,Josef Alexander Martínez Mencia,24,Left Center Forward,11,J. Martínez,plotly-dash/assets/playersImage/Josef_Martínez_Inter_Miami_C.F..png,352,Inter Miami
+30,3877115,c792ec58-0657-42f2-8c27-a391def7aef1,35393,Tomas Lían Romero Keubler,1,Goalkeeper,1,T. Romero,plotly-dash/assets/playersImage/Tomas_Romero_Toronto_FC.png,433,Toronto FC
+19,3877115,c792ec58-0657-42f2-8c27-a391def7aef1,226488,Kobe Franklin,2,Right Back,2,K. Franklin,plotly-dash/assets/playersImage/Kobe_Franklin_Toronto_FC.png,433,Toronto FC
+17,3877115,c792ec58-0657-42f2-8c27-a391def7aef1,23645,Sigurd Rosted,3,Right Center Back,3,S. Rosted,plotly-dash/assets/playersImage/Sigurd_Rosted_Toronto_FC.png,433,Toronto FC
+4,3877115,c792ec58-0657-42f2-8c27-a391def7aef1,12765,Michael Bradley,5,Left Center Back,4,M. Bradley,plotly-dash/assets/playersImage/Michael_Bradley_Toronto_FC.png,433,Toronto FC
+28,3877115,c792ec58-0657-42f2-8c27-a391def7aef1,29005,Raoul Petretta,6,Left Back,5,R. Petretta,plotly-dash/assets/playersImage/Raoul_Petretta_Toronto_FC.png,433,Toronto FC
+52,3877115,c792ec58-0657-42f2-8c27-a391def7aef1,229444,Alonso Coello Camarero,10,Center Defensive Midfield,6,A. Coello,plotly-dash/assets/playersImage/Alonso_Coello_Toronto_FC.png,433,Toronto FC
+8,3877115,c792ec58-0657-42f2-8c27-a391def7aef1,12772,Víctor Vázquez Solsona,13,Right Center Midfield,7,Víctor Vázquez,plotly-dash/assets/playersImage/Víctor_Vázquez_Toronto_FC.png,433,Toronto FC
+21,3877115,c792ec58-0657-42f2-8c27-a391def7aef1,12770,Jonathan Osorio,15,Left Center Midfield,8,J. Osorio,plotly-dash/assets/playersImage/Jonathan_Osorio_Toronto_FC.png,433,Toronto FC
+10,3877115,c792ec58-0657-42f2-8c27-a391def7aef1,7777,Federico Bernardeschi,17,Right Wing,9,F. Bernardeschi,plotly-dash/assets/playersImage/Federico_Bernardeschi_Toronto_FC.png,433,Toronto FC
+24,3877115,c792ec58-0657-42f2-8c27-a391def7aef1,7037,Lorenzo Insigne,21,Left Wing,10,L. Insigne,plotly-dash/assets/playersImage/Lorenzo_Insigne_Toronto_FC.png,433,Toronto FC
+29,3877115,c792ec58-0657-42f2-8c27-a391def7aef1,205820,Deandre Kerr,23,Center Forward,11,D. Kerr,plotly-dash/assets/playersImage/Deandre_Kerr_Toronto_FC.png,433,Toronto FC
